@@ -405,6 +405,8 @@ footer{
     object-position: 50% 50%;
     min-width: 100%;
     min-height: 100%;
+    display: none;
+
   }
 
   .inicio img#logo007 {
