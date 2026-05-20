@@ -405,13 +405,11 @@ footer{
     object-position: 50% 50%;
     min-width: 100%;
     min-height: 100%;
-    display: none;
-
   }
 
   .inicio img#logo007 {
     position: absolute;
-    margin-top: 10%;
+    margin-top: 8%;
     width: 80%;
   }
 
