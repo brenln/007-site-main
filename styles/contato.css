@@ -1,0 +1,273 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    flex-direction: column;
+    height: 100%;
+}
+
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-left: 4%;
+
+}
+
+.imgcontato {
+    width: 50%;
+    top: 5%;
+    position: absolute;
+    right: 0%;
+}.imgsobre2 {
+    position: absolute;
+    transform: scaleX(-1);
+    top: -25%;
+    width: 90%;
+    left: -40%;
+    overflow: hidden;
+}
+
+.conteudo h1, p {
+    position: absolute;
+    font-family: "JetBrains Mono", monospace;
+    z-index: 1;
+}
+.conteudo h1 {
+    top: 20%;
+    font-size: clamp(2rem, 5vw + 0.2rem, 6rem);
+    margin-bottom: 2rem;
+    left: 4%;
+    text-align: center;
+}
+.conteudo p {
+    top: 35%;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.formulario {
+    margin-top: 15%;
+    width: 100%;
+    max-width: 32rem;
+    font-size: 1.125rem;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.formulario label, .formulario input, .formulario textarea, .formulario button {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.formulario input, .formulario textarea {
+    padding: 0.75rem;
+    border: none;
+    border-radius: 20px;
+    font-size: 1rem;
+    color: #000000;
+}
+.formulario textarea {
+    min-height: 8rem;
+    resize: none;
+}
+
+.formulario button {
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: block;
+    border: none;
+    max-width: 10rem;
+    padding: 1rem;
+    cursor: pointer;
+    background: linear-gradient(to right, #073BD9 0%, #000000 100%);
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    color: white;
+}
+
+.formulario button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #14D921 0%, #000000 100%);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    z-index: 1;
+}
+
+.formulario button:hover::before {
+    opacity: 1;
+}
+
+.formulario button span {
+    position: relative;
+    z-index: 2;
+}
+
+@media (min-width: 1365px) and (max-width: 1600px) {
+    .formulario {
+        margin-top: 16rem;
+        width: 30%;
+    }
+    .imgcontato {
+        margin-top: 3rem;
+        width: 40rem;
+    }
+    .formulario textarea {
+        min-height: 4rem;
+    }
+    
+    .conteudo h1 {
+        font-size: 4rem;
+    }
+
+    .conteudo p {
+        width: 500px;
+        font-size: 1rem;
+        margin-top: -1rem;
+    }
+    
+}
+
+@media (max-width: 1200px){
+    .formulario {
+        margin-top: 16rem;
+        width: 30%;
+    }
+    .imgcontato {
+        margin-top: 7rem;
+        width: 50%;
+    }
+    .formulario textarea {
+        min-height: 4rem;
+    }
+    
+    .conteudo h1 {
+        font-size: 4rem;
+    }
+
+    .conteudo p {
+        width: 500px;
+        font-size: 1rem;
+        margin-top: -1rem;
+    }
+}
+
+@media (max-width: 768px) and (min-width: 577px){
+    .imgcontato {
+        margin-top: 30%;
+        width: 60%;
+    }
+    .imgsobre2 {
+        top: 0%;
+    }
+}
+
+@media (max-width: 576px) {
+    body {
+        overflow-x: hidden;
+        overflow-y: auto;
+        height: auto;
+    }
+
+    main {
+        justify-content: center;
+        align-items: flex-start;
+        margin-left: 0;
+        padding: 20px;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .imgcontato {
+        position: relative;
+        width: 90%;
+        top: 0;
+        right: 0;
+        margin: 0 auto 20px auto;
+        order: 2;
+    }
+
+    .imgsobre2 {
+        width: 100%;
+        top: 10%;
+        z-index: 0;
+    }
+
+    .conteudo h1 {
+        margin-top: 150%;
+        position: relative;
+        top: 0;
+        left: 0;
+        font-size: 2rem;
+        margin-bottom: 1rem;
+        text-align: center;
+        width: 100%;
+    }
+
+    .conteudo p {
+        position: relative;
+        top: 0;
+        font-size: 0.9rem;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        width: 100%;
+        padding: 0 15px;
+        display: block !important;
+    }
+
+    .formulario {
+        width: 100%;
+        max-width: 100%;
+        font-size: 1rem;
+        order: 1;
+        margin-top: 2%;
+    }
+
+    .formulario label,
+    .formulario input,
+    .formulario textarea,
+    .formulario button {
+        width: 100%;
+        margin-bottom: 0.8rem;
+    }
+
+    .formulario input,
+    .formulario textarea {
+        padding: 0.6rem;
+        font-size: 0.9rem;
+        border-radius: 15px;
+    }
+
+    .formulario textarea {
+        min-height: 6rem;
+    }
+
+    .formulario button {
+        max-width: 50%;
+        padding: 0.8rem;
+        font-size: 1rem;
+        margin: 10px auto;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+}

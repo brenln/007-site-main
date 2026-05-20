@@ -1,0 +1,110 @@
+.ranking {
+    pointer-events: none;
+}
+
+.ranking #g1 {
+    position: absolute;
+    margin-top: 510px;
+    left: 2%;
+} .ranking #g2 {
+    position: absolute;
+    margin-top: 510px;
+    right: 20%;
+}
+
+.titulo h1 {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 6rem;
+    position: absolute;
+    top: 130px;
+    left: 3%;
+}
+
+.titulo p {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 1rem;
+    left: 4%;
+}.titulo #p1 {
+    position: absolute;
+    top: 260px;
+}.titulo #p2 {
+    position: absolute;
+    top: 280px;
+}.titulo #p3 {
+    position: absolute;
+    top: 300px;
+} .cor{
+    font-family: "JetBrains Mono", monospace;
+    color: #14D921;
+}
+
+.elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
+    position: absolute;
+    width: 60%;
+    left: 4%;
+    top: 345px;
+}
+
+@media (min-width: 1365px) and (max-width: 1600px) {
+    .ranking #g1 {
+    margin-top: 510px;
+    left: 2%;
+    } .ranking #g2 {
+        margin-top: 510px;
+        right: 2%;
+    }
+    .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
+    top: 350px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .titulo h1 {
+    font-size: 5rem;
+    }
+    .ranking #g1 {
+    margin-top: 550px;
+    left: 0%;
+    } 
+    .ranking #g2 {
+    margin-top: 950px;
+    left: 0%;
+    }
+    
+    .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
+    top: 350px;
+    }   
+}
+
+@media (max-width: 576px) {
+    .titulo h1 {
+    font-size: 3rem;
+    left: 5%;
+    }
+    .ranking #g1 {
+    margin-top: 710px;
+    right: 2%;
+    } 
+    .ranking #g2 {
+    margin-top: 1110px;
+    }
+    .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
+    width: 40%;
+    top: 445px;
+    }
+    .titulo p {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 1rem;
+    left: 4%;
+    }.titulo #p1 {
+        top: 280px;
+    }.titulo #p2 {
+        top: 320px;
+    }.titulo #p3 {
+        top: 360px;
+    }
+
+
+
+
+}

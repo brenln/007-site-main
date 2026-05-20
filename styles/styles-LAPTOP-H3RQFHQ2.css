@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=SUSE+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@font-face {
+    font-family: 'Nero';
+    src:url('../fonts/Nero.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #04030f;
+    min-height: 100vh;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.logo-img {
+    width: 90px;
+    height: auto;
+    filter: invert(1);
+    pointer-events: none;
+}
+
+.navegacao a {
+    padding: 6px 10px;
+    border-radius: 10px;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: 100;
+    font-family: 'Nero', sans-serif;
+    letter-spacing: 5px;
+}
+
+.navegacao a:hover,
+.navegacao .ativo {
+    font-weight: bold;
+    letter-spacing: 7px;
+    color: #14D921;
+    transition: all 0.3s ease;
+}
+
+.inicio {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+#backgroundmoco {
+    position: absolute; /*absolute ou fixed se quiser que fique preso à tela */
+    top: 0;
+    left: 0;
+    width: 100%;       /* largura sempre 100% da tela */
+    height: auto;      /* altura proporcional à largura */
+    min-height: 100vh; /* garante que cubra no mínimo a tela inteira */
+    object-fit: cover; /* cobre a área sem distorcer */
+    object-position: center;
+    opacity: 0.25;
+    pointer-events: none;
+    z-index: -1;
+}.inicio > *:not(#backgroundmoco) {
+    position: relative;
+    z-index: 1;
+}
+
+.inicio img#logo007 {
+    position: absolute;
+    top: -25%;
+    left: 0%;
+    width: 70%;
+    pointer-events: none;
+    filter: invert(1);
+}.inicio img#logocorp{
+    position: absolute;
+    width: 50%;
+    right: -20%;
+    top: 5%;
+    pointer-events: none;
+}#descricao {
+    font-family: "SUSE Mono", monospace;
+    position: relative;
+    font-size: 1vw;
+    margin-top: 10%;
+    margin-right: 42%;
+}
+.quadrados-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    pointer-events: none;
+}#quadrado1{
+    position: absolute;
+    width: 100%;
+    top: -100%;
+    margin-left: 0%;
+}#quadrado2{
+    position: absolute;
+    top: -20%;
+    margin-left: -25%;
+}#quadrado3{
+    position: absolute;
+    top: -15%;
+    margin-left: -18%;
+}
+
+.conteudo{
+    pointer-events: none;
+}
+.conteudo h1{
+    position: absolute;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 5rem;
+    left: 15%;
+    top: 130%;
+}#imagem-conteudo-1{
+    position: absolute;
+    top: 120%;
+}#imagem-conteudo-2{
+    position: absolute;
+    top: 100%;
+    right: 0%;
+}#imagem-conteudo-3{
+    position: absolute;
+    top: 180%;
+}#imagem-conteudo-4{
+    position: absolute;
+    top: 240%;
+    right: 0%;
+}#imagem-conteudo-5{
+    position: absolute;
+    top: 140%;
+    width: 90%;
+    right: -40%;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.conteudo  h2 {
+    position: absolute;
+    font-family: "JetBrains Mono", monospace;
+    left: 55%;
+    max-width: 40%;
+    text-shadow: #000000 0px 2px 1px;
+    top: 190%;
+}
+
+.conteudo #descricao{
+    font-size: 1rem;
+    position: absolute;
+    font-family: "JetBrains Mono", monospace;
+    position: relative;
+    left: 55%;
+    max-width: 40%;
+    line-height: 2.5;
+    margin-top: -1%;
+    text-shadow: #000000 0px 2px 1px;
+}.conteudo strong{
+    font-size: 1.2rem;
+    font-family: "JetBrains Mono", monospace;
+}
+
+footer{
+    margin-top: 100vh; 
+    margin-top: 100dvh; 
+    text-align: center;
+    background-color: #ff0000;
+} footer p{
+    margin-top: 2%;
+} footer span{
+    font-family: 'Nero', sans-serif;
+    font-size: 6rem;
+    pointer-events: none;
+    margin: 0%;
+}
+#linhafooter{
+    padding: 2px;
+    background: linear-gradient(to right, #14D921 0%, #000000 100%);
+    border: none;
+}
+
+.footericon img{
+    flex-direction: row;
+    right: 0%;
+    width: 2%;
+    filter: invert(1);
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin: 1%;
+}

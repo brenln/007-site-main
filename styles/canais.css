@@ -1,0 +1,291 @@
+body{
+    display: block;
+    overflow: hidden;
+}
+
+.canais h1{
+    font-family: "JetBrains Mono", monospace;
+    font-size: 6rem;
+    position: relative;
+    margin-left: 65%;
+    margin-top: 15%;
+    margin-bottom: 3rem;
+}  
+.canais h2{
+    margin-left: 65%;
+    font-family: "JetBrains Mono", monospace;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+.canais p{
+    margin-bottom: 0.5rem;
+    font-family: "JetBrains Mono", monospace;
+    position: relative;
+    margin-left: 65%;
+}.canais #dddgreen{
+    color: #14D921;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.canais img#ddd{
+    position: absolute;
+    width: 3%;
+    top: 70%;
+    right: 30%;
+    filter: invert(1);
+}.canais img#ttt{
+    position: absolute;
+    width: 3%;
+    top: 70%;
+    right: 25%;
+    filter: invert(1);
+}.canais img#yyy{
+    position: absolute;
+    width: 3%;
+    top: 70%;
+    right: 20%;
+    filter: invert(1);
+}.canais #botao{
+    position: absolute;
+    padding: 1rem;
+    top: 80%;
+    right: 23%;
+    border: none;
+    max-width: 10rem;
+    display: block;
+    letter-spacing: 1px;
+    font-weight: bold;
+    cursor: pointer;
+    background: linear-gradient(to right,#073BD9 0%, #000000 100%);
+    color: white;
+}
+
+.canais button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #14D921 0%, #000000 100%);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    z-index: 1;
+}
+
+.canais button:hover::before {
+    opacity: 1;
+}
+
+.canais button span {
+    position: relative;
+    z-index: 2;
+}
+
+.canais img#img1{
+    position: absolute;
+    top: 0%;
+    left: -5%;
+    pointer-events: none;
+}.canais img#img2{
+    position: absolute;
+    width: 30%;
+    top: 45%;
+    left: 30%;
+    pointer-events: none;
+}
+
+.imgsobre2 {
+    position: absolute;
+    top: -25%;
+    width: 90%;
+    right: -40%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+
+@media (max-width: 1200px){
+    .canais img#img1{
+        width: 68%;
+        left: -10%;
+    }
+
+    .canais img#img2{
+        width: 40%;
+        top: 45%;
+        margin-left: -8%;
+    }
+    .canais h1{
+        margin-left: 59%;
+    }
+    .canais h2{
+        margin-top: -3%;
+        font-size: 1rem;
+        margin-left: 60%;
+    }
+    .canais p{
+        margin-top: -2%;
+        font-size: 1rem;
+        margin-left: 60%;
+
+    }
+
+}
+
+@media (min-width: 1365px) and (max-width: 1600px) {
+    .canais img#img1{
+        width: 50%;
+    }
+
+    .canais img#img2{
+        width: 40%;
+        top: 30%;
+        margin-left: -8%;
+    }
+    .canais h1{
+        margin-left: 59%;
+    }
+    .canais h2{
+        margin-top: -3%;
+        font-size: 1rem;
+        margin-left: 60%;
+    }
+    .canais p{
+        margin-top: -2%;
+        font-size: 1rem;
+        margin-left: 60%;
+
+    }
+
+}
+
+@media (max-width: 768px) and (min-width: 577px){
+    body{
+    display: block;
+    overflow-y: hidden;
+}
+    .imgsobre2 {
+        margin-top: 25%;
+        width: 100%;
+    }
+    .canais img#img1{
+        position: absolute;
+        width: 60%;
+        top: 25%;
+        left: -7%;
+    }
+    .canais img#img2{
+        width: 40%;
+        top: 60%;
+        left: 32%;
+    }
+    .canais h1{
+        margin-left: 50%;
+    }
+    .canais h2{
+        font-size: 1rem;
+        margin-left: 50%;
+    }
+    .canais p{
+        font-size: 1rem;
+        margin-left: 50%;
+    }
+    .canais img#ddd{
+        position: absolute;
+        top: 50%;
+        right: 45%;
+        width: 5%;
+    }
+    .canais img#ttt{
+        position: absolute;
+        top: 50%;
+        right: 35%;
+        width: 5%;
+    }
+    .canais img#yyy{
+        position: absolute;
+        top: 50%;
+        right: 25%;
+        width: 5%;
+    }
+    .canais #botao{
+        position: absolute;
+        top: 60%;
+        left: 60%;
+        width: 100%;
+    }
+
+    
+}
+
+@media (max-width: 576px) {
+    body{
+    display: block;
+    overflow: hidden;
+    }
+
+    .canais img#img1{
+        position: absolute;
+        top: 70%;
+        width: 80%;
+    }
+    .canais img#img2{
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        width: 60%;
+    }
+    .imgsobre2 {
+        display: none;
+    }
+    .canais h1{
+        font-size: 3rem;
+        right: 50%;
+        margin-top: 30%;
+    }
+    .canais h2{
+        right: 50%;
+        font-size: 1rem;
+        margin-top: -10%;
+        width: 90%;
+    }
+    .canais p{
+        margin-top: -10%;
+        right: 54%;
+        padding: 0 15px;
+        font-size: 0.9em;
+        width: 90%;
+    }
+    .canais img#ddd{
+        position: absolute;
+        top: 50%;
+        right: 80%;
+        width: 8%;
+    }
+    .canais img#ttt{
+        position: absolute;
+        top: 50%;
+        right: 65%;
+        width: 8%;
+    }
+    .canais img#yyy{
+        position: absolute;
+        top: 50%;
+        right: 50%;
+        width: 8%;
+    }
+    .canais #botao{
+        position: absolute;
+        top: 60%;
+        right: 50%;
+    }
+
+}
+
+
+
+
+
+

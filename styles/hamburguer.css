@@ -1,0 +1,81 @@
+.hamburguer {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 22px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    right: -20%;
+    z-index: 2001;
+}
+
+.hamburguer span {
+    display: block;
+    height: 4px;
+    width: 100%;
+    background: white;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.hamburguer.ativo span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+.hamburguer.ativo span:nth-child(2) {
+    opacity: 0;
+}
+.hamburguer.ativo span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -8px);
+}
+
+.navegacao {
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+
+@media (max-width: 1000px) {
+.hamburguer {
+    display: flex;
+    left: 5%;
+}
+
+.navegacao {
+    position: absolute;
+    top: 70px;
+    right: 0;
+    background: rgba(0, 0, 0, 0.95);
+    flex-direction: column;
+    width: 200px;
+    height: 0;
+    overflow: hidden;
+    transition: height 0.3s ease;
+    border-radius: 8px 0 0 8px;
+}
+
+.navegacao.ativo {
+    height: 250px;
+    padding: 10px 0;
+}
+
+.navegacao a {
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.navegacao a:hover {
+    background-color: #14D921 ;
+}
+
+.logo-img {
+    width: 80px;
+    margin-left: -50%;
+}
+
+}
+

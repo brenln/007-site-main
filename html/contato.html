@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>007</title>
+    <link rel="stylesheet" href="../styles/styles.css">
+    <link rel="stylesheet" href="../styles/hamburguer.css">
+    <link rel="stylesheet" href="../styles/contato.css">
+    <link rel="icon" href="../image/FaviconBFavicon007.svg" type="image/svg" sizes="32x32">
+
+</head>
+
+<body>
+
+    <header>
+
+        <a href="/index.html"><img src="../image/2.svg" alt="Logo 007" class="logo-img"></a>
+        
+        <button class="hamburguer" id="hamburguer">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+
+
+        <nav class="navegacao" id="navegacao">
+            <a href="/index.html">Inicio</a>
+            <a href="ranking.html">Ranking</a>
+            <a href="canais.html">Canais</a>
+            <a href="sobre.html">Sobre</a>
+            <a href="contato.html" class="ativo">Contato</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="conteudo">
+            <h1>ENTRE EM CONTATO</h1>
+            <p> É só preencher o formulário que em breve o nosso esquadrão de inteligência entrará em contato. </p>
+        </div>
+
+        <form action="https://formsubmit.co/brenofortesdealmeida@hotmail.com" method="POST" class="formulario">
+
+            <label for="name">NOME</label>
+            <input type="text" name="name" id="name" required>
+            <label for="email">E-MAIL</label>
+            <input type="email" name="email" id="email" required>
+            <label for="message">MENSAGEM</label>
+            <textarea name="message" id="message" id="message" required></textarea>
+            <button type="submit"><span>ENVIAR &#10143;</span></button>
+            <input type="hidden" name="_next" value="http://127.0.0.1:5501/html/obrigado.html">   
+        </form>
+            <img src="../image/23.svg" class="imgsobre2" alt="Imagem decorativa sobre">
+            <img src="../image/28.svg" class="imgcontato">
+        
+    </main>
+
+    
+
+    <script src="../scripts/hamburguer.js"></script>
+
+
+</body>
+</html>
