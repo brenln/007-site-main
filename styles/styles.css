@@ -657,7 +657,7 @@ footer{
 
   .inicio img#logo007 {
     position: absolute;
-    top: 25%;
+    top: 30%;
     left: 50%;
     width: 100%;
     transform: translate(-50%, -25%);
@@ -669,6 +669,10 @@ footer{
     right: -20%;
     top: 60%;
     z-index: 2;
+  }
+  .inicio #descricao,
+  #descricao{
+    margin-top: 25%;
   }
 
   /*.inicio #descricao,
