@@ -83,6 +83,7 @@ body {
         overflow-x: hidden;
         overflow-y: auto;
         height: auto;
+        display: block;
     }
     .sobre {
         margin-top: -25%;
