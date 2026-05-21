@@ -170,6 +170,7 @@ main {
     .imgcontato {
         margin-top: 30%;
         width: 60%;
+        display: none;
     }
     .imgsobre2 {
         top: 0%;
