@@ -327,14 +327,14 @@ footer{
 
     .inicio img#logo007 {
         position: absolute;
-        top: -16%;
+        top: 10%;
         left: -2%;
         pointer-events: none;
         filter: invert(1);
         width: 80%;
     }
     .inicio #descricao {
-    margin-top: 12%;
+    margin-top: 0%;
     margin-left: 5%;
     }
     .inicio img#logocorp{
