@@ -667,8 +667,8 @@ footer{
   .inicio img#logocorp {
     width: 60%;
     right: -20%;
-    top: 56%;
-    opacity: 0.8;
+    top: 60%;
+    z-index: 2;
   }
 
   .inicio #descricao,

@@ -93,7 +93,7 @@
     }
     .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
     width: 40%;
-    top: 445px;
+    top: 447px;
     }
     .titulo p {
     font-family: "JetBrains Mono", monospace;
@@ -105,6 +105,8 @@
         top: 320px;
     }.titulo #p3 {
         top: 360px;
+    }.titulo #p4 {
+        top: 400px;
     }
 
 
