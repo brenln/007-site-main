@@ -145,11 +145,11 @@ main {
 @media (max-width: 1200px){
     .formulario {
         margin-top: 16rem;
-        width: 30%;
+        width: 40%;
     }
     .imgcontato {
-        margin-top: 7rem;
-        width: 50%;
+        margin-top: 40%;
+        width: 55%;
     }
     .formulario textarea {
         min-height: 4rem;
@@ -162,7 +162,10 @@ main {
     .conteudo p {
         width: 500px;
         font-size: 1rem;
-        margin-top: -1rem;
+        margin-top: -5rem;
+    }
+    .imgsobre2 {
+        top: 25%;
     }
 }
 
@@ -170,7 +173,6 @@ main {
     .imgcontato {
         margin-top: 30%;
         width: 60%;
-        display: none;
     }
     .imgsobre2 {
         top: 0%;
