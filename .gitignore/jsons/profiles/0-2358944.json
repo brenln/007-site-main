@@ -1,0 +1,1291 @@
+{
+  "accountHigh": 0,
+  "accountLow": 2358944,
+  "accountId": "0-2358944",
+  "name": "007 | WNB",
+  "currentLevel": 65,
+  "careerLevel": 142,
+  "collectorLevel": 35,
+  "eliteMerits": 9818,
+  "hasElitePass": false,
+  "bannerId": 7000027,
+  "title": {
+    "high": 0,
+    "low": 5800016,
+    "rowId": 5800016
+  },
+  "recentChars": [
+    {
+      "rowId": 6800079,
+      "resolved": {
+        "name": "DragonlingWalkingPrison",
+        "tid": "TID_DRAGONLING_WALKING_PRISON",
+        "fileId": 68,
+        "rowId": 79
+      }
+    },
+    {
+      "rowId": 6800095,
+      "resolved": {
+        "name": "RunningNpcSlimyBoss",
+        "tid": "TID_RUNNINGNPC",
+        "fileId": 68,
+        "rowId": 95
+      }
+    },
+    {
+      "rowId": 6800091,
+      "resolved": {
+        "name": "DragonlingFriendlySoldierSoloRanged",
+        "tid": "TID_SOLDIER",
+        "fileId": 68,
+        "rowId": 91
+      }
+    },
+    {
+      "rowId": 6800125,
+      "resolved": {
+        "name": "BeetleWeakDasherHard",
+        "tid": "TID_BEETLE_DASHER2",
+        "fileId": 68,
+        "rowId": 125
+      }
+    },
+    {
+      "rowId": 6800097,
+      "resolved": {
+        "name": "RunningNpcTutorialIdle2",
+        "tid": null,
+        "fileId": 68,
+        "rowId": 97
+      }
+    },
+    {
+      "rowId": 6800079,
+      "resolved": {
+        "name": "DragonlingWalkingPrison",
+        "tid": "TID_DRAGONLING_WALKING_PRISON",
+        "fileId": 68,
+        "rowId": 79
+      }
+    },
+    {
+      "rowId": 6800095,
+      "resolved": {
+        "name": "RunningNpcSlimyBoss",
+        "tid": "TID_RUNNINGNPC",
+        "fileId": 68,
+        "rowId": 95
+      }
+    },
+    {
+      "rowId": 6800091,
+      "resolved": {
+        "name": "DragonlingFriendlySoldierSoloRanged",
+        "tid": "TID_SOLDIER",
+        "fileId": 68,
+        "rowId": 91
+      }
+    },
+    {
+      "rowId": 6800125,
+      "resolved": {
+        "name": "BeetleWeakDasherHard",
+        "tid": "TID_BEETLE_DASHER2",
+        "fileId": 68,
+        "rowId": 125
+      }
+    },
+    {
+      "rowId": 6800097,
+      "resolved": {
+        "name": "RunningNpcTutorialIdle2",
+        "tid": null,
+        "fileId": 68,
+        "rowId": 97
+      }
+    }
+  ],
+  "showcaseBadges": [
+    {
+      "rowId": 79,
+      "resolved": {
+        "name": "HunterMonsterX",
+        "tid": "TID_BADGE_BONUS_PASS_S1",
+        "fileId": 69,
+        "rowId": 79,
+        "iconAsset": "badge_hunter_04",
+        "baseIconAsset": null,
+        "type": "SINGLE",
+        "level": 0
+      }
+    },
+    {
+      "rowId": 95,
+      "resolved": {
+        "name": "Skin_Collector",
+        "tid": "TID_BADGE_SKIN_COLLECTOR_TITLE",
+        "fileId": 69,
+        "rowId": 95,
+        "iconAsset": null,
+        "baseIconAsset": "badge_collector",
+        "type": "SKIN_COLLECTOR",
+        "level": 0
+      }
+    },
+    {
+      "rowId": 91,
+      "resolved": {
+        "name": "TrophySeason1_12",
+        "tid": "TID_BADGE_TROPHY_TITLE",
+        "fileId": 69,
+        "rowId": 91,
+        "iconAsset": null,
+        "baseIconAsset": "badge_trophy",
+        "type": "TIERS",
+        "level": 11
+      }
+    },
+    {
+      "rowId": 125,
+      "resolved": {
+        "name": "TrophySeason2_7",
+        "tid": "TID_BADGE_TROPHY_TITLE",
+        "fileId": 69,
+        "rowId": 125,
+        "iconAsset": null,
+        "baseIconAsset": "badge_trophy_02",
+        "type": "TIERS",
+        "level": 6
+      }
+    },
+    {
+      "rowId": 97,
+      "resolved": {
+        "name": "Season_1_Vibestaff",
+        "tid": "TID_cos_player_badge_season_1_vibestaff",
+        "fileId": 69,
+        "rowId": 97,
+        "iconAsset": "badge_season_01_vibestaff",
+        "baseIconAsset": null,
+        "type": "SINGLE",
+        "level": 0
+      }
+    }
+  ],
+  "ownedGems": [],
+  "skinUuids": [
+    "4b9f0096-c119-fd32-813d-5e4ac4a503ec",
+    "4b9f0096-7319-e582-d349-6fe9c9807d29",
+    "4b9f0096-3754-3c0a-77e6-2b31b46fe7e1"
+  ],
+  "equippedGear": [
+    {
+      "rowId": 2900869,
+      "resolved": {
+        "name": "ChaosSpitterWeapon",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 869
+      }
+    },
+    {
+      "rowId": 2901576,
+      "resolved": {
+        "name": "ShotbowWeapon",
+        "tid": "TID_SHOTBOW_WEAPON",
+        "fileId": 29,
+        "rowId": 1576
+      }
+    },
+    {
+      "rowId": 2904829,
+      "resolved": null
+    },
+    {
+      "rowId": 2900585,
+      "resolved": {
+        "name": "DragonlingBossSpiritDash2",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 585
+      }
+    },
+    {
+      "rowId": 2985276,
+      "resolved": null
+    }
+  ],
+  "extraSkinUuid": "24-f93df475-3125-4c36-836e-10116817a500",
+  "equippedBadges": [],
+  "weaponsCollected": 10,
+  "monstersHunted": 174290,
+  "hunterSinceDay": 20301,
+  "hunterSince": "2025-08-01",
+  "battleKits": [
+    {
+      "kitId": 6700000,
+      "kitRow": 0,
+      "equippedGems": [
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1976,
+          "type": "Damage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1988,
+          "type": "Cooldown",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2004,
+          "type": "Dodge",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2005,
+          "type": "Dodge",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1977,
+          "type": "Damage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1989,
+          "type": "Cooldown",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2006,
+          "type": "Dodge",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1990,
+          "type": "Cooldown",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "SmartBow",
+        "tid": "TID_SMARTBOW",
+        "fileId": 67,
+        "rowId": 0
+      }
+    },
+    {
+      "kitId": 6700011,
+      "kitRow": 11,
+      "equippedGems": [
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1976,
+          "type": "Damage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2000,
+          "type": "HealingReceived",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2001,
+          "type": "HealingReceived",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1996,
+          "type": "Health",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1997,
+          "type": "Health",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1977,
+          "type": "Damage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1998,
+          "type": "Health",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "Hammer",
+        "tid": "TID_HAMMER",
+        "fileId": 67,
+        "rowId": 11
+      }
+    },
+    {
+      "kitId": 6700006,
+      "kitRow": 6,
+      "equippedGems": [
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1980,
+          "type": "CriticalDamage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1984,
+          "type": "AttackSpeed",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1996,
+          "type": "Health",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1997,
+          "type": "Health",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1981,
+          "type": "CriticalDamage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1985,
+          "type": "AttackSpeed",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1982,
+          "type": "CriticalDamage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1986,
+          "type": "AttackSpeed",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1998,
+          "type": "Health",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "PoisonBow",
+        "tid": "TID_POISON_BOW",
+        "fileId": 67,
+        "rowId": 6
+      }
+    },
+    {
+      "kitId": 6700005,
+      "kitRow": 5,
+      "equippedGems": [
+        {
+          "instanceId": 1982,
+          "type": "CriticalDamage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1980,
+          "type": "CriticalDamage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2000,
+          "type": "HealingReceived",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2001,
+          "type": "HealingReceived",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1996,
+          "type": "Health",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1997,
+          "type": "Health",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1981,
+          "type": "CriticalDamage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1982,
+          "type": "CriticalDamage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1998,
+          "type": "Health",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "ToothpickAndShield",
+        "tid": "TID_TOOTHPICK_AND_SHIELD",
+        "fileId": 67,
+        "rowId": 5
+      }
+    },
+    {
+      "kitId": 6700002,
+      "kitRow": 2,
+      "equippedGems": [
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1995,
+          "type": "Healing",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Healing",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1980,
+          "type": "CriticalDamage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1981,
+          "type": "CriticalDamage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1984,
+          "type": "AttackSpeed",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1992,
+          "type": "Healing",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1993,
+          "type": "Healing",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1985,
+          "type": "AttackSpeed",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1986,
+          "type": "AttackSpeed",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1994,
+          "type": "Healing",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1982,
+          "type": "CriticalDamage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1995,
+          "type": "Healing",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "TechnoFists",
+        "tid": "TID_TECHNO_FISTS",
+        "fileId": 67,
+        "rowId": 2
+      }
+    },
+    {
+      "kitId": 6700001,
+      "kitRow": 1,
+      "equippedGems": [
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1976,
+          "type": "Damage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1977,
+          "type": "Damage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1980,
+          "type": "CriticalDamage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1981,
+          "type": "CriticalDamage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2004,
+          "type": "Dodge",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2005,
+          "type": "Dodge",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1982,
+          "type": "CriticalDamage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2006,
+          "type": "Dodge",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "Zapper",
+        "tid": "TID_ZAPPER",
+        "fileId": 67,
+        "rowId": 1
+      }
+    },
+    {
+      "kitId": 6700004,
+      "kitRow": 4,
+      "equippedGems": [
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1993,
+          "type": "Healing",
+          "tier": "Charged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Healing",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1984,
+          "type": "AttackSpeed",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1988,
+          "type": "Cooldown",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1989,
+          "type": "Cooldown",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1992,
+          "type": "Healing",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1993,
+          "type": "Healing",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1985,
+          "type": "AttackSpeed",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1986,
+          "type": "AttackSpeed",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1990,
+          "type": "Cooldown",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1994,
+          "type": "Healing",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1995,
+          "type": "Healing",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "StaffOfGoodAndBadVibes",
+        "tid": "TID_STAFF_OF_GOOD_AND_BAD_VIBES",
+        "fileId": 67,
+        "rowId": 4
+      }
+    },
+    {
+      "kitId": 6700003,
+      "kitRow": 3,
+      "equippedGems": [
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1976,
+          "type": "Damage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1977,
+          "type": "Damage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2000,
+          "type": "HealingReceived",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2001,
+          "type": "HealingReceived",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1996,
+          "type": "Health",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1997,
+          "type": "Health",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1998,
+          "type": "Health",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "WolfStick",
+        "tid": "TID_WOLF_STICK",
+        "fileId": 67,
+        "rowId": 3
+      }
+    },
+    {
+      "kitId": 6700009,
+      "kitRow": 9,
+      "equippedGems": [
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1988,
+          "type": "Cooldown",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1989,
+          "type": "Cooldown",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1990,
+          "type": "Cooldown",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2004,
+          "type": "Dodge",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2005,
+          "type": "Dodge",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2006,
+          "type": "Dodge",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1980,
+          "type": "CriticalDamage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1981,
+          "type": "CriticalDamage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1982,
+          "type": "CriticalDamage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "Squid",
+        "tid": "TID_SQUID",
+        "fileId": 67,
+        "rowId": 9
+      }
+    },
+    {
+      "kitId": 6700014,
+      "kitRow": 14,
+      "equippedGems": [
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "Damage",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1976,
+          "type": "Damage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1977,
+          "type": "Damage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1992,
+          "type": "Healing",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1993,
+          "type": "Healing",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1994,
+          "type": "Healing",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1995,
+          "type": "Healing",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2004,
+          "type": "Dodge",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2005,
+          "type": "Dodge",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2006,
+          "type": "Dodge",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "Singularity",
+        "tid": "TID_SINGULARITY",
+        "fileId": 67,
+        "rowId": 14
+      }
+    }
+  ],
+  "lbPositions": [
+    {
+      "board": 1,
+      "position": 20301
+    }
+  ],
+  "unkConstant": 26000,
+  "titleResolved": {
+    "name": "FUN_EVENT_05",
+    "tid": "TID_PLAYERTITLE_FUN_EVENT_05",
+    "fileId": 58,
+    "rowId": 16,
+    "color": "#87cefa",
+    "text": "Merch Maniac"
+  },
+  "bannerResolved": {
+    "name": "Image-19",
+    "tid": "TID_cos_player_profile_background_image_19_wolfstick",
+    "fileId": 70,
+    "rowId": 27
+  },
+  "bannerAsset": "banner_art_image_19",
+  "metrics": {
+    "hunterSince": "2025-08-01",
+    "hunterSinceDay": 20301,
+    "monstersHunted": 174290,
+    "weaponsCollected": 10
+  },
+  "tag": "#YJ8CJYJ0",
+  "fetchedAt": "2026-06-24T03:09:53.319Z",
+  "rankings": {
+    "currentLevel": {
+      "position": 233,
+      "total": 10128
+    },
+    "careerLevel": {
+      "position": 273,
+      "total": 10128
+    },
+    "collectorLevel": {
+      "position": 182,
+      "total": 10128
+    },
+    "eliteMerits": {
+      "position": 449,
+      "total": 10128
+    },
+    "monstersHunted": {
+      "position": 878,
+      "total": 10128
+    }
+  }
+}

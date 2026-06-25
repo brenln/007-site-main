@@ -1,0 +1,339 @@
+/* CONTEUDO PRINCIPAL*/
+#perfil-container {
+    max-width: 900px;
+    width: 90%;
+    margin: 120px auto 60px auto;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.carregando {
+    color: rgba(255,255,255,0.4);
+    font-family: "JetBrains Mono", monospace;
+}
+
+
+/* BANNER */
+.perfil-banner {
+    width: 100%;
+    height: 180px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 24px;
+}
+
+.perfil-banner-overlay {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 0 28px;
+}
+
+.perfil-topo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.perfil-nivel {
+    width: 52px;
+    height: 52px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #fff;
+    background: rgba(0,0,0,0.4);
+    flex-shrink: 0;
+}
+
+.perfil-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.perfil-nome {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+}
+
+.perfil-titulo {
+    font-size: 0.75rem;
+}
+
+.perfil-badges {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.badge-img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+
+/* STATS */
+.perfil-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+}
+
+.stat-card {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.stat-label {
+    font-size: 0.7rem;
+    color: rgba(255,255,255,0.4);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.stat-valor {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.stat-icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+
+/* ARMAS */
+.armas-section {
+    margin-top: 32px;
+}
+
+.armas-titulo {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 14px;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.armas-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+}
+
+.kit-card {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 10px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+}
+
+.kit-locked {
+    opacity: 0.4;
+}
+
+.kit-tipo {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 2px 8px;
+    align-self: flex-start;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.tipo-icon {
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+}
+
+.arma-img {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+}
+
+.arma-sem-img {
+    background: rgba(255,255,255,0.05);
+    border-radius: 8px;
+}
+
+.arma-locked {
+    filter: grayscale(100%) brightness(0.4);
+}
+
+.kit-nome {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.kit-gemas {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.gema-img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+
+/* RESPONSIVO */
+@media (max-width: 768px) {
+    #perfil-container {
+        margin-top: 90px;
+    }
+
+    .perfil-banner {
+        height: 160px;
+    }
+
+    .perfil-nome {
+        font-size: 1.2rem;
+    }
+
+    .perfil-nivel {
+        width: 42px;
+        height: 42px;
+        font-size: 1rem;
+    }
+
+    .perfil-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .armas-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .arma-img {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 480px) {
+    #perfil-container {
+        width: 95%;
+        margin-top: 80px;
+    }
+
+    .perfil-banner {
+        height: 140px;
+        border-radius: 8px;
+    }
+
+    .perfil-nome {
+        font-size: 1rem;
+    }
+
+    .perfil-nivel {
+        width: 36px;
+        height: 36px;
+        font-size: 0.9rem;
+    }
+
+    .perfil-titulo {
+        font-size: 0.65rem;
+    }
+
+    .badge-img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .perfil-stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .stat-valor {
+        font-size: 1.1rem;
+    }
+
+    .armas-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .arma-img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .kit-tipo {
+        font-size: 0.5rem;
+        padding: 2px 5px;
+    }
+
+    .kit-nome {
+        font-size: 0.55rem;
+    }
+
+    .gema-img {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+.btn-voltar {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 16px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 6px;
+    color: #14D921;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.8rem;
+    padding: 8px 14px;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.btn-voltar:hover {
+    background: rgba(255,255,255,0.12);
+}

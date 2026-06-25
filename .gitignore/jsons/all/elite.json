@@ -1,0 +1,5215 @@
+{
+    "board": {
+        "kind": "elite",
+        "slug": "elite",
+        "name": "Elite Leaderboard",
+        "type": 4,
+        "param": null,
+        "scoreKind": "merits"
+    },
+    "count": 200,
+    "entries": [
+        {
+            "rank": 1,
+            "accountId": "1-242816",
+            "accountHigh": 1,
+            "accountLow": 242816,
+            "tag": "#G9G2YL2",
+            "name": "meow",
+            "currentLevel": 17,
+            "careerLevel": 93,
+            "collectorLevel": 49,
+            "eliteMerits": 10211,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 10211
+            },
+            "scoreRaw": 10211,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000001,
+            "bannerAsset": "banner_art_color_02",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 2,
+            "accountId": "1-200322",
+            "accountHigh": 1,
+            "accountLow": 200322,
+            "tag": "#LCPUV0V",
+            "name": "Preda.",
+            "currentLevel": 39,
+            "careerLevel": 120,
+            "collectorLevel": 43,
+            "eliteMerits": 10057,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 10057
+            },
+            "scoreRaw": 10057,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 3,
+            "accountId": "0-318458",
+            "accountHigh": 0,
+            "accountLow": 318458,
+            "tag": "#JCG8Y80",
+            "name": "JM.",
+            "currentLevel": 25,
+            "careerLevel": 104,
+            "collectorLevel": 28,
+            "eliteMerits": 9702,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9702
+            },
+            "scoreRaw": 9702,
+            "title": {
+                "rowId": 5800033,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 4,
+            "accountId": "1-2561662",
+            "accountHigh": 1,
+            "accountLow": 2561662,
+            "tag": "#L92PGU9Q",
+            "name": "𖤍 | Seif",
+            "currentLevel": 43,
+            "careerLevel": 123,
+            "collectorLevel": 16,
+            "eliteMerits": 9689,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9689
+            },
+            "scoreRaw": 9689,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 5,
+            "accountId": "0-227868",
+            "accountHigh": 0,
+            "accountLow": 227868,
+            "tag": "#QJLLCQ8",
+            "name": "lucinia",
+            "currentLevel": 20,
+            "careerLevel": 98,
+            "collectorLevel": 13,
+            "eliteMerits": 9673,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9673
+            },
+            "scoreRaw": 9673,
+            "title": {
+                "rowId": 5800040,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": 2,
+            "isNew": false
+        },
+        {
+            "rank": 6,
+            "accountId": "1-1991318",
+            "accountHigh": 1,
+            "accountLow": 1991318,
+            "tag": "#PCRCUV82",
+            "name": "𝑱𝒖𝒏 𝒙 쭌",
+            "currentLevel": 33,
+            "careerLevel": 113,
+            "collectorLevel": 20,
+            "eliteMerits": 9662,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9662
+            },
+            "scoreRaw": 9662,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 7,
+            "accountId": "0-203408",
+            "accountHigh": 0,
+            "accountLow": 203408,
+            "tag": "#LUCLCJG",
+            "name": "DaTiger",
+            "currentLevel": 39,
+            "careerLevel": 120,
+            "collectorLevel": 22,
+            "eliteMerits": 9655,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9655
+            },
+            "scoreRaw": 9655,
+            "title": {
+                "rowId": 5800008,
+                "resolved": null
+            },
+            "bannerId": 7000007,
+            "bannerAsset": "banner_art_color_08",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 8,
+            "accountId": "1-229562",
+            "accountHigh": 1,
+            "accountLow": 229562,
+            "tag": "#QC9JU29",
+            "name": "deito",
+            "currentLevel": 39,
+            "careerLevel": 116,
+            "collectorLevel": 19,
+            "eliteMerits": 9644,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9644
+            },
+            "scoreRaw": 9644,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 9,
+            "accountId": "1-266014",
+            "accountHigh": 1,
+            "accountLow": 266014,
+            "tag": "#R0GRGU2",
+            "name": "MaLachi~35",
+            "currentLevel": 23,
+            "careerLevel": 100,
+            "collectorLevel": 11,
+            "eliteMerits": 9620,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9620
+            },
+            "scoreRaw": 9620,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 10,
+            "accountId": "0-204144",
+            "accountHigh": 0,
+            "accountLow": 204144,
+            "tag": "#LV8YQ0U",
+            "name": "Tavi",
+            "currentLevel": 20,
+            "careerLevel": 98,
+            "collectorLevel": 27,
+            "eliteMerits": 9615,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9615
+            },
+            "scoreRaw": 9615,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000001,
+            "bannerAsset": "banner_art_color_02",
+            "delta": 20,
+            "isNew": false
+        },
+        {
+            "rank": 11,
+            "accountId": "0-263713",
+            "accountHigh": 0,
+            "accountLow": 263713,
+            "tag": "#GVQPVLG",
+            "name": "Fil",
+            "currentLevel": 27,
+            "careerLevel": 105,
+            "collectorLevel": 15,
+            "eliteMerits": 9614,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9614
+            },
+            "scoreRaw": 9614,
+            "title": {
+                "rowId": 5800008,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 12,
+            "accountId": "1-533892",
+            "accountHigh": 1,
+            "accountLow": 533892,
+            "tag": "#2P82C8PR",
+            "name": "hgt_1212",
+            "currentLevel": 56,
+            "careerLevel": 137,
+            "collectorLevel": 24,
+            "eliteMerits": 9610,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9610
+            },
+            "scoreRaw": 9610,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 13,
+            "accountId": "0-240123",
+            "accountHigh": 0,
+            "accountLow": 240123,
+            "tag": "#G8P880G",
+            "name": "Wassim",
+            "currentLevel": 28,
+            "careerLevel": 109,
+            "collectorLevel": 20,
+            "eliteMerits": 9605,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9605
+            },
+            "scoreRaw": 9605,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 14,
+            "accountId": "1-1005850",
+            "accountHigh": 1,
+            "accountLow": 1005850,
+            "tag": "#8L8JU99C",
+            "name": "Shake",
+            "currentLevel": 34,
+            "careerLevel": 116,
+            "collectorLevel": 45,
+            "eliteMerits": 9601,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9601
+            },
+            "scoreRaw": 9601,
+            "title": {
+                "rowId": 5800012,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 15,
+            "accountId": "1-3547529",
+            "accountHigh": 1,
+            "accountLow": 3547529,
+            "tag": "#GGGGPC9C",
+            "name": "MEGA || Tiyx",
+            "currentLevel": 35,
+            "careerLevel": 113,
+            "collectorLevel": 9,
+            "eliteMerits": 9575,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9575
+            },
+            "scoreRaw": 9575,
+            "title": {
+                "rowId": 5800048,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 16,
+            "accountId": "1-247317",
+            "accountHigh": 1,
+            "accountLow": 247317,
+            "tag": "#GYJ2PP2",
+            "name": "kUwUfe",
+            "currentLevel": 15,
+            "careerLevel": 91,
+            "collectorLevel": 42,
+            "eliteMerits": 9557,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9557
+            },
+            "scoreRaw": 9557,
+            "title": {
+                "rowId": 5800012,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": 7,
+            "isNew": false
+        },
+        {
+            "rank": 17,
+            "accountId": "0-298571",
+            "accountHigh": 0,
+            "accountLow": 298571,
+            "tag": "#J82R0P0",
+            "name": "Kaocto",
+            "currentLevel": 39,
+            "careerLevel": 117,
+            "collectorLevel": 17,
+            "eliteMerits": 9550,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9550
+            },
+            "scoreRaw": 9550,
+            "title": {
+                "rowId": 5800022,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 18,
+            "accountId": "1-251843",
+            "accountHigh": 1,
+            "accountLow": 251843,
+            "tag": "#GQU9QC9",
+            "name": "sloom77",
+            "currentLevel": 42,
+            "careerLevel": 121,
+            "collectorLevel": 17,
+            "eliteMerits": 9537,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9537
+            },
+            "scoreRaw": 9537,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 19,
+            "accountId": "1-1207206",
+            "accountHigh": 1,
+            "accountLow": 1207206,
+            "tag": "#8V0GRGU2",
+            "name": "Blxstrz",
+            "currentLevel": 49,
+            "careerLevel": 130,
+            "collectorLevel": 17,
+            "eliteMerits": 9526,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9526
+            },
+            "scoreRaw": 9526,
+            "title": {
+                "rowId": 5800004,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 20,
+            "accountId": "0-250902",
+            "accountHigh": 0,
+            "accountLow": 250902,
+            "tag": "#GQYVJJP",
+            "name": "initial heretic",
+            "currentLevel": 38,
+            "careerLevel": 115,
+            "collectorLevel": 33,
+            "eliteMerits": 9522,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9522
+            },
+            "scoreRaw": 9522,
+            "title": {
+                "rowId": 5800123,
+                "resolved": null
+            },
+            "bannerId": 7000024,
+            "bannerAsset": "banner_art_image_16",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 21,
+            "accountId": "0-2659122",
+            "accountHigh": 0,
+            "accountLow": 2659122,
+            "tag": "#LLYJ2PV8",
+            "name": "Fyodor",
+            "currentLevel": 38,
+            "careerLevel": 119,
+            "collectorLevel": 19,
+            "eliteMerits": 9500,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9500
+            },
+            "scoreRaw": 9500,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 22,
+            "accountId": "1-1251583",
+            "accountHigh": 1,
+            "accountLow": 1251583,
+            "tag": "#90QJYJR9",
+            "name": "?? | LeTal",
+            "currentLevel": 38,
+            "careerLevel": 120,
+            "collectorLevel": 44,
+            "eliteMerits": 9495,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9495
+            },
+            "scoreRaw": 9495,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 23,
+            "accountId": "1-1063243",
+            "accountHigh": 1,
+            "accountLow": 1063243,
+            "tag": "#8G82PRQC",
+            "name": "?? | Skoll ❌",
+            "currentLevel": 39,
+            "careerLevel": 120,
+            "collectorLevel": 24,
+            "eliteMerits": 9495,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9495
+            },
+            "scoreRaw": 9495,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 24,
+            "accountId": "0-2217044",
+            "accountHigh": 0,
+            "accountLow": 2217044,
+            "tag": "#YYYP2UV8",
+            "name": "runtz",
+            "currentLevel": 27,
+            "careerLevel": 106,
+            "collectorLevel": 27,
+            "eliteMerits": 9487,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9487
+            },
+            "scoreRaw": 9487,
+            "title": {
+                "rowId": 5800051,
+                "resolved": null
+            },
+            "bannerId": 7000007,
+            "bannerAsset": "banner_art_color_08",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 25,
+            "accountId": "1-218078",
+            "accountHigh": 1,
+            "accountLow": 218078,
+            "tag": "#QYC9LG2",
+            "name": "DR4G🐉",
+            "currentLevel": 29,
+            "careerLevel": 107,
+            "collectorLevel": 12,
+            "eliteMerits": 9454,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9454
+            },
+            "scoreRaw": 9454,
+            "title": {
+                "rowId": 5800014,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": 7,
+            "isNew": false
+        },
+        {
+            "rank": 26,
+            "accountId": "1-300251",
+            "accountHigh": 1,
+            "accountLow": 300251,
+            "tag": "#J8UCJG2",
+            "name": "ж | sinax",
+            "currentLevel": 38,
+            "careerLevel": 114,
+            "collectorLevel": 23,
+            "eliteMerits": 9427,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9427
+            },
+            "scoreRaw": 9427,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 27,
+            "accountId": "1-1046109",
+            "accountHigh": 1,
+            "accountLow": 1046109,
+            "tag": "#8QQV88LY",
+            "name": "Arthur",
+            "currentLevel": 29,
+            "careerLevel": 107,
+            "collectorLevel": 7,
+            "eliteMerits": 9427,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9427
+            },
+            "scoreRaw": 9427,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 28,
+            "accountId": "0-1185033",
+            "accountHigh": 0,
+            "accountLow": 1185033,
+            "tag": "#8UP0V08U",
+            "name": "Crisan",
+            "currentLevel": 30,
+            "careerLevel": 108,
+            "collectorLevel": 16,
+            "eliteMerits": 9419,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9419
+            },
+            "scoreRaw": 9419,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": 59,
+            "isNew": false
+        },
+        {
+            "rank": 29,
+            "accountId": "1-2739164",
+            "accountHigh": 1,
+            "accountLow": 2739164,
+            "tag": "#LR2CLCGY",
+            "name": "クロエ_Chloe",
+            "currentLevel": 50,
+            "careerLevel": 130,
+            "collectorLevel": 19,
+            "eliteMerits": 9399,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9399
+            },
+            "scoreRaw": 9399,
+            "title": {
+                "rowId": 5800129,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 30,
+            "accountId": "1-201604",
+            "accountHigh": 1,
+            "accountLow": 201604,
+            "tag": "#LCVLQQ9",
+            "name": "HX",
+            "currentLevel": 63,
+            "careerLevel": 143,
+            "collectorLevel": 60,
+            "eliteMerits": 9395,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9395
+            },
+            "scoreRaw": 9395,
+            "title": {
+                "rowId": 5800053,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 31,
+            "accountId": "1-3343833",
+            "accountHigh": 1,
+            "accountLow": 3343833,
+            "tag": "#G2RGV2PV",
+            "name": "The Antagonist",
+            "currentLevel": 24,
+            "careerLevel": 101,
+            "collectorLevel": 8,
+            "eliteMerits": 9383,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9383
+            },
+            "scoreRaw": 9383,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 32,
+            "accountId": "1-289870",
+            "accountHigh": 1,
+            "accountLow": 289870,
+            "tag": "#RCVR9J2",
+            "name": "SK",
+            "currentLevel": 26,
+            "careerLevel": 103,
+            "collectorLevel": 15,
+            "eliteMerits": 9380,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9380
+            },
+            "scoreRaw": 9380,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 33,
+            "accountId": "1-276883",
+            "accountHigh": 1,
+            "accountLow": 276883,
+            "tag": "#RYC2R2Q",
+            "name": "AlexEpic",
+            "currentLevel": 25,
+            "careerLevel": 102,
+            "collectorLevel": 15,
+            "eliteMerits": 9357,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9357
+            },
+            "scoreRaw": 9357,
+            "title": {
+                "rowId": 5800033,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 34,
+            "accountId": "1-246553",
+            "accountHigh": 1,
+            "accountLow": 246553,
+            "tag": "#GYY00YC",
+            "name": "HuracaN",
+            "currentLevel": 37,
+            "careerLevel": 116,
+            "collectorLevel": 51,
+            "eliteMerits": 9355,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9355
+            },
+            "scoreRaw": 9355,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 35,
+            "accountId": "1-538737",
+            "accountHigh": 1,
+            "accountLow": 538737,
+            "tag": "#2PPL28LV",
+            "name": "QT | Gramsci",
+            "currentLevel": 45,
+            "careerLevel": 124,
+            "collectorLevel": 13,
+            "eliteMerits": 9325,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9325
+            },
+            "scoreRaw": 9325,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 36,
+            "accountId": "1-1468160",
+            "accountHigh": 1,
+            "accountLow": 1468160,
+            "tag": "#9QUCR8JY",
+            "name": "MP | MATEEZY",
+            "currentLevel": 41,
+            "careerLevel": 121,
+            "collectorLevel": 46,
+            "eliteMerits": 9321,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9321
+            },
+            "scoreRaw": 9321,
+            "title": {
+                "rowId": 5800008,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 37,
+            "accountId": "1-1670468",
+            "accountHigh": 1,
+            "accountLow": 1670468,
+            "tag": "#P0C2CYJR",
+            "name": "BigBackClock",
+            "currentLevel": 43,
+            "careerLevel": 122,
+            "collectorLevel": 10,
+            "eliteMerits": 9316,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9316
+            },
+            "scoreRaw": 9316,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 38,
+            "accountId": "0-463219",
+            "accountHigh": 0,
+            "accountLow": 463219,
+            "tag": "#22JLCJJP",
+            "name": "QT | Musashi",
+            "currentLevel": 35,
+            "careerLevel": 113,
+            "collectorLevel": 17,
+            "eliteMerits": 9308,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9308
+            },
+            "scoreRaw": 9308,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 39,
+            "accountId": "1-211960",
+            "accountHigh": 1,
+            "accountLow": 211960,
+            "tag": "#Q8ULRJ2",
+            "name": "QT | GHOST",
+            "currentLevel": 59,
+            "careerLevel": 140,
+            "collectorLevel": 20,
+            "eliteMerits": 9297,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9297
+            },
+            "scoreRaw": 9297,
+            "title": {
+                "rowId": 5800039,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 40,
+            "accountId": "0-2370631",
+            "accountHigh": 0,
+            "accountLow": 2370631,
+            "tag": "#YJGYGJY8",
+            "name": "Arpej’",
+            "currentLevel": 36,
+            "careerLevel": 115,
+            "collectorLevel": 21,
+            "eliteMerits": 9297,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9297
+            },
+            "scoreRaw": 9297,
+            "title": {
+                "rowId": 5800042,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 41,
+            "accountId": "0-261638",
+            "accountHigh": 0,
+            "accountLow": 261638,
+            "tag": "#GUQQY9J",
+            "name": "ggkebab9",
+            "currentLevel": 31,
+            "careerLevel": 110,
+            "collectorLevel": 10,
+            "eliteMerits": 9290,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9290
+            },
+            "scoreRaw": 9290,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 42,
+            "accountId": "0-371913",
+            "accountHigh": 0,
+            "accountLow": 371913,
+            "tag": "#UR0YYUU",
+            "name": "You ok?",
+            "currentLevel": 29,
+            "careerLevel": 111,
+            "collectorLevel": 9,
+            "eliteMerits": 9286,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9286
+            },
+            "scoreRaw": 9286,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": 2,
+            "isNew": false
+        },
+        {
+            "rank": 43,
+            "accountId": "0-1692879",
+            "accountHigh": 0,
+            "accountLow": 1692879,
+            "tag": "#P2QC899J",
+            "name": "九*",
+            "currentLevel": 42,
+            "careerLevel": 122,
+            "collectorLevel": 10,
+            "eliteMerits": 9286,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9286
+            },
+            "scoreRaw": 9286,
+            "title": {
+                "rowId": 5800038,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 44,
+            "accountId": "1-1033005",
+            "accountHigh": 1,
+            "accountLow": 1033005,
+            "tag": "#8Q2RCR0Y",
+            "name": "YUKi♥︎",
+            "currentLevel": 43,
+            "careerLevel": 123,
+            "collectorLevel": 55,
+            "eliteMerits": 9285,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9285
+            },
+            "scoreRaw": 9285,
+            "title": {
+                "rowId": 5800015,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 45,
+            "accountId": "0-1165346",
+            "accountHigh": 0,
+            "accountLow": 1165346,
+            "tag": "#8CGRJPG0",
+            "name": "쇼리베라",
+            "currentLevel": 64,
+            "careerLevel": 144,
+            "collectorLevel": 29,
+            "eliteMerits": 9266,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9266
+            },
+            "scoreRaw": 9266,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000002,
+            "bannerAsset": "banner_art_color_03",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 46,
+            "accountId": "1-209451",
+            "accountHigh": 1,
+            "accountLow": 209451,
+            "tag": "#Q2RJGR9",
+            "name": "Sandevistan",
+            "currentLevel": 41,
+            "careerLevel": 119,
+            "collectorLevel": 18,
+            "eliteMerits": 9254,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9254
+            },
+            "scoreRaw": 9254,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 47,
+            "accountId": "0-275871",
+            "accountHigh": 0,
+            "accountLow": 275871,
+            "tag": "#RYPY9PP",
+            "name": "fRay moco hater",
+            "currentLevel": 21,
+            "careerLevel": 98,
+            "collectorLevel": 50,
+            "eliteMerits": 9253,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9253
+            },
+            "scoreRaw": 9253,
+            "title": {
+                "rowId": 5800040,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -1,
+            "isNew": false
+        },
+        {
+            "rank": 48,
+            "accountId": "1-319751",
+            "accountHigh": 1,
+            "accountLow": 319751,
+            "tag": "#JU8JVVQ",
+            "name": "النخبة",
+            "currentLevel": 38,
+            "careerLevel": 118,
+            "collectorLevel": 26,
+            "eliteMerits": 9252,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9252
+            },
+            "scoreRaw": 9252,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": 11,
+            "isNew": false
+        },
+        {
+            "rank": 49,
+            "accountId": "1-761127",
+            "accountHigh": 1,
+            "accountLow": 761127,
+            "tag": "#2CUP0V0V",
+            "name": "[LVS]IzanaGi☠️",
+            "currentLevel": 55,
+            "careerLevel": 135,
+            "collectorLevel": 15,
+            "eliteMerits": 9252,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9252
+            },
+            "scoreRaw": 9252,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": 11,
+            "isNew": false
+        },
+        {
+            "rank": 50,
+            "accountId": "1-207665",
+            "accountHigh": 1,
+            "accountLow": 207665,
+            "tag": "#Q0CCVUV",
+            "name": "Zube",
+            "currentLevel": 19,
+            "careerLevel": 98,
+            "collectorLevel": 23,
+            "eliteMerits": 9251,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9251
+            },
+            "scoreRaw": 9251,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 51,
+            "accountId": "1-1278735",
+            "accountHigh": 1,
+            "accountLow": 1278735,
+            "tag": "#92LRPULV",
+            "name": "NegaTron",
+            "currentLevel": 33,
+            "careerLevel": 112,
+            "collectorLevel": 12,
+            "eliteMerits": 9242,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9242
+            },
+            "scoreRaw": 9242,
+            "title": {
+                "rowId": 5800025,
+                "resolved": null
+            },
+            "bannerId": 7000007,
+            "bannerAsset": "banner_art_color_08",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 52,
+            "accountId": "1-202837",
+            "accountHigh": 1,
+            "accountLow": 202837,
+            "tag": "#LUQRQVQ",
+            "name": "Shawn",
+            "currentLevel": 44,
+            "careerLevel": 124,
+            "collectorLevel": 12,
+            "eliteMerits": 9238,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9238
+            },
+            "scoreRaw": 9238,
+            "title": {
+                "rowId": 5800043,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 53,
+            "accountId": "1-2362925",
+            "accountHigh": 1,
+            "accountLow": 2362925,
+            "tag": "#YJPJ9CYQ",
+            "name": "DrSim | ซิมสัน",
+            "currentLevel": 46,
+            "careerLevel": 126,
+            "collectorLevel": 19,
+            "eliteMerits": 9237,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9237
+            },
+            "scoreRaw": 9237,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 54,
+            "accountId": "1-1592080",
+            "accountHigh": 1,
+            "accountLow": 1592080,
+            "tag": "#9U2CL9L2",
+            "name": "Qinxzy",
+            "currentLevel": 29,
+            "careerLevel": 108,
+            "collectorLevel": 25,
+            "eliteMerits": 9226,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9226
+            },
+            "scoreRaw": 9226,
+            "title": {
+                "rowId": 5800039,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 55,
+            "accountId": "1-1565518",
+            "accountHigh": 1,
+            "accountLow": 1565518,
+            "tag": "#9C98L88V",
+            "name": "MP | BANGS",
+            "currentLevel": 34,
+            "careerLevel": 113,
+            "collectorLevel": 13,
+            "eliteMerits": 9223,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9223
+            },
+            "scoreRaw": 9223,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 56,
+            "accountId": "0-1457791",
+            "accountHigh": 0,
+            "accountLow": 1457791,
+            "tag": "#9QQUQCQJ",
+            "name": "T1 | 카이",
+            "currentLevel": 30,
+            "careerLevel": 107,
+            "collectorLevel": 15,
+            "eliteMerits": 9218,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9218
+            },
+            "scoreRaw": 9218,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 57,
+            "accountId": "1-849414",
+            "accountHigh": 1,
+            "accountLow": 849414,
+            "tag": "#80UPYGRC",
+            "name": "Jiyuu",
+            "currentLevel": 37,
+            "careerLevel": 117,
+            "collectorLevel": 38,
+            "eliteMerits": 9213,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9213
+            },
+            "scoreRaw": 9213,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 58,
+            "accountId": "1-393053",
+            "accountHigh": 1,
+            "accountLow": 393053,
+            "tag": "#VY29RPV",
+            "name": "QT | Anykylador",
+            "currentLevel": 38,
+            "careerLevel": 118,
+            "collectorLevel": 15,
+            "eliteMerits": 9212,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9212
+            },
+            "scoreRaw": 9212,
+            "title": {
+                "rowId": 5800122,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 59,
+            "accountId": "0-3698819",
+            "accountHigh": 0,
+            "accountLow": 3698819,
+            "tag": "#GVJGQPQL",
+            "name": "N7",
+            "currentLevel": 20,
+            "careerLevel": 97,
+            "collectorLevel": 4,
+            "eliteMerits": 9208,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9208
+            },
+            "scoreRaw": 9208,
+            "title": {
+                "rowId": 5800117,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": 4,
+            "isNew": false
+        },
+        {
+            "rank": 60,
+            "accountId": "0-2091957",
+            "accountHigh": 0,
+            "accountLow": 2091957,
+            "tag": "#Y22JG000",
+            "name": "𝑬𝒍𝒍𝒊𝒏",
+            "currentLevel": 60,
+            "careerLevel": 140,
+            "collectorLevel": 27,
+            "eliteMerits": 9197,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9197
+            },
+            "scoreRaw": 9197,
+            "title": {
+                "rowId": 5800123,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 61,
+            "accountId": "1-270810",
+            "accountHigh": 1,
+            "accountLow": 270810,
+            "tag": "#R8UR20Y",
+            "name": "LaZy",
+            "currentLevel": 39,
+            "careerLevel": 120,
+            "collectorLevel": 40,
+            "eliteMerits": 9196,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9196
+            },
+            "scoreRaw": 9196,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 62,
+            "accountId": "1-1477207",
+            "accountHigh": 1,
+            "accountLow": 1477207,
+            "tag": "#9G92V999",
+            "name": "𝕾𝖍𝖚𝖄𝕰𝕿𝖅",
+            "currentLevel": 36,
+            "careerLevel": 115,
+            "collectorLevel": 13,
+            "eliteMerits": 9196,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9196
+            },
+            "scoreRaw": 9196,
+            "title": {
+                "rowId": 5800040,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 63,
+            "accountId": "0-343980",
+            "accountHigh": 0,
+            "accountLow": 343980,
+            "tag": "#CRJ9L00",
+            "name": "MP | Aval",
+            "currentLevel": 49,
+            "careerLevel": 129,
+            "collectorLevel": 19,
+            "eliteMerits": 9193,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9193
+            },
+            "scoreRaw": 9193,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 64,
+            "accountId": "0-3722084",
+            "accountHigh": 0,
+            "accountLow": 3722084,
+            "tag": "#R0QRQCLG",
+            "name": "⫷ J E I P I ⫸",
+            "currentLevel": 36,
+            "careerLevel": 115,
+            "collectorLevel": 13,
+            "eliteMerits": 9188,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9188
+            },
+            "scoreRaw": 9188,
+            "title": {
+                "rowId": 5800049,
+                "resolved": null
+            },
+            "bannerId": 7000031,
+            "bannerAsset": "banner_art_image_23",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 65,
+            "accountId": "0-206117",
+            "accountHigh": 0,
+            "accountLow": 206117,
+            "tag": "#Q02QG0G",
+            "name": "👽SirHuman👽",
+            "currentLevel": 39,
+            "careerLevel": 121,
+            "collectorLevel": 22,
+            "eliteMerits": 9187,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9187
+            },
+            "scoreRaw": 9187,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": 26,
+            "isNew": false
+        },
+        {
+            "rank": 66,
+            "accountId": "1-3229110",
+            "accountHigh": 1,
+            "accountLow": 3229110,
+            "tag": "#QCC0L20V",
+            "name": "[PHA] Wayne",
+            "currentLevel": 47,
+            "careerLevel": 127,
+            "collectorLevel": 19,
+            "eliteMerits": 9178,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9178
+            },
+            "scoreRaw": 9178,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 67,
+            "accountId": "1-224676",
+            "accountHigh": 1,
+            "accountLow": 224676,
+            "tag": "#QGV90Y9",
+            "name": "Sossô YT",
+            "currentLevel": 24,
+            "careerLevel": 102,
+            "collectorLevel": 20,
+            "eliteMerits": 9168,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9168
+            },
+            "scoreRaw": 9168,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 68,
+            "accountId": "0-2843639",
+            "accountHigh": 0,
+            "accountLow": 2843639,
+            "tag": "#LURQRJJP",
+            "name": "Ayinomotoh’",
+            "currentLevel": 45,
+            "careerLevel": 124,
+            "collectorLevel": 18,
+            "eliteMerits": 9158,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9158
+            },
+            "scoreRaw": 9158,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 69,
+            "accountId": "1-376154",
+            "accountHigh": 1,
+            "accountLow": 376154,
+            "tag": "#UC0R28R",
+            "name": "igortmr ツ",
+            "currentLevel": 33,
+            "careerLevel": 113,
+            "collectorLevel": 22,
+            "eliteMerits": 9140,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9140
+            },
+            "scoreRaw": 9140,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": 11,
+            "isNew": false
+        },
+        {
+            "rank": 70,
+            "accountId": "0-337511",
+            "accountHigh": 0,
+            "accountLow": 337511,
+            "tag": "#CLR2URJ",
+            "name": "Hackapell",
+            "currentLevel": 49,
+            "careerLevel": 126,
+            "collectorLevel": 30,
+            "eliteMerits": 9139,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9139
+            },
+            "scoreRaw": 9139,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 71,
+            "accountId": "1-403611",
+            "accountHigh": 1,
+            "accountLow": 403611,
+            "tag": "#VJ2GRYQ",
+            "name": "Kino",
+            "currentLevel": 21,
+            "careerLevel": 98,
+            "collectorLevel": 20,
+            "eliteMerits": 9137,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9137
+            },
+            "scoreRaw": 9137,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 72,
+            "accountId": "0-223654",
+            "accountHigh": 0,
+            "accountLow": 223654,
+            "tag": "#QGLYRQ8",
+            "name": "Rodri’sOnFire🔥",
+            "currentLevel": 37,
+            "careerLevel": 112,
+            "collectorLevel": 14,
+            "eliteMerits": 9120,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9120
+            },
+            "scoreRaw": 9120,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000004,
+            "bannerAsset": "banner_art_color_05",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 73,
+            "accountId": "1-806390",
+            "accountHigh": 1,
+            "accountLow": 806390,
+            "tag": "#2VYCRJ29",
+            "name": "CaP | Netma",
+            "currentLevel": 25,
+            "careerLevel": 102,
+            "collectorLevel": 18,
+            "eliteMerits": 9118,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9118
+            },
+            "scoreRaw": 9118,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 74,
+            "accountId": "1-494898",
+            "accountHigh": 1,
+            "accountLow": 494898,
+            "tag": "#28CQV9YQ",
+            "name": "VIZ | Swoie",
+            "currentLevel": 29,
+            "careerLevel": 107,
+            "collectorLevel": 14,
+            "eliteMerits": 9115,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9115
+            },
+            "scoreRaw": 9115,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": 31,
+            "isNew": false
+        },
+        {
+            "rank": 75,
+            "accountId": "1-3847660",
+            "accountHigh": 1,
+            "accountLow": 3847660,
+            "tag": "#RPCLYY2Q",
+            "name": "Tan",
+            "currentLevel": 37,
+            "careerLevel": 114,
+            "collectorLevel": 10,
+            "eliteMerits": 9113,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9113
+            },
+            "scoreRaw": 9113,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 76,
+            "accountId": "0-222876",
+            "accountHigh": 0,
+            "accountLow": 222876,
+            "tag": "#QG292PU",
+            "name": "Gama",
+            "currentLevel": 23,
+            "careerLevel": 100,
+            "collectorLevel": 16,
+            "eliteMerits": 9109,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9109
+            },
+            "scoreRaw": 9109,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 77,
+            "accountId": "0-1374799",
+            "accountHigh": 0,
+            "accountLow": 1374799,
+            "tag": "#9PJYQ2CJ",
+            "name": "NASDAQ",
+            "currentLevel": 37,
+            "careerLevel": 116,
+            "collectorLevel": 15,
+            "eliteMerits": 9100,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9100
+            },
+            "scoreRaw": 9100,
+            "title": {
+                "rowId": 5800025,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 78,
+            "accountId": "0-248878",
+            "accountHigh": 0,
+            "accountLow": 248878,
+            "tag": "#GLLLV80",
+            "name": "Yassone",
+            "currentLevel": 18,
+            "careerLevel": 92,
+            "collectorLevel": 9,
+            "eliteMerits": 9087,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9087
+            },
+            "scoreRaw": 9087,
+            "title": {
+                "rowId": 5800006,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 79,
+            "accountId": "0-821305",
+            "accountHigh": 0,
+            "accountLow": 821305,
+            "tag": "#2VUV28UG",
+            "name": "Knight of Black",
+            "currentLevel": 26,
+            "careerLevel": 104,
+            "collectorLevel": 12,
+            "eliteMerits": 9083,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9083
+            },
+            "scoreRaw": 9083,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 80,
+            "accountId": "0-2389262",
+            "accountHigh": 0,
+            "accountLow": 2389262,
+            "tag": "#YC99JUJP",
+            "name": "Agent666",
+            "currentLevel": 40,
+            "careerLevel": 120,
+            "collectorLevel": 16,
+            "eliteMerits": 9061,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9061
+            },
+            "scoreRaw": 9061,
+            "title": {
+                "rowId": 5800117,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 81,
+            "accountId": "1-2639036",
+            "accountHigh": 1,
+            "accountLow": 2639036,
+            "tag": "#LYJ89L8Y",
+            "name": "[PHA] Bàshà💫❤️",
+            "currentLevel": 47,
+            "careerLevel": 129,
+            "collectorLevel": 17,
+            "eliteMerits": 9060,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9060
+            },
+            "scoreRaw": 9060,
+            "title": {
+                "rowId": 5800129,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 82,
+            "accountId": "0-217458",
+            "accountHigh": 0,
+            "accountLow": 217458,
+            "tag": "#QYQ2GJU",
+            "name": "Poppin",
+            "currentLevel": 33,
+            "careerLevel": 110,
+            "collectorLevel": 12,
+            "eliteMerits": 9058,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9058
+            },
+            "scoreRaw": 9058,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 83,
+            "accountId": "0-2622391",
+            "accountHigh": 0,
+            "accountLow": 2622391,
+            "tag": "#LY89PQJG",
+            "name": "[PHA] KAYDEN",
+            "currentLevel": 47,
+            "careerLevel": 128,
+            "collectorLevel": 32,
+            "eliteMerits": 9053,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9053
+            },
+            "scoreRaw": 9053,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 84,
+            "accountId": "1-236943",
+            "accountHigh": 1,
+            "accountLow": 236943,
+            "tag": "#G0JVLG2",
+            "name": "Lawny",
+            "currentLevel": 16,
+            "careerLevel": 92,
+            "collectorLevel": 11,
+            "eliteMerits": 9048,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9048
+            },
+            "scoreRaw": 9048,
+            "title": {
+                "rowId": 5800039,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": 33,
+            "isNew": false
+        },
+        {
+            "rank": 85,
+            "accountId": "0-473639",
+            "accountHigh": 0,
+            "accountLow": 473639,
+            "tag": "#282L9UQL",
+            "name": "☢️NOVA-SAD☯️",
+            "currentLevel": 40,
+            "careerLevel": 120,
+            "collectorLevel": 16,
+            "eliteMerits": 9043,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9043
+            },
+            "scoreRaw": 9043,
+            "title": {
+                "rowId": 5800045,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 86,
+            "accountId": "0-224445",
+            "accountHigh": 0,
+            "accountLow": 224445,
+            "tag": "#QGCRLR8",
+            "name": "BARBAEL",
+            "currentLevel": 44,
+            "careerLevel": 123,
+            "collectorLevel": 11,
+            "eliteMerits": 9041,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9041
+            },
+            "scoreRaw": 9041,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 87,
+            "accountId": "0-423799",
+            "accountHigh": 0,
+            "accountLow": 423799,
+            "tag": "#20YJ82YL",
+            "name": "TFE | Grim",
+            "currentLevel": 24,
+            "careerLevel": 104,
+            "collectorLevel": 15,
+            "eliteMerits": 9040,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9040
+            },
+            "scoreRaw": 9040,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": null,
+            "isNew": true
+        },
+        {
+            "rank": 88,
+            "accountId": "1-843050",
+            "accountHigh": 1,
+            "accountLow": 843050,
+            "tag": "#80R9VUQQ",
+            "name": "[PHA] 🍣Chef",
+            "currentLevel": 25,
+            "careerLevel": 101,
+            "collectorLevel": 45,
+            "eliteMerits": 9023,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9023
+            },
+            "scoreRaw": 9023,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 89,
+            "accountId": "1-201065",
+            "accountHigh": 1,
+            "accountLow": 201065,
+            "tag": "#LCRU9Q9",
+            "name": "ZimSep",
+            "currentLevel": 35,
+            "careerLevel": 116,
+            "collectorLevel": 51,
+            "eliteMerits": 9022,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9022
+            },
+            "scoreRaw": 9022,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000003,
+            "bannerAsset": "banner_art_color_04",
+            "delta": null,
+            "isNew": true
+        },
+        {
+            "rank": 90,
+            "accountId": "0-257544",
+            "accountHigh": 0,
+            "accountLow": 257544,
+            "tag": "#GJG9L00",
+            "name": "🐦‍🔥 | Mafio™️",
+            "currentLevel": 34,
+            "careerLevel": 113,
+            "collectorLevel": 34,
+            "eliteMerits": 9011,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9011
+            },
+            "scoreRaw": 9011,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 91,
+            "accountId": "1-791387",
+            "accountHigh": 1,
+            "accountLow": 791387,
+            "tag": "#2UURJ0PR",
+            "name": "den4uk",
+            "currentLevel": 61,
+            "careerLevel": 140,
+            "collectorLevel": 15,
+            "eliteMerits": 9002,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 9002
+            },
+            "scoreRaw": 9002,
+            "title": {
+                "rowId": 5800020,
+                "resolved": null
+            },
+            "bannerId": 7000004,
+            "bannerAsset": "banner_art_color_05",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 92,
+            "accountId": "1-972040",
+            "accountHigh": 1,
+            "accountLow": 972040,
+            "tag": "#8Y0RQV9C",
+            "name": "Irezz",
+            "currentLevel": 36,
+            "careerLevel": 114,
+            "collectorLevel": 48,
+            "eliteMerits": 8998,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8998
+            },
+            "scoreRaw": 8998,
+            "title": {
+                "rowId": 5800123,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 93,
+            "accountId": "0-1285581",
+            "accountHigh": 0,
+            "accountLow": 1285581,
+            "tag": "#92RUVG8U",
+            "name": "공유",
+            "currentLevel": 20,
+            "careerLevel": 97,
+            "collectorLevel": 31,
+            "eliteMerits": 8990,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8990
+            },
+            "scoreRaw": 8990,
+            "title": {
+                "rowId": 5800016,
+                "resolved": null
+            },
+            "bannerId": 7000001,
+            "bannerAsset": "banner_art_color_02",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 94,
+            "accountId": "0-1530560",
+            "accountHigh": 0,
+            "accountLow": 1530560,
+            "tag": "#9J0QLJJU",
+            "name": "𝔼ℕℙ𝔸𝕊𝕊𝔸ℕ𝕋",
+            "currentLevel": 30,
+            "careerLevel": 110,
+            "collectorLevel": 13,
+            "eliteMerits": 8986,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8986
+            },
+            "scoreRaw": 8986,
+            "title": {
+                "rowId": 5800044,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 95,
+            "accountId": "1-348194",
+            "accountHigh": 1,
+            "accountLow": 348194,
+            "tag": "#CCJPG02",
+            "name": "TGA | exo",
+            "currentLevel": 28,
+            "careerLevel": 106,
+            "collectorLevel": 26,
+            "eliteMerits": 8983,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8983
+            },
+            "scoreRaw": 8983,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 96,
+            "accountId": "0-308873",
+            "accountHigh": 0,
+            "accountLow": 308873,
+            "tag": "#JQ0P2VL",
+            "name": "TDN⚜️Mumei 💸",
+            "currentLevel": 16,
+            "careerLevel": 93,
+            "collectorLevel": 25,
+            "eliteMerits": 9027,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8977
+            },
+            "scoreRaw": 8977,
+            "title": {
+                "rowId": 5800004,
+                "resolved": null
+            },
+            "bannerId": 7000004,
+            "bannerAsset": "banner_art_color_05",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 97,
+            "accountId": "0-484881",
+            "accountHigh": 0,
+            "accountLow": 484881,
+            "tag": "#28LC8RVL",
+            "name": "Ruiyu",
+            "currentLevel": 35,
+            "careerLevel": 111,
+            "collectorLevel": 14,
+            "eliteMerits": 8972,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8972
+            },
+            "scoreRaw": 8972,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 98,
+            "accountId": "1-3800711",
+            "accountHigh": 1,
+            "accountLow": 3800711,
+            "tag": "#R992Q9VQ",
+            "name": "Xyo",
+            "currentLevel": 30,
+            "careerLevel": 110,
+            "collectorLevel": 4,
+            "eliteMerits": 8972,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8972
+            },
+            "scoreRaw": 8972,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 99,
+            "accountId": "1-201981",
+            "accountHigh": 1,
+            "accountLow": 201981,
+            "tag": "#LU2VRUV",
+            "name": "ZerTens",
+            "currentLevel": 33,
+            "careerLevel": 110,
+            "collectorLevel": 8,
+            "eliteMerits": 8967,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8967
+            },
+            "scoreRaw": 8967,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 100,
+            "accountId": "1-320080",
+            "accountHigh": 1,
+            "accountLow": 320080,
+            "tag": "#JUPVRRQ",
+            "name": "LeBaton",
+            "currentLevel": 41,
+            "careerLevel": 119,
+            "collectorLevel": 14,
+            "eliteMerits": 8964,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8964
+            },
+            "scoreRaw": 8964,
+            "title": {
+                "rowId": 5800039,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 101,
+            "accountId": "0-501588",
+            "accountHigh": 0,
+            "accountLow": 501588,
+            "tag": "#290JQYPU",
+            "name": "Seijoh",
+            "currentLevel": 54,
+            "careerLevel": 131,
+            "collectorLevel": 32,
+            "eliteMerits": 8963,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8963
+            },
+            "scoreRaw": 8963,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 102,
+            "accountId": "1-238137",
+            "accountHigh": 1,
+            "accountLow": 238137,
+            "tag": "#G2PUU29",
+            "name": "Tay",
+            "currentLevel": 20,
+            "careerLevel": 98,
+            "collectorLevel": 9,
+            "eliteMerits": 8952,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8952
+            },
+            "scoreRaw": 8952,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 103,
+            "accountId": "0-3048454",
+            "accountHigh": 0,
+            "accountLow": 3048454,
+            "tag": "#QYR0QU8U",
+            "name": "Ciauz",
+            "currentLevel": 17,
+            "careerLevel": 94,
+            "collectorLevel": 11,
+            "eliteMerits": 8948,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8948
+            },
+            "scoreRaw": 8948,
+            "title": {
+                "rowId": 5800119,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": 1,
+            "isNew": false
+        },
+        {
+            "rank": 104,
+            "accountId": "0-1660346",
+            "accountHigh": 0,
+            "accountLow": 1660346,
+            "tag": "#P0LPY28G",
+            "name": "klaws",
+            "currentLevel": 32,
+            "careerLevel": 110,
+            "collectorLevel": 28,
+            "eliteMerits": 8943,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8943
+            },
+            "scoreRaw": 8943,
+            "title": {
+                "rowId": 5800124,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 105,
+            "accountId": "0-255895",
+            "accountHigh": 0,
+            "accountLow": 255895,
+            "tag": "#GRC9G8U",
+            "name": "Kidd",
+            "currentLevel": 45,
+            "careerLevel": 122,
+            "collectorLevel": 16,
+            "eliteMerits": 8936,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8936
+            },
+            "scoreRaw": 8936,
+            "title": {
+                "rowId": 5800025,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 106,
+            "accountId": "1-746636",
+            "accountHigh": 1,
+            "accountLow": 746636,
+            "tag": "#2CYYQ00R",
+            "name": "LeaYa 🌸",
+            "currentLevel": 29,
+            "careerLevel": 107,
+            "collectorLevel": 15,
+            "eliteMerits": 8934,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8934
+            },
+            "scoreRaw": 8934,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 107,
+            "accountId": "1-1481225",
+            "accountHigh": 1,
+            "accountLow": 1481225,
+            "tag": "#9GY0J299",
+            "name": "Kneesocks",
+            "currentLevel": 23,
+            "careerLevel": 100,
+            "collectorLevel": 11,
+            "eliteMerits": 8910,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8910
+            },
+            "scoreRaw": 8910,
+            "title": {
+                "rowId": 5800044,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": 3,
+            "isNew": false
+        },
+        {
+            "rank": 108,
+            "accountId": "1-1698838",
+            "accountHigh": 1,
+            "accountLow": 1698838,
+            "tag": "#P2JGU8LY",
+            "name": "?? | Truand91",
+            "currentLevel": 37,
+            "careerLevel": 118,
+            "collectorLevel": 32,
+            "eliteMerits": 8908,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8908
+            },
+            "scoreRaw": 8908,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 109,
+            "accountId": "0-2400065",
+            "accountHigh": 0,
+            "accountLow": 2400065,
+            "tag": "#YCGYJJJU",
+            "name": "SeeyZ",
+            "currentLevel": 38,
+            "careerLevel": 112,
+            "collectorLevel": 18,
+            "eliteMerits": 8908,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8908
+            },
+            "scoreRaw": 8908,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 110,
+            "accountId": "1-1918073",
+            "accountHigh": 1,
+            "accountLow": 1918073,
+            "tag": "#PR8VCG8V",
+            "name": "arosoir",
+            "currentLevel": 25,
+            "careerLevel": 102,
+            "collectorLevel": 16,
+            "eliteMerits": 8888,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8888
+            },
+            "scoreRaw": 8888,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 111,
+            "accountId": "0-3171804",
+            "accountHigh": 0,
+            "accountLow": 3171804,
+            "tag": "#QRCJQJYJ",
+            "name": "Memod",
+            "currentLevel": 27,
+            "careerLevel": 107,
+            "collectorLevel": 25,
+            "eliteMerits": 8882,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8882
+            },
+            "scoreRaw": 8882,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000031,
+            "bannerAsset": "banner_art_image_23",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 112,
+            "accountId": "0-469892",
+            "accountHigh": 0,
+            "accountLow": 469892,
+            "tag": "#22VRPPLU",
+            "name": "GorgiasPT",
+            "currentLevel": 30,
+            "careerLevel": 106,
+            "collectorLevel": 13,
+            "eliteMerits": 8881,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8881
+            },
+            "scoreRaw": 8881,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 113,
+            "accountId": "0-2303819",
+            "accountHigh": 0,
+            "accountLow": 2303819,
+            "tag": "#YGPGYQJ0",
+            "name": "𝐼𝐸|Justin🇪🇨",
+            "currentLevel": 51,
+            "careerLevel": 132,
+            "collectorLevel": 11,
+            "eliteMerits": 8876,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8876
+            },
+            "scoreRaw": 8876,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 114,
+            "accountId": "1-3544529",
+            "accountHigh": 1,
+            "accountLow": 3544529,
+            "tag": "#GGQ8PUUR",
+            "name": "emmyyy",
+            "currentLevel": 45,
+            "careerLevel": 125,
+            "collectorLevel": 26,
+            "eliteMerits": 8865,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8865
+            },
+            "scoreRaw": 8865,
+            "title": {
+                "rowId": 5800016,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 115,
+            "accountId": "1-1607401",
+            "accountHigh": 1,
+            "accountLow": 1607401,
+            "tag": "#9UR2QGQQ",
+            "name": "herartt ☭",
+            "currentLevel": 32,
+            "careerLevel": 112,
+            "collectorLevel": 9,
+            "eliteMerits": 8852,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8852
+            },
+            "scoreRaw": 8852,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": 26,
+            "isNew": false
+        },
+        {
+            "rank": 116,
+            "accountId": "1-3573005",
+            "accountHigh": 1,
+            "accountLow": 3573005,
+            "tag": "#GRLJ2G0R",
+            "name": "GAZA",
+            "currentLevel": 27,
+            "careerLevel": 107,
+            "collectorLevel": 14,
+            "eliteMerits": 8848,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8848
+            },
+            "scoreRaw": 8848,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 117,
+            "accountId": "1-325234",
+            "accountHigh": 1,
+            "accountLow": 325234,
+            "tag": "#C0CPQL2",
+            "name": "L4 | Abner",
+            "currentLevel": 46,
+            "careerLevel": 127,
+            "collectorLevel": 14,
+            "eliteMerits": 8846,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8846
+            },
+            "scoreRaw": 8846,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 118,
+            "accountId": "0-265563",
+            "accountHigh": 0,
+            "accountLow": 265563,
+            "tag": "#R0YRQC8",
+            "name": "Barbatuerta",
+            "currentLevel": 27,
+            "careerLevel": 103,
+            "collectorLevel": 12,
+            "eliteMerits": 8843,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8843
+            },
+            "scoreRaw": 8843,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 119,
+            "accountId": "0-311256",
+            "accountHigh": 0,
+            "accountLow": 311256,
+            "tag": "#JG88LLP",
+            "name": "TFE | SpaceKing",
+            "currentLevel": 31,
+            "careerLevel": 111,
+            "collectorLevel": 14,
+            "eliteMerits": 8833,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8833
+            },
+            "scoreRaw": 8833,
+            "title": {
+                "rowId": 5800042,
+                "resolved": null
+            },
+            "bannerId": 7000003,
+            "bannerAsset": "banner_art_color_04",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 120,
+            "accountId": "1-250599",
+            "accountHigh": 1,
+            "accountLow": 250599,
+            "tag": "#GQ9VLVC",
+            "name": "Nexus",
+            "currentLevel": 32,
+            "careerLevel": 109,
+            "collectorLevel": 7,
+            "eliteMerits": 8832,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8832
+            },
+            "scoreRaw": 8832,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 121,
+            "accountId": "0-3174203",
+            "accountHigh": 0,
+            "accountLow": 3174203,
+            "tag": "#QRUUQQC8",
+            "name": "MEGA || KAAN",
+            "currentLevel": 37,
+            "careerLevel": 118,
+            "collectorLevel": 21,
+            "eliteMerits": 8829,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8829
+            },
+            "scoreRaw": 8829,
+            "title": {
+                "rowId": 5800117,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 122,
+            "accountId": "0-285208",
+            "accountHigh": 0,
+            "accountLow": 285208,
+            "tag": "#RRJGPG0",
+            "name": "Dreamcatcher",
+            "currentLevel": 32,
+            "careerLevel": 112,
+            "collectorLevel": 12,
+            "eliteMerits": 8828,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8828
+            },
+            "scoreRaw": 8828,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 123,
+            "accountId": "0-206504",
+            "accountHigh": 0,
+            "accountLow": 206504,
+            "tag": "#Q0P2RQ8",
+            "name": "Lee",
+            "currentLevel": 49,
+            "careerLevel": 128,
+            "collectorLevel": 12,
+            "eliteMerits": 8828,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8828
+            },
+            "scoreRaw": 8828,
+            "title": {
+                "rowId": 5800129,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 124,
+            "accountId": "1-3425952",
+            "accountHigh": 1,
+            "accountLow": 3425952,
+            "tag": "#GPLJ8PCQ",
+            "name": "𖤍 | 𝑲𝒂𝒓𝒍",
+            "currentLevel": 26,
+            "careerLevel": 105,
+            "collectorLevel": 8,
+            "eliteMerits": 8824,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8824
+            },
+            "scoreRaw": 8824,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 125,
+            "accountId": "1-2055759",
+            "accountHigh": 1,
+            "accountLow": 2055759,
+            "tag": "#PVUQPUVC",
+            "name": "★🩸ＰＩＩᵗʰ🩸☆⁶",
+            "currentLevel": 43,
+            "careerLevel": 119,
+            "collectorLevel": 14,
+            "eliteMerits": 8816,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8816
+            },
+            "scoreRaw": 8816,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 126,
+            "accountId": "0-1042594",
+            "accountHigh": 0,
+            "accountLow": 1042594,
+            "tag": "#8QL9J9L0",
+            "name": "AØR||Tazz🔵⚪️🔴",
+            "currentLevel": 25,
+            "careerLevel": 102,
+            "collectorLevel": 10,
+            "eliteMerits": 8814,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8814
+            },
+            "scoreRaw": 8814,
+            "title": {
+                "rowId": 5800115,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 127,
+            "accountId": "1-2075014",
+            "accountHigh": 1,
+            "accountLow": 2075014,
+            "tag": "#Y0QRRPY9",
+            "name": "KAB",
+            "currentLevel": 45,
+            "careerLevel": 123,
+            "collectorLevel": 13,
+            "eliteMerits": 8814,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8814
+            },
+            "scoreRaw": 8814,
+            "title": {
+                "rowId": 5800038,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 128,
+            "accountId": "1-255526",
+            "accountHigh": 1,
+            "accountLow": 255526,
+            "tag": "#GRGC89Q",
+            "name": "Alby",
+            "currentLevel": 27,
+            "careerLevel": 106,
+            "collectorLevel": 20,
+            "eliteMerits": 8810,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8810
+            },
+            "scoreRaw": 8810,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 129,
+            "accountId": "0-1800200",
+            "accountHigh": 0,
+            "accountLow": 1800200,
+            "tag": "#PY8UPRGU",
+            "name": "리우",
+            "currentLevel": 26,
+            "careerLevel": 106,
+            "collectorLevel": 19,
+            "eliteMerits": 8795,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8795
+            },
+            "scoreRaw": 8795,
+            "title": {
+                "rowId": 5800129,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 130,
+            "accountId": "1-3612400",
+            "accountHigh": 1,
+            "accountLow": 3612400,
+            "tag": "#GJCLGUJY",
+            "name": "IceHunter",
+            "currentLevel": 55,
+            "careerLevel": 136,
+            "collectorLevel": 8,
+            "eliteMerits": 8792,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8792
+            },
+            "scoreRaw": 8792,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 131,
+            "accountId": "1-222714",
+            "accountHigh": 1,
+            "accountLow": 222714,
+            "tag": "#QG02VJR",
+            "name": "Mash",
+            "currentLevel": 23,
+            "careerLevel": 100,
+            "collectorLevel": 19,
+            "eliteMerits": 8790,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8790
+            },
+            "scoreRaw": 8790,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 132,
+            "accountId": "1-2275110",
+            "accountHigh": 1,
+            "accountLow": 2275110,
+            "tag": "#YQPV289Q",
+            "name": "CaP | StRiKeR⚔️",
+            "currentLevel": 42,
+            "careerLevel": 121,
+            "collectorLevel": 23,
+            "eliteMerits": 8789,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8789
+            },
+            "scoreRaw": 8789,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 133,
+            "accountId": "1-1664669",
+            "accountHigh": 1,
+            "accountLow": 1664669,
+            "tag": "#P0GY8YQC",
+            "name": "Kirua",
+            "currentLevel": 24,
+            "careerLevel": 99,
+            "collectorLevel": 12,
+            "eliteMerits": 8787,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8787
+            },
+            "scoreRaw": 8787,
+            "title": {
+                "rowId": 5800117,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 134,
+            "accountId": "1-2119502",
+            "accountHigh": 1,
+            "accountLow": 2119502,
+            "tag": "#Y80U2C82",
+            "name": "3RB| AEY",
+            "currentLevel": 36,
+            "careerLevel": 117,
+            "collectorLevel": 26,
+            "eliteMerits": 8787,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8787
+            },
+            "scoreRaw": 8787,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 135,
+            "accountId": "0-1257078",
+            "accountHigh": 0,
+            "accountLow": 1257078,
+            "tag": "#90JY0YC8",
+            "name": "Я𝑬 | JohaИ §德•",
+            "currentLevel": 44,
+            "careerLevel": 124,
+            "collectorLevel": 23,
+            "eliteMerits": 8785,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8785
+            },
+            "scoreRaw": 8785,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 136,
+            "accountId": "1-1035605",
+            "accountHigh": 1,
+            "accountLow": 1035605,
+            "tag": "#8Q8V88V9",
+            "name": "MP | Roosh Ann",
+            "currentLevel": 33,
+            "careerLevel": 112,
+            "collectorLevel": 36,
+            "eliteMerits": 8781,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8781
+            },
+            "scoreRaw": 8781,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000004,
+            "bannerAsset": "banner_art_color_05",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 137,
+            "accountId": "0-892291",
+            "accountHigh": 0,
+            "accountLow": 892291,
+            "tag": "#88PJ2CPP",
+            "name": "AKYLA",
+            "currentLevel": 31,
+            "careerLevel": 113,
+            "collectorLevel": 17,
+            "eliteMerits": 8777,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8777
+            },
+            "scoreRaw": 8777,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 138,
+            "accountId": "1-228564",
+            "accountHigh": 1,
+            "accountLow": 228564,
+            "tag": "#QJC2JG2",
+            "name": "Oasis_",
+            "currentLevel": 22,
+            "careerLevel": 98,
+            "collectorLevel": 11,
+            "eliteMerits": 8770,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8770
+            },
+            "scoreRaw": 8770,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": 11,
+            "isNew": false
+        },
+        {
+            "rank": 139,
+            "accountId": "1-200343",
+            "accountHigh": 1,
+            "accountLow": 200343,
+            "tag": "#LCY0ULV",
+            "name": "maty",
+            "currentLevel": 25,
+            "careerLevel": 100,
+            "collectorLevel": 16,
+            "eliteMerits": 8696,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8769
+            },
+            "scoreRaw": 8769,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 140,
+            "accountId": "1-927406",
+            "accountHigh": 1,
+            "accountLow": 927406,
+            "tag": "#89QL2CC9",
+            "name": "menego",
+            "currentLevel": 29,
+            "careerLevel": 106,
+            "collectorLevel": 10,
+            "eliteMerits": 8769,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8769
+            },
+            "scoreRaw": 8769,
+            "title": {
+                "rowId": 5800025,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 141,
+            "accountId": "0-2924063",
+            "accountHigh": 0,
+            "accountLow": 2924063,
+            "tag": "#Q2YCGUPG",
+            "name": "😈sadewa👿",
+            "currentLevel": 39,
+            "careerLevel": 120,
+            "collectorLevel": 12,
+            "eliteMerits": 8768,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8768
+            },
+            "scoreRaw": 8768,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 142,
+            "accountId": "1-1032687",
+            "accountHigh": 1,
+            "accountLow": 1032687,
+            "tag": "#8Q2QRVRQ",
+            "name": "ᴍʀ.M𝕚𝔻𝔻Δ",
+            "currentLevel": 25,
+            "careerLevel": 102,
+            "collectorLevel": 17,
+            "eliteMerits": 8766,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8766
+            },
+            "scoreRaw": 8766,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 143,
+            "accountId": "1-297809",
+            "accountHigh": 1,
+            "accountLow": 297809,
+            "tag": "#J2JQV0Y",
+            "name": "Sunraku🐦",
+            "currentLevel": 25,
+            "careerLevel": 103,
+            "collectorLevel": 24,
+            "eliteMerits": 8765,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8765
+            },
+            "scoreRaw": 8765,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 144,
+            "accountId": "1-1372365",
+            "accountHigh": 1,
+            "accountLow": 1372365,
+            "tag": "#9PR9P0JY",
+            "name": "KzK♬",
+            "currentLevel": 31,
+            "careerLevel": 109,
+            "collectorLevel": 11,
+            "eliteMerits": 8761,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8761
+            },
+            "scoreRaw": 8761,
+            "title": {
+                "rowId": 5800025,
+                "resolved": null
+            },
+            "bannerId": 7000001,
+            "bannerAsset": "banner_art_color_02",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 145,
+            "accountId": "0-3222958",
+            "accountHigh": 0,
+            "accountLow": 3222958,
+            "tag": "#QCG2L2C8",
+            "name": "Splean",
+            "currentLevel": 45,
+            "careerLevel": 120,
+            "collectorLevel": 13,
+            "eliteMerits": 8760,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8760
+            },
+            "scoreRaw": 8760,
+            "title": {
+                "rowId": 5800048,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": 0,
+            "isNew": false
+        },
+        {
+            "rank": 146,
+            "accountId": "1-758342",
+            "accountHigh": 1,
+            "accountLow": 758342,
+            "tag": "#2CJVQ2Q9",
+            "name": "SauceBoss",
+            "currentLevel": 30,
+            "careerLevel": 107,
+            "collectorLevel": 26,
+            "eliteMerits": 8759,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8759
+            },
+            "scoreRaw": 8759,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 147,
+            "accountId": "1-568084",
+            "accountHigh": 1,
+            "accountLow": 568084,
+            "tag": "#2YPYR29C",
+            "name": "Jacky",
+            "currentLevel": 40,
+            "careerLevel": 121,
+            "collectorLevel": 33,
+            "eliteMerits": 8758,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8758
+            },
+            "scoreRaw": 8758,
+            "title": {
+                "rowId": 5800014,
+                "resolved": null
+            },
+            "bannerId": 7000007,
+            "bannerAsset": "banner_art_color_08",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 148,
+            "accountId": "0-3566595",
+            "accountHigh": 0,
+            "accountLow": 3566595,
+            "tag": "#GR9RYQC8",
+            "name": "🃏Bait",
+            "currentLevel": 34,
+            "careerLevel": 114,
+            "collectorLevel": 16,
+            "eliteMerits": 8751,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8751
+            },
+            "scoreRaw": 8751,
+            "title": {
+                "rowId": 5800013,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 149,
+            "accountId": "1-3147485",
+            "accountHigh": 1,
+            "accountLow": 3147485,
+            "tag": "#QR08LUCQ",
+            "name": "applepi",
+            "currentLevel": 30,
+            "careerLevel": 110,
+            "collectorLevel": 13,
+            "eliteMerits": 8745,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8745
+            },
+            "scoreRaw": 8745,
+            "title": {
+                "rowId": 5800124,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 150,
+            "accountId": "0-3261973",
+            "accountHigh": 0,
+            "accountLow": 3261973,
+            "tag": "#QUURL08P",
+            "name": "GG BOND",
+            "currentLevel": 36,
+            "careerLevel": 116,
+            "collectorLevel": 36,
+            "eliteMerits": 8742,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8742
+            },
+            "scoreRaw": 8742,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000012,
+            "bannerAsset": "banner_art_image_04",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 151,
+            "accountId": "0-1479102",
+            "accountHigh": 0,
+            "accountLow": 1479102,
+            "tag": "#9GP0G0PG",
+            "name": "𝙍𝙯𝙏𝙯𝙮",
+            "currentLevel": 52,
+            "careerLevel": 132,
+            "collectorLevel": 13,
+            "eliteMerits": 8731,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8731
+            },
+            "scoreRaw": 8731,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 152,
+            "accountId": "1-358878",
+            "accountHigh": 1,
+            "accountLow": 358878,
+            "tag": "#U8CQPGR",
+            "name": "LM☾ • 𝕜ơư🧸🥀",
+            "currentLevel": 29,
+            "careerLevel": 110,
+            "collectorLevel": 15,
+            "eliteMerits": 8711,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8711
+            },
+            "scoreRaw": 8711,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 153,
+            "accountId": "1-3833773",
+            "accountHigh": 1,
+            "accountLow": 3833773,
+            "tag": "#RPPCCJVC",
+            "name": "Abh",
+            "currentLevel": 23,
+            "careerLevel": 98,
+            "collectorLevel": 11,
+            "eliteMerits": 8708,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8708
+            },
+            "scoreRaw": 8708,
+            "title": {
+                "rowId": 5800117,
+                "resolved": null
+            },
+            "bannerId": 7000025,
+            "bannerAsset": "banner_art_image_17",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 154,
+            "accountId": "1-2682167",
+            "accountHigh": 1,
+            "accountLow": 2682167,
+            "tag": "#LQ8RRPQQ",
+            "name": "𖤍 | ApplePie",
+            "currentLevel": 34,
+            "careerLevel": 111,
+            "collectorLevel": 19,
+            "eliteMerits": 8707,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8707
+            },
+            "scoreRaw": 8707,
+            "title": {
+                "rowId": 5800042,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 155,
+            "accountId": "1-219407",
+            "accountHigh": 1,
+            "accountLow": 219407,
+            "tag": "#QLL2LYC",
+            "name": "KiLess",
+            "currentLevel": 39,
+            "careerLevel": 119,
+            "collectorLevel": 47,
+            "eliteMerits": 8701,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8701
+            },
+            "scoreRaw": 8701,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000002,
+            "bannerAsset": "banner_art_color_03",
+            "delta": -2,
+            "isNew": false
+        },
+        {
+            "rank": 156,
+            "accountId": "0-201749",
+            "accountHigh": 0,
+            "accountLow": 201749,
+            "tag": "#LU0L0UG",
+            "name": "ㅤㅤ𝖧𝖨𝖤𝖨",
+            "currentLevel": 39,
+            "careerLevel": 115,
+            "collectorLevel": 15,
+            "eliteMerits": 8699,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8699
+            },
+            "scoreRaw": 8699,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000000,
+            "bannerAsset": "banner_art_color_01",
+            "delta": null,
+            "isNew": true
+        },
+        {
+            "rank": 157,
+            "accountId": "1-2151830",
+            "accountHigh": 1,
+            "accountLow": 2151830,
+            "tag": "#Y989QCLR",
+            "name": "MEGA|| RED",
+            "currentLevel": 32,
+            "careerLevel": 112,
+            "collectorLevel": 20,
+            "eliteMerits": 8697,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8697
+            },
+            "scoreRaw": 8697,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 158,
+            "accountId": "1-276154",
+            "accountHigh": 1,
+            "accountLow": 276154,
+            "tag": "#RYL9GV9",
+            "name": "Fz.InMorTaL",
+            "currentLevel": 27,
+            "careerLevel": 105,
+            "collectorLevel": 31,
+            "eliteMerits": 8695,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8695
+            },
+            "scoreRaw": 8695,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000024,
+            "bannerAsset": "banner_art_image_16",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 159,
+            "accountId": "0-2838778",
+            "accountHigh": 0,
+            "accountLow": 2838778,
+            "tag": "#LUQ9P9RL",
+            "name": "MaximumEffort",
+            "currentLevel": 34,
+            "careerLevel": 114,
+            "collectorLevel": 15,
+            "eliteMerits": 8693,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8693
+            },
+            "scoreRaw": 8693,
+            "title": {
+                "rowId": 5800051,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 160,
+            "accountId": "0-201006",
+            "accountHigh": 0,
+            "accountLow": 201006,
+            "tag": "#LCRLJLP",
+            "name": "KidDemon",
+            "currentLevel": 44,
+            "careerLevel": 121,
+            "collectorLevel": 13,
+            "eliteMerits": 8691,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8691
+            },
+            "scoreRaw": 8691,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 161,
+            "accountId": "0-1449013",
+            "accountHigh": 0,
+            "accountLow": 1449013,
+            "tag": "#9Q9J0UYJ",
+            "name": "ねここ",
+            "currentLevel": 45,
+            "careerLevel": 125,
+            "collectorLevel": 11,
+            "eliteMerits": 8688,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8688
+            },
+            "scoreRaw": 8688,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 162,
+            "accountId": "0-1217816",
+            "accountHigh": 0,
+            "accountLow": 1217816,
+            "tag": "#8VYRYLCL",
+            "name": "MP | REI‎‎𝄢",
+            "currentLevel": 42,
+            "careerLevel": 119,
+            "collectorLevel": 28,
+            "eliteMerits": 8686,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8686
+            },
+            "scoreRaw": 8686,
+            "title": {
+                "rowId": 5800026,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 163,
+            "accountId": "1-3782755",
+            "accountHigh": 1,
+            "accountLow": 3782755,
+            "tag": "#R8GQU299",
+            "name": "Stryver",
+            "currentLevel": 23,
+            "careerLevel": 101,
+            "collectorLevel": 13,
+            "eliteMerits": 8681,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8681
+            },
+            "scoreRaw": 8681,
+            "title": {
+                "rowId": 5800124,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 164,
+            "accountId": "1-941017",
+            "accountHigh": 1,
+            "accountLow": 941017,
+            "tag": "#89VUCRL2",
+            "name": "Wartex",
+            "currentLevel": 28,
+            "careerLevel": 108,
+            "collectorLevel": 25,
+            "eliteMerits": 8678,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8678
+            },
+            "scoreRaw": 8678,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 165,
+            "accountId": "1-695200",
+            "accountHigh": 1,
+            "accountLow": 695200,
+            "tag": "#2RGUJPPR",
+            "name": "eliaselk",
+            "currentLevel": 23,
+            "careerLevel": 100,
+            "collectorLevel": 10,
+            "eliteMerits": 8666,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8666
+            },
+            "scoreRaw": 8666,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 166,
+            "accountId": "1-1033267",
+            "accountHigh": 1,
+            "accountLow": 1033267,
+            "tag": "#8Q2CG299",
+            "name": "Danioraiss",
+            "currentLevel": 19,
+            "careerLevel": 95,
+            "collectorLevel": 7,
+            "eliteMerits": 8658,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8658
+            },
+            "scoreRaw": 8658,
+            "title": {
+                "rowId": 5800122,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 167,
+            "accountId": "1-878909",
+            "accountHigh": 1,
+            "accountLow": 878909,
+            "tag": "#82UPVPJV",
+            "name": "Johnnyahya",
+            "currentLevel": 22,
+            "careerLevel": 101,
+            "collectorLevel": 14,
+            "eliteMerits": 8655,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8655
+            },
+            "scoreRaw": 8655,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 168,
+            "accountId": "0-2749015",
+            "accountHigh": 0,
+            "accountLow": 2749015,
+            "tag": "#LRLQ2U8U",
+            "name": "Я𝑬 | KIZARÜ",
+            "currentLevel": 50,
+            "careerLevel": 130,
+            "collectorLevel": 10,
+            "eliteMerits": 8650,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8650
+            },
+            "scoreRaw": 8650,
+            "title": {
+                "rowId": 5800048,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 169,
+            "accountId": "0-203152",
+            "accountHigh": 0,
+            "accountLow": 203152,
+            "tag": "#LURJVYL",
+            "name": "Huberos",
+            "currentLevel": 28,
+            "careerLevel": 107,
+            "collectorLevel": 17,
+            "eliteMerits": 8645,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8645
+            },
+            "scoreRaw": 8645,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 170,
+            "accountId": "1-2190735",
+            "accountHigh": 1,
+            "accountLow": 2190735,
+            "tag": "#YPLJCL8Y",
+            "name": "deff",
+            "currentLevel": 19,
+            "careerLevel": 95,
+            "collectorLevel": 9,
+            "eliteMerits": 8642,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8642
+            },
+            "scoreRaw": 8642,
+            "title": {
+                "rowId": 5800051,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -3,
+            "isNew": false
+        },
+        {
+            "rank": 171,
+            "accountId": "0-206245",
+            "accountHigh": 0,
+            "accountLow": 206245,
+            "tag": "#Q08YQ98",
+            "name": "Wizcrasher",
+            "currentLevel": 22,
+            "careerLevel": 98,
+            "collectorLevel": 14,
+            "eliteMerits": 8637,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8637
+            },
+            "scoreRaw": 8637,
+            "title": {
+                "rowId": 5800049,
+                "resolved": null
+            },
+            "bannerId": 7000022,
+            "bannerAsset": "banner_art_image_14",
+            "delta": null,
+            "isNew": true
+        },
+        {
+            "rank": 172,
+            "accountId": "0-1943311",
+            "accountHigh": 0,
+            "accountLow": 1943311,
+            "tag": "#PJ20082J",
+            "name": "C̸AØS🧬Speed",
+            "currentLevel": 33,
+            "careerLevel": 109,
+            "collectorLevel": 11,
+            "eliteMerits": 8637,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8637
+            },
+            "scoreRaw": 8637,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 173,
+            "accountId": "0-2745528",
+            "accountHigh": 0,
+            "accountLow": 2745528,
+            "tag": "#LRPCUQJG",
+            "name": "laguna85",
+            "currentLevel": 40,
+            "careerLevel": 119,
+            "collectorLevel": 11,
+            "eliteMerits": 8635,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8635
+            },
+            "scoreRaw": 8635,
+            "title": {
+                "rowId": 5800043,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 174,
+            "accountId": "0-274362",
+            "accountHigh": 0,
+            "accountLow": 274362,
+            "tag": "#RPGPLY8",
+            "name": "𝐁𝐢𝐭𝐢",
+            "currentLevel": 39,
+            "careerLevel": 121,
+            "collectorLevel": 10,
+            "eliteMerits": 8634,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8634
+            },
+            "scoreRaw": 8634,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 175,
+            "accountId": "0-1299364",
+            "accountHigh": 0,
+            "accountLow": 1299364,
+            "tag": "#988LCLLU",
+            "name": "雪念念与鱼🐟",
+            "currentLevel": 55,
+            "careerLevel": 133,
+            "collectorLevel": 15,
+            "eliteMerits": 8631,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8631
+            },
+            "scoreRaw": 8631,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 176,
+            "accountId": "0-2071036",
+            "accountHigh": 0,
+            "accountLow": 2071036,
+            "tag": "#Y0YC88GG",
+            "name": "yousef",
+            "currentLevel": 43,
+            "careerLevel": 124,
+            "collectorLevel": 10,
+            "eliteMerits": 8630,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8630
+            },
+            "scoreRaw": 8630,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 177,
+            "accountId": "1-201780",
+            "accountHigh": 1,
+            "accountLow": 201780,
+            "tag": "#LU0GVYQ",
+            "name": "于灰",
+            "currentLevel": 64,
+            "careerLevel": 144,
+            "collectorLevel": 11,
+            "eliteMerits": 8628,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8628
+            },
+            "scoreRaw": 8628,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 178,
+            "accountId": "1-978448",
+            "accountHigh": 1,
+            "accountLow": 978448,
+            "tag": "#8Y9J9JUR",
+            "name": "(｡•ㅅ•｡)♡",
+            "currentLevel": 39,
+            "careerLevel": 119,
+            "collectorLevel": 22,
+            "eliteMerits": 8627,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8627
+            },
+            "scoreRaw": 8627,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000004,
+            "bannerAsset": "banner_art_color_05",
+            "delta": -4,
+            "isNew": false
+        },
+        {
+            "rank": 179,
+            "accountId": "1-1295094",
+            "accountHigh": 1,
+            "accountLow": 1295094,
+            "tag": "#980LY2PV",
+            "name": "Huyax",
+            "currentLevel": 39,
+            "careerLevel": 116,
+            "collectorLevel": 15,
+            "eliteMerits": 8621,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8621
+            },
+            "scoreRaw": 8621,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": null,
+            "isNew": true
+        },
+        {
+            "rank": 180,
+            "accountId": "1-2360137",
+            "accountHigh": 1,
+            "accountLow": 2360137,
+            "tag": "#YJ9YRRUV",
+            "name": "mago",
+            "currentLevel": 39,
+            "careerLevel": 119,
+            "collectorLevel": 25,
+            "eliteMerits": 8621,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8621
+            },
+            "scoreRaw": 8621,
+            "title": {
+                "rowId": 5800085,
+                "resolved": null
+            },
+            "bannerId": 7000007,
+            "bannerAsset": "banner_art_color_08",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 181,
+            "accountId": "0-259541",
+            "accountHigh": 0,
+            "accountLow": 259541,
+            "tag": "#GCQQJPG",
+            "name": "OlkiP",
+            "currentLevel": 28,
+            "careerLevel": 104,
+            "collectorLevel": 11,
+            "eliteMerits": 8619,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8619
+            },
+            "scoreRaw": 8619,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 182,
+            "accountId": "1-317654",
+            "accountHigh": 1,
+            "accountLow": 317654,
+            "tag": "#JC8CY0Y",
+            "name": "renata",
+            "currentLevel": 27,
+            "careerLevel": 104,
+            "collectorLevel": 16,
+            "eliteMerits": 8616,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8616
+            },
+            "scoreRaw": 8616,
+            "title": {
+                "rowId": 5800123,
+                "resolved": null
+            },
+            "bannerId": 7000004,
+            "bannerAsset": "banner_art_color_05",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 183,
+            "accountId": "0-1904169",
+            "accountHigh": 0,
+            "accountLow": 1904169,
+            "tag": "#PGJY8YUP",
+            "name": "MEGA || MARTI",
+            "currentLevel": 24,
+            "careerLevel": 103,
+            "collectorLevel": 22,
+            "eliteMerits": 8611,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8611
+            },
+            "scoreRaw": 8611,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 184,
+            "accountId": "1-2765302",
+            "accountHigh": 1,
+            "accountLow": 2765302,
+            "tag": "#LJ09RY0Y",
+            "name": "魔|BaByApE|神",
+            "currentLevel": 43,
+            "careerLevel": 124,
+            "collectorLevel": 36,
+            "eliteMerits": 8603,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8603
+            },
+            "scoreRaw": 8603,
+            "title": {
+                "rowId": 5800119,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 185,
+            "accountId": "1-360507",
+            "accountHigh": 1,
+            "accountLow": 360507,
+            "tag": "#U9GYPP2",
+            "name": "Swyny",
+            "currentLevel": 27,
+            "careerLevel": 104,
+            "collectorLevel": 21,
+            "eliteMerits": 8595,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8595
+            },
+            "scoreRaw": 8595,
+            "title": {
+                "rowId": 5800047,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 186,
+            "accountId": "0-201551",
+            "accountHigh": 0,
+            "accountLow": 201551,
+            "tag": "#LCV2GP0",
+            "name": "Itaycohen213",
+            "currentLevel": 31,
+            "careerLevel": 110,
+            "collectorLevel": 20,
+            "eliteMerits": 8643,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8593
+            },
+            "scoreRaw": 8593,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 187,
+            "accountId": "0-243859",
+            "accountHigh": 0,
+            "accountLow": 243859,
+            "tag": "#GP20RJ0",
+            "name": "Kamado Er",
+            "currentLevel": 29,
+            "careerLevel": 105,
+            "collectorLevel": 11,
+            "eliteMerits": 8590,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8590
+            },
+            "scoreRaw": 8590,
+            "title": {
+                "rowId": 5800116,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 188,
+            "accountId": "0-2476297",
+            "accountHigh": 0,
+            "accountLow": 2476297,
+            "tag": "#L08RJC2L",
+            "name": "哪有賭徒天天輸🍌",
+            "currentLevel": 25,
+            "careerLevel": 103,
+            "collectorLevel": 10,
+            "eliteMerits": 8588,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8588
+            },
+            "scoreRaw": 8588,
+            "title": {
+                "rowId": 5800000,
+                "resolved": null
+            },
+            "bannerId": 7000024,
+            "bannerAsset": "banner_art_image_16",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 189,
+            "accountId": "0-3761238",
+            "accountHigh": 0,
+            "accountLow": 3761238,
+            "tag": "#R2UPLRYL",
+            "name": "CZE| Locopi 🫠",
+            "currentLevel": 34,
+            "careerLevel": 110,
+            "collectorLevel": 4,
+            "eliteMerits": 8587,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8587
+            },
+            "scoreRaw": 8587,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 190,
+            "accountId": "1-390741",
+            "accountHigh": 1,
+            "accountLow": 390741,
+            "tag": "#V9VCVGY",
+            "name": "Я𝑬 | BabyBoss★",
+            "currentLevel": 30,
+            "careerLevel": 108,
+            "collectorLevel": 14,
+            "eliteMerits": 8585,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8585
+            },
+            "scoreRaw": 8585,
+            "title": {
+                "rowId": 5800011,
+                "resolved": null
+            },
+            "bannerId": 7000028,
+            "bannerAsset": "banner_art_image_20",
+            "delta": -5,
+            "isNew": false
+        },
+        {
+            "rank": 191,
+            "accountId": "1-1527414",
+            "accountHigh": 1,
+            "accountLow": 1527414,
+            "tag": "#9RV0Q9J2",
+            "name": "Mekk¤",
+            "currentLevel": 34,
+            "careerLevel": 112,
+            "collectorLevel": 20,
+            "eliteMerits": 8583,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8583
+            },
+            "scoreRaw": 8583,
+            "title": {
+                "rowId": 5800006,
+                "resolved": null
+            },
+            "bannerId": 7000029,
+            "bannerAsset": "banner_art_image_21",
+            "delta": null,
+            "isNew": true
+        },
+        {
+            "rank": 192,
+            "accountId": "0-310150",
+            "accountHigh": 0,
+            "accountLow": 310150,
+            "tag": "#JQGC9UP",
+            "name": "秋日私语",
+            "currentLevel": 56,
+            "careerLevel": 134,
+            "collectorLevel": 16,
+            "eliteMerits": 8581,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8581
+            },
+            "scoreRaw": 8581,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 193,
+            "accountId": "1-1193148",
+            "accountHigh": 1,
+            "accountLow": 1193148,
+            "tag": "#8UQV02YQ",
+            "name": "COVID-19",
+            "currentLevel": 42,
+            "careerLevel": 122,
+            "collectorLevel": 51,
+            "eliteMerits": 8581,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8581
+            },
+            "scoreRaw": 8581,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 194,
+            "accountId": "1-3351832",
+            "accountHigh": 1,
+            "accountLow": 3351832,
+            "tag": "#G2VL9Y0Y",
+            "name": "Nightmare",
+            "currentLevel": 22,
+            "careerLevel": 99,
+            "collectorLevel": 11,
+            "eliteMerits": 8581,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8581
+            },
+            "scoreRaw": 8581,
+            "title": {
+                "rowId": 5800121,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 195,
+            "accountId": "0-3721000",
+            "accountHigh": 0,
+            "accountLow": 3721000,
+            "tag": "#R0Q8PRGU",
+            "name": "Shawn",
+            "currentLevel": 20,
+            "careerLevel": 96,
+            "collectorLevel": 6,
+            "eliteMerits": 8575,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8575
+            },
+            "scoreRaw": 8575,
+            "title": {
+                "rowId": 5800129,
+                "resolved": null
+            },
+            "bannerId": 7000030,
+            "bannerAsset": "banner_art_image_22",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 196,
+            "accountId": "0-3430324",
+            "accountHigh": 0,
+            "accountLow": 3430324,
+            "tag": "#GPGCP98G",
+            "name": "Rue",
+            "currentLevel": 31,
+            "careerLevel": 110,
+            "collectorLevel": 18,
+            "eliteMerits": 8572,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8572
+            },
+            "scoreRaw": 8572,
+            "title": {
+                "rowId": 5800128,
+                "resolved": null
+            },
+            "bannerId": 7000010,
+            "bannerAsset": "banner_art_image_02",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 197,
+            "accountId": "0-291118",
+            "accountHigh": 0,
+            "accountLow": 291118,
+            "tag": "#RUQVRJG",
+            "name": "Xerosis",
+            "currentLevel": 42,
+            "careerLevel": 118,
+            "collectorLevel": 14,
+            "eliteMerits": 8569,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8569
+            },
+            "scoreRaw": 8569,
+            "title": {
+                "rowId": 5800023,
+                "resolved": null
+            },
+            "bannerId": 7000024,
+            "bannerAsset": "banner_art_image_16",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 198,
+            "accountId": "0-3791744",
+            "accountHigh": 0,
+            "accountLow": 3791744,
+            "tag": "#R8UCJRVL",
+            "name": "ekko",
+            "currentLevel": 27,
+            "careerLevel": 103,
+            "collectorLevel": 4,
+            "eliteMerits": 8569,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8569
+            },
+            "scoreRaw": 8569,
+            "title": {
+                "rowId": 5800119,
+                "resolved": null
+            },
+            "bannerId": 7000026,
+            "bannerAsset": "banner_art_image_18",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 199,
+            "accountId": "0-3698428",
+            "accountHigh": 0,
+            "accountLow": 3698428,
+            "tag": "#GVJYUCCJ",
+            "name": "pompom",
+            "currentLevel": 37,
+            "careerLevel": 115,
+            "collectorLevel": 6,
+            "eliteMerits": 8566,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8566
+            },
+            "scoreRaw": 8566,
+            "title": {
+                "rowId": 5800127,
+                "resolved": null
+            },
+            "bannerId": 7000011,
+            "bannerAsset": "banner_art_image_03",
+            "delta": -6,
+            "isNew": false
+        },
+        {
+            "rank": 200,
+            "accountId": "1-2198357",
+            "accountHigh": 1,
+            "accountLow": 2198357,
+            "tag": "#YPJYGQL2",
+            "name": "yefe",
+            "currentLevel": 33,
+            "careerLevel": 105,
+            "collectorLevel": 13,
+            "eliteMerits": 8559,
+            "hasElitePass": false,
+            "score": {
+                "kind": "merits",
+                "value": 8559
+            },
+            "scoreRaw": 8559,
+            "title": {
+                "rowId": 5800048,
+                "resolved": null
+            },
+            "bannerId": 7000027,
+            "bannerAsset": "banner_art_image_19",
+            "delta": -6,
+            "isNew": false
+        }
+    ],
+    "fetchedAt": "2026-06-20T21:46:22.720Z",
+    "period": "s2w1"
+}

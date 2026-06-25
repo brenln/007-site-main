@@ -1,109 +1,254 @@
-.ranking {
-    pointer-events: none;
-}
-
-.ranking #g1 {
-    position: absolute;
-    margin-top: 510px;
-    left: 2%;
-} .ranking #g2 {
-    position: absolute;
-    margin-top: 510px;
-    right: 20%;
-}
-
+/* ESCRITAS */
 .titulo h1 {
     font-family: "JetBrains Mono", monospace;
     font-size: 6rem;
     position: absolute;
-    top: 130px;
-    left: 3%;
+    top: 120px;
+    left: 30%;
 }
 
 .titulo p {
     font-family: "JetBrains Mono", monospace;
     font-size: 1rem;
-    left: 4%;
-}.titulo #p1 {
+    left: 35%;
+}
+
+.titulo #p1 {
     position: absolute;
-    top: 260px;
-}.titulo #p2 {
+    top: 250px;
+}
+
+.titulo #p2 {
     position: absolute;
-    top: 280px;
-}.titulo #p3 {
+    top: 270px;
+}
+
+.titulo #p3 {
     position: absolute;
-    top: 300px;
-} .cor{
+    top: 290px;
+}
+
+.cor {
     font-family: "JetBrains Mono", monospace;
     color: #14D921;
 }
 
-.elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
+
+/* CORPO PRINCIPAL */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main:first-of-type {
+    min-height: 340px;
+    position: relative;
+}
+
+main:last-of-type {
+    margin: 0 auto 60px auto;
+    max-width: 900px;
+    width: 90%;
+}
+
+
+/* CABEÇALHO */
+.cabecalho {
+    display: grid;
+    grid-template-columns: 100px 1fr 160px;
+    padding: 10px 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+    color: rgba(255,255,255,0.45);
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.cabecalho .merits {
+    text-align: right;
+}
+
+
+/* LINHAS DO RANKING */
+.corpo {
+    display: flex;
+    flex-direction: column;
+}
+
+.linha-rank {
+    display: grid;
+    grid-template-columns: 100px 1fr 160px;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    text-decoration: none;
+    color: #fff;
+    transition: background 0.15s;
+    font-family: "JetBrains Mono", monospace;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.linha-rank:hover {
+    background: rgba(255,255,255,0.04);
+}
+
+.rank-num {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+}
+
+.rank-num-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.icone-podio {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+}
+
+
+/* INFORMACOES DO CACADOR */
+.hunter-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.hunter-dados {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.hunter-name {
+    font-size: 0.9rem;
+    color: #fff;
+}
+
+.hunter-sub {
+    font-size: 0.7rem;
+    color: rgba(255,255,255,0.45);
+}
+
+
+/* AVATAR E MERITOS */
+.avatar {
     position: absolute;
-    width: 60%;
-    left: 4%;
-    top: 350px;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    opacity: 0.08;
+    z-index: -1;
 }
 
-@media (min-width: 1365px) and (max-width: 1600px) {
-    .ranking #g1 {
-    margin-top: 510px;
-    left: 2%;
-    } .ranking #g2 {
-        margin-top: 510px;
-        right: 2%;
-    }
-    .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
-    top: 350px;
-    }
+.merits-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #fff;
 }
 
+.icone-merit {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+
+/*  RESPONSIVO */
 @media (max-width: 1200px) {
     .titulo h1 {
-    font-size: 5rem;
+        font-size: 5rem;
     }
-    .ranking #g1 {
-    margin-top: 550px;
-    left: 0%;
-    } 
-    .ranking #g2 {
-    margin-top: 950px;
-    left: 0%;
+}
+
+@media (max-width: 768px) {
+    .titulo h1 {
+        font-size: 4rem;
+        left: 10%;
     }
-    
-    .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
-    top: 350px;
-    }   
+
+    .titulo #p1 { top: 230px; }
+    .titulo #p2 { top: 252px; }
+    .titulo #p3 { top: 274px; }
+
+    .cabecalho {
+        grid-template-columns: 70px 1fr 120px;
+        padding: 8px 12px;
+    }
+
+    .linha-rank {
+        grid-template-columns: 70px 1fr 120px;
+        padding: 14px 12px;
+    }
+
+    .hunter-name { font-size: 0.8rem; }
+    .hunter-sub  { font-size: 0.65rem; }
+
+    .merits-info { font-size: 0.85rem; }
+
+    .icone-merit {
+        width: 18px;
+        height: 18px;
+    }
 }
 
 @media (max-width: 576px) {
     .titulo h1 {
-    font-size: 3rem;
-    left: 5%;
+        font-size: 3rem;
+        left: 5%;
     }
-    .ranking #g1 {
-    margin-top: 710px;
-    right: 2%;
-    } 
-    .ranking #g2 {
-    margin-top: 1110px;
-    }
-    .elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a{
-    width: 40%;
-    top: 447px;
-    }
+
     .titulo p {
-    font-family: "JetBrains Mono", monospace;
-    font-size: 1rem;
-    left: 4%;
-    }.titulo #p1 {
-        top: 280px;
-    }.titulo #p2 {
-        top: 320px;
-    }.titulo #p3 {
-        top: 360px;
+        font-size: 0.85rem;
+        left: 4%;
     }
 
+    .titulo #p1 { top: 280px; }
+    .titulo #p2 { top: 320px; }
+    .titulo #p3 { top: 360px; }
 
+    main:first-of-type {
+        min-height: 400px;
+    }
 
+    .cabecalho {
+        grid-template-columns: 50px 1fr 90px;
+        padding: 8px 10px;
+        font-size: 0.65rem;
+    }
+
+    .linha-rank {
+        grid-template-columns: 50px 1fr 90px;
+        padding: 12px 10px;
+    }
+
+    .icone-podio {
+        width: 26px;
+        height: 26px;
+    }
+
+    .rank-num { font-size: 0.85rem; }
+
+    .hunter-name { font-size: 0.75rem; }
+    .hunter-sub  { display: none; }
+
+    .merits-info { font-size: 0.8rem; gap: 4px; }
+
+    .icone-merit {
+        width: 16px;
+        height: 16px;
+    }
 }
