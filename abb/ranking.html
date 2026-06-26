@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,21 +8,21 @@
     <link rel="stylesheet" href="../styles/styles.css">
     <link rel="stylesheet" href="../styles/hamburguer.css">
     <link rel="stylesheet" href="../styles/grafico.css">
-    <link rel="icon" href="../image/FaviconBFavicon007.svg" type="image/svg" sizes="32x32">
+    <link rel="icon" href="/image/007_imgs/FaviconBFavicon007.svg" type="image/svg" sizes="32x32">
+    
 </head>
 
 <body>
 
     <header>
 
-        <a href="/index.html"><img src="../image/2.svg" alt="Logo 007" class="logo-img"></a>
-        
+        <a href="/index.html"><img src="../image/007_imgs/2.svg" alt="Logo 007" class="logo-img"></a>
+
         <button class="hamburguer" id="hamburguer">
             <span></span>
             <span></span>
             <span></span>
         </button>
-
 
         <nav class="navegacao" id="navegacao">
             <a href="/index.html">Inicio</a>
@@ -34,14 +35,6 @@
 
     <main>
 
-        <section class="ranking">
-            <iframe id="g1" width="655" height="377" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0mptdGn9-wm8wjgcFwL-S8HLGY2B4et3zuOnDWswe2tAELe7fKEAQhKa07WsUkk3QglxN4TD_SZcW/pubchart?oid=513221061&amp;format=interactive"></iframe>
-            <iframe id="g2" width="655" height="377" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0mptdGn9-wm8wjgcFwL-S8HLGY2B4et3zuOnDWswe2tAELe7fKEAQhKa07WsUkk3QglxN4TD_SZcW/pubchart?oid=1067995768&amp;format=interactive"></iframe>
-            <!-- Elfsight Number Counter | Untitled Number Counter -->
-            <script src="https://elfsightcdn.com/platform.js" async></script>
-            <div class="elfsight-app-b8608f04-26d7-41c3-be4c-0fd9507f459a" data-elfsight-app-lazy></div>
-        </section>
-
         <section class="titulo">
             <h1>007 EM NÚMEROS</h1>
             <p id="p1">Ser 007 é mais do que uma tag ou cargo. Aqui, o nosso</p><br>
@@ -51,8 +44,20 @@
 
     </main>
 
-    <script src="../scripts/hamburguer.js"></script>
+<main>
+  <div class="cabecalho">
+    <div class="rank">Rank</div>
+    <div class="hunter">Caçadores</div>
+    <div class="merits">Méritos</div>
+  </div>
+  <div class="corpo" id="corpo"></div>
+</main>
 
+
+
+    <script src="../scripts/hamburguer.js"></script>
+    <script src="../scripts/ranking.js"></script>
 
 </body>
+
 </html>
