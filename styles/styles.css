@@ -190,9 +190,7 @@ header a {
     font-family: "JetBrains Mono", monospace;
 }
 
-footer{
-    margin-top: 100vh; 
-    margin-top: 100dvh; 
+footer{ 
     text-align: center;
     background-color: #000000;
 } footer p{
