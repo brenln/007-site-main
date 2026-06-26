@@ -1019,27 +1019,27 @@
     "weaponsCollected": 10
   },
   "tag": "#PUQ22R9C",
-  "fetchedAt": "2026-06-26T20:04:36.673Z",
+  "fetchedAt": "2026-06-26T20:34:11.871Z",
   "rankings": {
     "currentLevel": {
-      "position": 1779,
-      "total": 10447
+      "position": 1786,
+      "total": 10456
     },
     "careerLevel": {
-      "position": 1681,
-      "total": 10447
+      "position": 1687,
+      "total": 10456
     },
     "collectorLevel": {
-      "position": 2133,
-      "total": 10447
+      "position": 2135,
+      "total": 10456
     },
     "eliteMerits": {
-      "position": 350,
-      "total": 10447
+      "position": 355,
+      "total": 10456
     },
     "monstersHunted": {
-      "position": 8329,
-      "total": 10447
+      "position": 8331,
+      "total": 10456
     }
   },
   "metricsHistory": []

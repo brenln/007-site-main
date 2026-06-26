@@ -197,7 +197,7 @@
       },
       "rank": {
         "position": 1,
-        "total": 7680
+        "total": 7682
       }
     },
     {
@@ -211,8 +211,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 807,
-        "total": 8330
+        "position": 808,
+        "total": 8332
       }
     },
     {
@@ -226,8 +226,8 @@
         "rowId": 103
       },
       "rank": {
-        "position": 822,
-        "total": 4643
+        "position": 823,
+        "total": 4645
       }
     },
     {
@@ -242,7 +242,7 @@
       },
       "rank": {
         "position": 783,
-        "total": 4715
+        "total": 4716
       }
     },
     {
@@ -256,8 +256,8 @@
         "rowId": 102
       },
       "rank": {
-        "position": 587,
-        "total": 4025
+        "position": 595,
+        "total": 4028
       }
     }
   ],
@@ -1326,27 +1326,27 @@
     "weaponsCollected": 10
   },
   "tag": "#YJ8CJYJ0",
-  "fetchedAt": "2026-06-26T20:04:30.082Z",
+  "fetchedAt": "2026-06-26T20:34:05.049Z",
   "rankings": {
     "currentLevel": {
-      "position": 218,
-      "total": 10447
+      "position": 220,
+      "total": 10456
     },
     "careerLevel": {
-      "position": 274,
-      "total": 10447
+      "position": 278,
+      "total": 10456
     },
     "collectorLevel": {
       "position": 180,
-      "total": 10447
+      "total": 10456
     },
     "eliteMerits": {
-      "position": 767,
-      "total": 10447
+      "position": 778,
+      "total": 10456
     },
     "monstersHunted": {
-      "position": 806,
-      "total": 10447
+      "position": 807,
+      "total": 10456
     }
   },
   "metricsHistory": []

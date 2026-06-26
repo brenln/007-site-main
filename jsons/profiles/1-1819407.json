@@ -176,8 +176,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 513,
-        "total": 8330
+        "position": 515,
+        "total": 8332
       }
     },
     {
@@ -192,7 +192,7 @@
       },
       "rank": {
         "position": 316,
-        "total": 4643
+        "total": 4645
       }
     }
   ],
@@ -1236,27 +1236,27 @@
     "weaponsCollected": 10
   },
   "tag": "#PYU0PGPR",
-  "fetchedAt": "2026-06-26T20:03:51.947Z",
+  "fetchedAt": "2026-06-26T20:33:58.806Z",
   "rankings": {
     "currentLevel": {
-      "position": 960,
-      "total": 10447
+      "position": 968,
+      "total": 10456
     },
     "careerLevel": {
-      "position": 894,
-      "total": 10447
+      "position": 898,
+      "total": 10456
     },
     "collectorLevel": {
       "position": 1427,
-      "total": 10447
+      "total": 10456
     },
     "eliteMerits": {
-      "position": 575,
-      "total": 10447
+      "position": 583,
+      "total": 10456
     },
     "monstersHunted": {
-      "position": 512,
-      "total": 10447
+      "position": 514,
+      "total": 10456
     }
   },
   "metricsHistory": []

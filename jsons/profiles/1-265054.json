@@ -6,7 +6,7 @@
   "currentLevel": 79,
   "careerLevel": 158,
   "collectorLevel": 13,
-  "eliteMerits": 13827,
+  "eliteMerits": 13975,
   "hasElitePass": false,
   "bannerId": 7000010,
   "title": {
@@ -136,16 +136,21 @@
   ],
   "equippedGear": [
     {
-      "rowId": 2902313,
-      "resolved": null
+      "rowId": 2901274,
+      "resolved": {
+        "name": "BeetleBossStatueRangedAttack2",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 1274
+      }
     },
     {
-      "rowId": 2901054,
+      "rowId": 2901282,
       "resolved": {
-        "name": "mechamythical_emoji_basic_01",
-        "tid": "TID_mechamythical_emoji_basic_01",
+        "name": "ChaosJumpshotterMultiSpearThrow",
+        "tid": null,
         "fileId": 29,
-        "rowId": 1054
+        "rowId": 1282
       }
     },
     {
@@ -197,12 +202,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 7680
+        "total": 7682
       }
     },
     {
       "rowId": 98,
-      "metric": 401600,
+      "metric": 401650,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -212,7 +217,7 @@
       },
       "rank": {
         "position": 67,
-        "total": 8330
+        "total": 8332
       }
     },
     {
@@ -227,12 +232,12 @@
       },
       "rank": {
         "position": 810,
-        "total": 4643
+        "total": 4645
       }
     },
     {
       "rowId": 99,
-      "metric": 14776,
+      "metric": 14784,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -242,7 +247,7 @@
       },
       "rank": {
         "position": 86,
-        "total": 4715
+        "total": 4716
       }
     },
     {
@@ -257,7 +262,7 @@
       },
       "rank": {
         "position": 7,
-        "total": 4025
+        "total": 4028
       }
     },
     {
@@ -307,7 +312,7 @@
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 401600,
+  "monstersHunted": 401650,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -414,9 +419,9 @@
       "kitRow": 11,
       "equippedGems": [
         {
-          "instanceId": 1978,
+          "instanceId": 1979,
           "type": "Damage",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         },
         {
           "instanceId": 2003,
@@ -1342,31 +1347,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 401600,
+    "monstersHunted": 401650,
     "weaponsCollected": 10
   },
   "tag": "#R08P0VC",
-  "fetchedAt": "2026-06-26T20:04:40.949Z",
+  "fetchedAt": "2026-06-26T20:34:16.357Z",
   "rankings": {
     "currentLevel": {
-      "position": 115,
-      "total": 10447
+      "position": 118,
+      "total": 10456
     },
     "careerLevel": {
-      "position": 118,
-      "total": 10447
+      "position": 119,
+      "total": 10456
     },
     "collectorLevel": {
-      "position": 1720,
-      "total": 10447
+      "position": 1722,
+      "total": 10456
     },
     "eliteMerits": {
-      "position": 591,
-      "total": 10447
+      "position": 582,
+      "total": 10456
     },
     "monstersHunted": {
       "position": 67,
-      "total": 10447
+      "total": 10456
     }
   },
   "metricsHistory": []

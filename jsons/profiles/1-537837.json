@@ -122,12 +122,12 @@
       }
     },
     {
-      "rowId": 2900284,
+      "rowId": 2900289,
       "resolved": {
-        "name": "DragonlingStrongJumperJumpTutorial",
+        "name": "DragonlingStrongJumperV2JumpHard",
         "tid": null,
         "fileId": 29,
-        "rowId": 284
+        "rowId": 289
       }
     }
   ],
@@ -1121,27 +1121,27 @@
     "weaponsCollected": 10
   },
   "tag": "#2PP028VC",
-  "fetchedAt": "2026-06-26T20:04:45.342Z",
+  "fetchedAt": "2026-06-26T20:34:21.062Z",
   "rankings": {
     "currentLevel": {
-      "position": 1494,
-      "total": 10447
+      "position": 1501,
+      "total": 10456
     },
     "careerLevel": {
-      "position": 1601,
-      "total": 10447
+      "position": 1606,
+      "total": 10456
     },
     "collectorLevel": {
-      "position": 5125,
-      "total": 10447
+      "position": 5131,
+      "total": 10456
     },
     "eliteMerits": {
-      "position": 596,
-      "total": 10447
+      "position": 604,
+      "total": 10456
     },
     "monstersHunted": {
-      "position": 8329,
-      "total": 10447
+      "position": 8331,
+      "total": 10456
     }
   },
   "metricsHistory": []

@@ -191,8 +191,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 3029,
-        "total": 8330
+        "position": 3030,
+        "total": 8332
       }
     },
     {
@@ -207,7 +207,7 @@
       },
       "rank": {
         "position": 1,
-        "total": 7680
+        "total": 7682
       }
     },
     {
@@ -1128,27 +1128,27 @@
     "weaponsCollected": 10
   },
   "tag": "#QGYVQPP",
-  "fetchedAt": "2026-06-26T20:04:32.436Z",
+  "fetchedAt": "2026-06-26T20:34:07.434Z",
   "rankings": {
     "currentLevel": {
-      "position": 1215,
-      "total": 10447
+      "position": 1222,
+      "total": 10456
     },
     "careerLevel": {
-      "position": 1601,
-      "total": 10447
+      "position": 1606,
+      "total": 10456
     },
     "collectorLevel": {
-      "position": 7577,
-      "total": 10447
+      "position": 7584,
+      "total": 10456
     },
     "eliteMerits": {
-      "position": 3367,
-      "total": 10447
+      "position": 3373,
+      "total": 10456
     },
     "monstersHunted": {
-      "position": 3027,
-      "total": 10447
+      "position": 3028,
+      "total": 10456
     }
   },
   "metricsHistory": []
