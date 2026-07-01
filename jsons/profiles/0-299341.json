@@ -3,10 +3,10 @@
   "accountLow": 299341,
   "accountId": "0-299341",
   "name": "007 | DZeror",
-  "currentLevel": 74,
-  "careerLevel": 153,
+  "currentLevel": 75,
+  "careerLevel": 154,
   "collectorLevel": 14,
-  "eliteMerits": 13686,
+  "eliteMerits": 16762,
   "hasElitePass": false,
   "bannerId": 7000001,
   "title": {
@@ -158,21 +158,21 @@
       "resolved": null
     },
     {
-      "rowId": 2900576,
+      "rowId": 2900566,
       "resolved": {
-        "name": "DragonlingBossSpiritMeleeWeapon",
+        "name": "DragonlingBossChargerJump",
         "tid": null,
         "fileId": 29,
-        "rowId": 576
+        "rowId": 566
       }
     },
     {
-      "rowId": 2900280,
+      "rowId": 2900281,
       "resolved": {
-        "name": "ShootingPlantAttackElite",
+        "name": "ShootingPlantTripleAttackElite",
         "tid": null,
         "fileId": 29,
-        "rowId": 280
+        "rowId": 281
       }
     }
   ],
@@ -190,12 +190,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 7682
+        "total": 7683
       }
     },
     {
       "rowId": 99,
-      "metric": 15663,
+      "metric": 15754,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -204,8 +204,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 70,
-        "total": 4716
+        "position": 69,
+        "total": 4717
       }
     },
     {
@@ -222,7 +222,7 @@
     },
     {
       "rowId": 103,
-      "metric": 2056,
+      "metric": 2083,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -231,13 +231,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 174,
-        "total": 4645
+        "position": 166,
+        "total": 4646
       }
     },
     {
       "rowId": 98,
-      "metric": 405916,
+      "metric": 413274,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -246,8 +246,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 61,
-        "total": 8332
+        "position": 50,
+        "total": 8333
       }
     },
     {
@@ -261,13 +261,13 @@
         "rowId": 102
       },
       "rank": {
-        "position": 82,
-        "total": 4028
+        "position": 92,
+        "total": 4029
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 405916,
+  "monstersHunted": 413274,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -1312,31 +1312,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 405916,
+    "monstersHunted": 413274,
     "weaponsCollected": 10
   },
   "tag": "#J8LJU00",
-  "fetchedAt": "2026-06-26T20:34:18.797Z",
+  "fetchedAt": "2026-06-27T03:21:54.145Z",
   "rankings": {
     "currentLevel": {
-      "position": 305,
-      "total": 10456
+      "position": 277,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 278,
-      "total": 10456
+      "position": 254,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 1427,
-      "total": 10456
+      "position": 1434,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 630,
-      "total": 10456
+      "position": 173,
+      "total": 10482
     },
     "monstersHunted": {
-      "position": 61,
-      "total": 10456
+      "position": 50,
+      "total": 10482
     }
   },
   "metricsHistory": []

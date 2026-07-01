@@ -3,10 +3,10 @@
   "accountLow": 1819407,
   "accountId": "1-1819407",
   "name": "007 | brenin",
-  "currentLevel": 64,
-  "careerLevel": 141,
+  "currentLevel": 66,
+  "careerLevel": 143,
   "collectorLevel": 14,
-  "eliteMerits": 13968,
+  "eliteMerits": 15424,
   "hasElitePass": false,
   "bannerId": 7000013,
   "title": {
@@ -167,7 +167,7 @@
     },
     {
       "rowId": 98,
-      "metric": 222734,
+      "metric": 225818,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -176,13 +176,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 515,
-        "total": 8332
+        "position": 501,
+        "total": 8333
       }
     },
     {
       "rowId": 103,
-      "metric": 1618,
+      "metric": 1628,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -191,13 +191,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 316,
-        "total": 4645
+        "position": 306,
+        "total": 4646
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 222734,
+  "monstersHunted": 225818,
   "hunterSinceDay": 20281,
   "hunterSince": "2025-07-12",
   "battleKits": [
@@ -608,9 +608,9 @@
       "kitRow": 5,
       "equippedGems": [
         {
-          "instanceId": 1981,
+          "instanceId": 1983,
           "type": "CriticalDamage",
-          "tier": "Charged"
+          "tier": "Megacharged"
         },
         {
           "instanceId": 2003,
@@ -1232,31 +1232,31 @@
   "metrics": {
     "hunterSince": "2025-07-12",
     "hunterSinceDay": 20281,
-    "monstersHunted": 222734,
+    "monstersHunted": 225818,
     "weaponsCollected": 10
   },
   "tag": "#PYU0PGPR",
-  "fetchedAt": "2026-06-26T20:33:58.806Z",
+  "fetchedAt": "2026-06-27T03:21:36.446Z",
   "rankings": {
     "currentLevel": {
-      "position": 968,
-      "total": 10456
+      "position": 859,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 898,
-      "total": 10456
+      "position": 805,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 1427,
-      "total": 10456
+      "position": 1434,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 583,
-      "total": 10456
+      "position": 407,
+      "total": 10482
     },
     "monstersHunted": {
-      "position": 514,
-      "total": 10456
+      "position": 499,
+      "total": 10482
     }
   },
   "metricsHistory": []

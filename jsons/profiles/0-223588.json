@@ -3,8 +3,8 @@
   "accountLow": 223588,
   "accountId": "0-223588",
   "name": "007 | MZin",
-  "currentLevel": 61,
-  "careerLevel": 131,
+  "currentLevel": 62,
+  "careerLevel": 132,
   "collectorLevel": 5,
   "eliteMerits": 10382,
   "hasElitePass": false,
@@ -162,8 +162,13 @@
       "resolved": null
     },
     {
-      "rowId": 2902430,
-      "resolved": null
+      "rowId": 2901906,
+      "resolved": {
+        "name": "DragonlingStrongChargerCharge_MountRace",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 1906
+      }
     }
   ],
   "extraSkinUuid": "36-2f891ee8-9fd6-4b0b-adb8-361e57623450",
@@ -182,7 +187,7 @@
     },
     {
       "rowId": 98,
-      "metric": 83076,
+      "metric": 83586,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -191,8 +196,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 3030,
-        "total": 8332
+        "position": 3016,
+        "total": 8333
       }
     },
     {
@@ -207,12 +212,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 7682
+        "total": 7683
       }
     },
     {
       "rowId": 46,
-      "metric": 631,
+      "metric": 633,
       "scale": 1,
       "resolved": {
         "name": "BossesHuntedHammer",
@@ -221,8 +226,8 @@
         "rowId": 46
       },
       "rank": {
-        "position": 32,
-        "total": 35
+        "position": 33,
+        "total": 36
       }
     },
     {
@@ -238,7 +243,7 @@
     },
     {
       "rowId": 27,
-      "metric": 17826,
+      "metric": 17962,
       "scale": 1,
       "resolved": {
         "name": "MonstersHuntedHammer",
@@ -249,7 +254,7 @@
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 83076,
+  "monstersHunted": 83586,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -1124,31 +1129,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 83076,
+    "monstersHunted": 83586,
     "weaponsCollected": 10
   },
   "tag": "#QGYVQPP",
-  "fetchedAt": "2026-06-26T20:34:07.434Z",
+  "fetchedAt": "2026-06-27T03:21:43.963Z",
   "rankings": {
     "currentLevel": {
-      "position": 1222,
-      "total": 10456
+      "position": 1186,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 1606,
-      "total": 10456
+      "position": 1559,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 7584,
-      "total": 10456
+      "position": 7599,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 3373,
-      "total": 10456
+      "position": 3401,
+      "total": 10482
     },
     "monstersHunted": {
-      "position": 3028,
-      "total": 10456
+      "position": 3013,
+      "total": 10482
     }
   },
   "metricsHistory": []

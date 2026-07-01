@@ -1142,27 +1142,27 @@
     "weaponsCollected": 10
   },
   "tag": "#LVPCQ9PY",
-  "fetchedAt": "2026-06-26T20:34:09.596Z",
+  "fetchedAt": "2026-06-27T03:21:45.902Z",
   "rankings": {
     "currentLevel": {
-      "position": 1501,
-      "total": 10456
+      "position": 1531,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 1448,
-      "total": 10456
+      "position": 1471,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 296,
-      "total": 10456
+      "position": 297,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 1177,
-      "total": 10456
+      "position": 1218,
+      "total": 10482
     },
     "monstersHunted": {
       "position": 8331,
-      "total": 10456
+      "total": 10482
     }
   },
   "metricsHistory": [
@@ -1178,8 +1178,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 1431,
-        "total": 8332
+        "position": 1432,
+        "total": 8333
       }
     },
     {
@@ -1195,7 +1195,7 @@
       },
       "rank": {
         "position": 1225,
-        "total": 4716
+        "total": 4717
       }
     }
   ]

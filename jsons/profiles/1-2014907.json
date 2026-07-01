@@ -3,10 +3,10 @@
   "accountLow": 2014907,
   "accountId": "1-2014907",
   "name": "007 | Symon",
-  "currentLevel": 54,
-  "careerLevel": 130,
+  "currentLevel": 56,
+  "careerLevel": 132,
   "collectorLevel": 12,
-  "eliteMerits": 15381,
+  "eliteMerits": 15443,
   "hasElitePass": false,
   "bannerId": 7000029,
   "title": {
@@ -83,17 +83,22 @@
       "resolved": null
     },
     {
-      "rowId": 2901416,
+      "rowId": 2901415,
       "resolved": {
-        "name": "mount_llambra_01_b",
-        "tid": "mount_llambra_01_b",
+        "name": "mount_llambra_01_a",
+        "tid": "mount_llambra_01_a",
         "fileId": 29,
-        "rowId": 1416
+        "rowId": 1415
       }
     },
     {
-      "rowId": 2915858,
-      "resolved": null
+      "rowId": 2900284,
+      "resolved": {
+        "name": "DragonlingStrongJumperJumpTutorial",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 284
+      }
     }
   ],
   "extraSkinUuid": "33-598eba3d-e4f3-4221-ad35-dd0232481a49",
@@ -1019,27 +1024,27 @@
     "weaponsCollected": 10
   },
   "tag": "#PUQ22R9C",
-  "fetchedAt": "2026-06-26T20:34:11.871Z",
+  "fetchedAt": "2026-06-27T03:21:47.928Z",
   "rankings": {
     "currentLevel": {
-      "position": 1786,
-      "total": 10456
+      "position": 1615,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 1687,
-      "total": 10456
+      "position": 1559,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 2135,
-      "total": 10456
+      "position": 2140,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 355,
-      "total": 10456
+      "position": 406,
+      "total": 10482
     },
     "monstersHunted": {
       "position": 8331,
-      "total": 10456
+      "total": 10482
     }
   },
   "metricsHistory": []

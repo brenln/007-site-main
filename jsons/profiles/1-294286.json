@@ -3,10 +3,10 @@
   "accountLow": 294286,
   "accountId": "1-294286",
   "name": "007 | RAFA🇧🇷",
-  "currentLevel": 71,
-  "careerLevel": 146,
+  "currentLevel": 72,
+  "careerLevel": 147,
   "collectorLevel": 19,
-  "eliteMerits": 14021,
+  "eliteMerits": 16639,
   "hasElitePass": false,
   "bannerId": 7000030,
   "title": {
@@ -19,7 +19,7 @@
       "rowId": 6800095
     },
     {
-      "rowId": 6800127
+      "rowId": 6800128
     },
     {
       "rowId": 6800066
@@ -34,7 +34,7 @@
       "rowId": 6800095
     },
     {
-      "rowId": 6800127
+      "rowId": 6800128
     },
     {
       "rowId": 6800066
@@ -64,19 +64,19 @@
       }
     },
     {
-      "rowId": 127,
+      "rowId": 128,
       "resolved": {
-        "name": "TrophySeason2_9",
+        "name": "TrophySeason2_10",
         "tid": "TID_BADGE_TROPHY_TITLE",
         "fileId": 69,
-        "rowId": 127,
+        "rowId": 128,
         "label": "Elite Merit Badge",
         "season": 2,
-        "tier": 9,
+        "tier": 10,
         "iconAsset": null,
         "baseIconAsset": "badge_trophy_02",
         "type": "TIERS",
-        "level": 8
+        "level": 9
       }
     },
     {
@@ -154,21 +154,21 @@
       }
     },
     {
-      "rowId": 2900485,
+      "rowId": 2900673,
       "resolved": {
-        "name": "BeetleStrongMeleeBuff",
-        "tid": null,
+        "name": "Emote_lance_shield",
+        "tid": "TID_Emote_lance_shield",
         "fileId": 29,
-        "rowId": 485
+        "rowId": 673
       }
     },
     {
-      "rowId": 2900487,
+      "rowId": 2900482,
       "resolved": {
-        "name": "BeetleBossRiderSummonPhase3",
-        "tid": null,
+        "name": "medieval_emote_epic_thumb",
+        "tid": "TID_MEDIEVAL_EMOTE_EPIC_THUMB",
         "fileId": 29,
-        "rowId": 487
+        "rowId": 482
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "rowId": 98,
-      "metric": 173655,
+      "metric": 178735,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -206,8 +206,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 954,
-        "total": 8332
+        "position": 892,
+        "total": 8333
       }
     },
     {
@@ -222,7 +222,7 @@
       },
       "rank": {
         "position": 1,
-        "total": 7682
+        "total": 7683
       }
     },
     {
@@ -237,12 +237,12 @@
       },
       "rank": {
         "position": 7,
-        "total": 4028
+        "total": 4029
       }
     },
     {
       "rowId": 103,
-      "metric": 495,
+      "metric": 534,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -251,13 +251,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 1440,
-        "total": 4645
+        "position": 1325,
+        "total": 4646
       }
     },
     {
       "rowId": 99,
-      "metric": 6729,
+      "metric": 6835,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -266,13 +266,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 805,
-        "total": 4716
+        "position": 781,
+        "total": 4717
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 173655,
+  "monstersHunted": 178735,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -864,9 +864,9 @@
           "tier": "Overcharged"
         },
         {
-          "instanceId": 1998,
+          "instanceId": 1999,
           "type": "Health",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -880,7 +880,7 @@
         },
         {
           "type": "Health",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "ownedGems": [
@@ -928,6 +928,11 @@
           "instanceId": 2002,
           "type": "HealingReceived",
           "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
         }
       ],
       "resolved": {
@@ -1262,31 +1267,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 173655,
+    "monstersHunted": 178735,
     "weaponsCollected": 10
   },
   "tag": "#J0229QC",
-  "fetchedAt": "2026-06-26T20:34:14.004Z",
+  "fetchedAt": "2026-06-27T03:21:49.845Z",
   "rankings": {
     "currentLevel": {
-      "position": 466,
-      "total": 10456
+      "position": 438,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 589,
-      "total": 10456
+      "position": 554,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 739,
-      "total": 10456
+      "position": 744,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 577,
-      "total": 10456
+      "position": 197,
+      "total": 10482
     },
     "monstersHunted": {
-      "position": 953,
-      "total": 10456
+      "position": 890,
+      "total": 10482
     }
   },
   "metricsHistory": []

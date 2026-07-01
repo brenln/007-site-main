@@ -3,10 +3,10 @@
   "accountLow": 537837,
   "accountId": "1-537837",
   "name": "007 | Mr. Zero",
-  "currentLevel": 57,
-  "careerLevel": 131,
+  "currentLevel": 58,
+  "careerLevel": 132,
   "collectorLevel": 8,
-  "eliteMerits": 13799,
+  "eliteMerits": 13803,
   "hasElitePass": false,
   "bannerId": 7000010,
   "title": {
@@ -122,12 +122,12 @@
       }
     },
     {
-      "rowId": 2900289,
+      "rowId": 2900281,
       "resolved": {
-        "name": "DragonlingStrongJumperV2JumpHard",
+        "name": "ShootingPlantTripleAttackElite",
         "tid": null,
         "fileId": 29,
-        "rowId": 289
+        "rowId": 281
       }
     }
   ],
@@ -1003,9 +1003,9 @@
           "tier": "Overcharged"
         },
         {
-          "instanceId": 2002,
+          "instanceId": 2003,
           "type": "HealingReceived",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         },
         {
           "instanceId": 1998,
@@ -1121,27 +1121,27 @@
     "weaponsCollected": 10
   },
   "tag": "#2PP028VC",
-  "fetchedAt": "2026-06-26T20:34:21.062Z",
+  "fetchedAt": "2026-06-27T03:21:56.161Z",
   "rankings": {
     "currentLevel": {
-      "position": 1501,
-      "total": 10456
+      "position": 1458,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 1606,
-      "total": 10456
+      "position": 1559,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 5131,
-      "total": 10456
+      "position": 5141,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 604,
-      "total": 10456
+      "position": 660,
+      "total": 10482
     },
     "monstersHunted": {
       "position": 8331,
-      "total": 10456
+      "total": 10482
     }
   },
   "metricsHistory": []

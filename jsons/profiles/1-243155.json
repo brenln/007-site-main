@@ -3,10 +3,10 @@
   "accountLow": 243155,
   "accountId": "1-243155",
   "name": "007 | Kaynn",
-  "currentLevel": 73,
-  "careerLevel": 153,
-  "collectorLevel": 6,
-  "eliteMerits": 16299,
+  "currentLevel": 74,
+  "careerLevel": 154,
+  "collectorLevel": 7,
+  "eliteMerits": 16414,
   "hasElitePass": false,
   "bannerId": 7000027,
   "title": {
@@ -116,26 +116,17 @@
   "ownedGems": [],
   "skinUuids": [
     "4b9f0096-6eff-3136-cea4-9531df6bf6ee",
-    "4b9f0096-3754-3c0a-77e6-2b31b46fe7e1",
-    "4b9f0096-7319-e582-d349-6fe9c9807d29"
+    "4b9f0096-8d88-a927-0dab-044fa85b21e3",
+    "4b9f0096-40de-a598-e05e-75c897fece02"
   ],
   "equippedGear": [
     {
-      "rowId": 2901474,
+      "rowId": 2901580,
       "resolved": {
-        "name": "ElectricianBallLightning",
-        "tid": "TID_ELECTRICIAN_SKILL_3",
+        "name": "ShotbowBuff",
+        "tid": "TID_SHOTBOW_SKILL_4",
         "fileId": 29,
-        "rowId": 1474
-      }
-    },
-    {
-      "rowId": 2901572,
-      "resolved": {
-        "name": "CatStrongSpearJump",
-        "tid": null,
-        "fileId": 29,
-        "rowId": 1572
+        "rowId": 1580
       }
     },
     {
@@ -148,12 +139,25 @@
       }
     },
     {
-      "rowId": 2900285,
+      "rowId": 2900563,
       "resolved": {
-        "name": "DragonlingStrongMeleeWeaponHard",
+        "name": "DragonlingBossChargerRangedAttack",
         "tid": null,
         "fileId": 29,
-        "rowId": 285
+        "rowId": 563
+      }
+    },
+    {
+      "rowId": 2903831,
+      "resolved": null
+    },
+    {
+      "rowId": 2900289,
+      "resolved": {
+        "name": "DragonlingStrongJumperV2JumpHard",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 289
       }
     }
   ],
@@ -173,7 +177,7 @@
     },
     {
       "rowId": 98,
-      "metric": 286328,
+      "metric": 291861,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -182,8 +186,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 257,
-        "total": 8332
+        "position": 241,
+        "total": 8333
       }
     },
     {
@@ -198,12 +202,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 7682
+        "total": 7683
       }
     },
     {
       "rowId": 99,
-      "metric": 13484,
+      "metric": 13665,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -212,13 +216,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 140,
-        "total": 4716
+        "position": 130,
+        "total": 4717
       }
     },
     {
       "rowId": 103,
-      "metric": 4929,
+      "metric": 4967,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -228,7 +232,7 @@
       },
       "rank": {
         "position": 9,
-        "total": 4645
+        "total": 4646
       }
     },
     {
@@ -243,12 +247,12 @@
       },
       "rank": {
         "position": 7,
-        "total": 4028
+        "total": 4029
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 286328,
+  "monstersHunted": 291861,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -1308,31 +1312,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 286328,
+    "monstersHunted": 291861,
     "weaponsCollected": 10
   },
   "tag": "#G9JY08V",
-  "fetchedAt": "2026-06-26T20:34:02.744Z",
+  "fetchedAt": "2026-06-27T03:21:39.680Z",
   "rankings": {
     "currentLevel": {
-      "position": 350,
-      "total": 10456
+      "position": 322,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 278,
-      "total": 10456
+      "position": 254,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 6865,
-      "total": 10456
+      "position": 5985,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 213,
-      "total": 10456
+      "position": 232,
+      "total": 10482
     },
     "monstersHunted": {
-      "position": 256,
-      "total": 10456
+      "position": 240,
+      "total": 10482
     }
   },
   "metricsHistory": []

@@ -45,12 +45,16 @@
     </main>
 
 <main>
-  <div class="cabecalho">
-    <div class="rank">Rank</div>
-    <div class="hunter">Caçadores</div>
-    <div class="merits">Méritos</div>
-  </div>
-  <div class="corpo" id="corpo"></div>
+    <div class="filtros">
+        <button class="btn-filtro ativo" data-filtro="merits" onclick="aplicarFiltro('merits')">Méritos</button>
+        <button class="btn-filtro" data-filtro="lvl" onclick="aplicarFiltro('lvl')">Nível</button>
+    </div>
+    <div class="cabecalho">
+        <div class="rank">Rank</div>
+        <div class="hunter">Caçadores</div>
+        <div class="merits">Méritos</div>
+    </div>
+    <div class="corpo" id="corpo"></div>
 </main>
 
  <footer>

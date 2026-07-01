@@ -6,7 +6,7 @@
   "currentLevel": 79,
   "careerLevel": 158,
   "collectorLevel": 13,
-  "eliteMerits": 13975,
+  "eliteMerits": 14114,
   "hasElitePass": false,
   "bannerId": 7000010,
   "title": {
@@ -172,8 +172,13 @@
       }
     },
     {
-      "rowId": 2902430,
-      "resolved": null
+      "rowId": 2900281,
+      "resolved": {
+        "name": "ShootingPlantTripleAttackElite",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 281
+      }
     }
   ],
   "extraSkinUuid": "71-40b4886c-c47c-4a79-a3bc-aae37fbb9517",
@@ -202,12 +207,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 7682
+        "total": 7683
       }
     },
     {
       "rowId": 98,
-      "metric": 401650,
+      "metric": 402424,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -216,13 +221,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 67,
-        "total": 8332
+        "position": 68,
+        "total": 8333
       }
     },
     {
       "rowId": 103,
-      "metric": 838,
+      "metric": 911,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -231,13 +236,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 810,
-        "total": 4645
+        "position": 746,
+        "total": 4646
       }
     },
     {
       "rowId": 99,
-      "metric": 14784,
+      "metric": 14911,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -246,8 +251,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 86,
-        "total": 4716
+        "position": 83,
+        "total": 4717
       }
     },
     {
@@ -262,12 +267,12 @@
       },
       "rank": {
         "position": 7,
-        "total": 4028
+        "total": 4029
       }
     },
     {
       "rowId": 28,
-      "metric": 251827,
+      "metric": 251966,
       "scale": 1,
       "resolved": {
         "name": "MonstersHuntedTechnoDancer",
@@ -297,7 +302,7 @@
     },
     {
       "rowId": 47,
-      "metric": 8102,
+      "metric": 8113,
       "scale": 1,
       "resolved": {
         "name": "BossesHuntedTechnoDancer",
@@ -307,12 +312,12 @@
       },
       "rank": {
         "position": 11,
-        "total": 407
+        "total": 409
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 401650,
+  "monstersHunted": 402424,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -1347,31 +1352,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 401650,
+    "monstersHunted": 402424,
     "weaponsCollected": 10
   },
   "tag": "#R08P0VC",
-  "fetchedAt": "2026-06-26T20:34:16.357Z",
+  "fetchedAt": "2026-06-27T03:21:51.851Z",
   "rankings": {
     "currentLevel": {
-      "position": 118,
-      "total": 10456
+      "position": 123,
+      "total": 10482
     },
     "careerLevel": {
-      "position": 119,
-      "total": 10456
+      "position": 130,
+      "total": 10482
     },
     "collectorLevel": {
-      "position": 1722,
-      "total": 10456
+      "position": 1728,
+      "total": 10482
     },
     "eliteMerits": {
-      "position": 582,
-      "total": 10456
+      "position": 624,
+      "total": 10482
     },
     "monstersHunted": {
-      "position": 67,
-      "total": 10456
+      "position": 68,
+      "total": 10482
     }
   },
   "metricsHistory": []

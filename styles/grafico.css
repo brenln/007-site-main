@@ -252,3 +252,31 @@ main:last-of-type {
         height: 16px;
     }
 }
+
+.filtros {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.btn-filtro {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.75rem;
+    padding: 6px 14px;
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 4px;
+    background: transparent;
+    color: rgba(255,255,255,0.5);
+    cursor: pointer;
+    transition: all 0.15s;
+}
+
+.btn-filtro:hover {
+    background: rgba(255,255,255,0.06);
+    color: #fff;
+}
+
+.btn-filtro.ativo {
+    border-color: #14D921;
+    color: #14D921;
+}
