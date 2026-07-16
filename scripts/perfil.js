@@ -9,16 +9,19 @@ const tierIndex = {
 };
 
 const weaponMap = {
-  'SmartBow':               { img: 'speedshot',              tipo: 'DANO À DISTÂNCIA',   tid: 'ARCO VENENOSO' },
-  'Zapper':                 { img: 'zapsicle',                tipo: 'DANO CORPO A CORPO',  tid: 'FULMINADOR' },
-  'ToothpickAndShield':     { img: 'toothpick_and_shield',    tipo: 'TANQUE',              tid: 'ESCUDO MAGMÁTICO' },
-  'StaffOfGoodAndBadVibes': { img: 'staff_of_good_vibes',     tipo: 'CURADOR',             tid: 'MODULADOR DE ENERGIAS' },
-  'Singularity':            { img: 'singularity',             tipo: 'FAZ-TUDO',            tid: 'SINGULARIDADE' },
-  'Hammer':                 { img: 'icon_weapon_head_banger',  tipo: 'DANO CORPO A CORPO',  tid: 'BATE-CABEÇA' },
-  'Squid':                  { img: 'jaded_blades',             tipo: 'DANO CORPO A CORPO',  tid: 'ADAGAS DE LULA' },
-  'PoisonBow':              { img: 'poison_bow',               tipo: 'DANO À DISTÂNCIA',   tid: 'ARCO VENENOSO' },
-  'TechnoFists':            { img: 'techno_fists',             tipo: 'FAZ-TUDO',            tid: 'TECNOPUNHOS' },
-  'WolfStick':              { img: 'wolf_stick',               tipo: 'INVOCADOR',           tid: 'BASTÃO-LOBO' },
+  'SmartBow':               { img: 'speedshot',                tipo: 'DANO À DISTÂNCIA',     tid: 'ARCO VENENOSO' },
+  'Zapper':                 { img: 'zapsicle',                 tipo: 'DANO CORPO A CORPO',   tid: 'FULMINADOR' },
+  'ToothpickAndShield':     { img: 'toothpick_and_shield',     tipo: 'TANQUE',               tid: 'ESCUDO MAGMÁTICO' },
+  'StaffOfGoodAndBadVibes': { img: 'staff_of_good_vibes',      tipo: 'CURADOR',              tid: 'MODULADOR DE ENERGIAS' },
+  'Singularity':            { img: 'singularity',              tipo: 'FAZ-TUDO',             tid: 'SINGULARIDADE' },
+  'Hammer':                 { img: 'icon_weapon_head_banger',  tipo: 'DANO CORPO A CORPO',   tid: 'BATE-CABEÇA' },
+  'Squid':                  { img: 'jaded_blades',             tipo: 'DANO CORPO A CORPO',   tid: 'ADAGAS DE LULA' },
+  'PoisonBow':              { img: 'poison_bow',               tipo: 'DANO À DISTÂNCIA',     tid: 'ARCO VENENOSO' },
+  'TechnoFists':            { img: 'techno_fists',             tipo: 'FAZ-TUDO',             tid: 'TECNOPUNHOS' },
+  'WolfStick':              { img: 'wolf_stick',               tipo: 'INVOCADOR',            tid: 'BASTÃO-LOBO' },
+  'Blood':                  { img: 'BloodWeapon',              tipo: 'DANO CORPO A CORPO',   tid: 'SANGUESSUGA' },
+  'ShotBow':                { img: 'ShotbowWeapon',            tipo: 'DANO À DISTÂNCIA',     tid: 'ARCO DE CHIFRE' },
+  'Engineer':               { img: 'EngineerWeapon',           tipo: 'INVOCADOR',            tid: 'CHAVE-INGLESSA ESPECIAL' },
 };
 
 const typeColor = {

@@ -1,0 +1,176 @@
+{
+  "accountHigh": 1,
+  "accountLow": 2948567,
+  "accountId": "1-2948567",
+  "name": "PastaPlant",
+  "currentLevel": 1,
+  "careerLevel": 1,
+  "collectorLevel": 1,
+  "eliteMerits": 0,
+  "hasElitePass": false,
+  "bannerId": 0,
+  "title": {
+    "high": 0,
+    "low": 5800000,
+    "rowId": 5800000
+  },
+  "recentChars": [
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    },
+    {
+      "rowId": 0
+    }
+  ],
+  "showcaseBadges": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "ownedGems": [],
+  "skinUuids": [
+    "4b9f0096-6eff-3136-cea4-9531df6bf6ee",
+    "4b9f0096-7319-e582-d349-6fe9c9807d29",
+    "4b9f0096-40de-a598-e05e-75c897fece02"
+  ],
+  "equippedGear": [
+    {
+      "rowId": 2901576,
+      "resolved": {
+        "name": "ShotbowWeapon",
+        "tid": "TID_SHOTBOW_WEAPON",
+        "fileId": 29,
+        "rowId": 1576
+      }
+    },
+    {
+      "rowId": 2900884,
+      "resolved": {
+        "name": "dragonwear_mount_epic_01_a",
+        "tid": "TID_DRAGONWEAR_MOUNT_01",
+        "fileId": 29,
+        "rowId": 884
+      }
+    },
+    {
+      "rowId": 2900044,
+      "resolved": {
+        "name": "EasyPortalSummon1Hard",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 44
+      }
+    },
+    {
+      "rowId": 2901906,
+      "resolved": {
+        "name": "DragonlingStrongChargerCharge_MountRace",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 1906
+      }
+    }
+  ],
+  "extraSkinUuid": "11-2ae4a969-0e41-4600-b068-709d9f43f482",
+  "equippedTrackers": [],
+  "weaponsCollected": 1,
+  "monstersHunted": 0,
+  "hunterSinceDay": null,
+  "hunterSince": null,
+  "battleKits": [
+    {
+      "kitId": 6700000,
+      "kitRow": 0,
+      "weaponSkin": 0,
+      "goldSkin": false,
+      "equippedGems": [],
+      "effectiveGems": [],
+      "ownedGems": [],
+      "resolved": {
+        "name": "SmartBow",
+        "tid": "TID_SMARTBOW",
+        "fileId": 67,
+        "rowId": 0
+      }
+    }
+  ],
+  "lbPositions": [
+    {
+      "board": 1,
+      "position": 20325
+    }
+  ],
+  "unkConstant": 26000,
+  "titleResolved": {
+    "name": "Recruit",
+    "tid": null,
+    "fileId": 58,
+    "rowId": 0,
+    "color": "#a5fdfa",
+    "text": null
+  },
+  "bannerResolved": {
+    "name": "Default",
+    "tid": "TID_cos_player_profile_background_default_01",
+    "fileId": 70,
+    "rowId": 0
+  },
+  "bannerAsset": "banner_art_color_01",
+  "metrics": {
+    "hunterSince": null,
+    "hunterSinceDay": null,
+    "monstersHunted": 0,
+    "weaponsCollected": 1
+  },
+  "tag": "#Q89LUVQC",
+  "fetchedAt": "2026-07-11T18:45:43.906Z",
+  "rankings": {
+    "currentLevel": {
+      "position": 10864,
+      "total": 13151
+    },
+    "careerLevel": {
+      "position": 12981,
+      "total": 13151
+    },
+    "collectorLevel": {
+      "position": 13050,
+      "total": 13151
+    },
+    "eliteMerits": {
+      "position": 10707,
+      "total": 13151
+    },
+    "monstersHunted": {
+      "position": 9665,
+      "total": 13151
+    }
+  },
+  "metricsHistory": []
+}

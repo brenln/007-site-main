@@ -3,16 +3,16 @@
   "accountLow": 2358944,
   "accountId": "0-2358944",
   "name": "007 | WNB",
-  "currentLevel": 79,
-  "careerLevel": 156,
-  "collectorLevel": 36,
-  "eliteMerits": 15513,
+  "currentLevel": 107,
+  "careerLevel": 184,
+  "collectorLevel": 42,
+  "eliteMerits": 42099,
   "hasElitePass": false,
   "bannerId": 7000027,
   "title": {
     "high": 0,
-    "low": 5800016,
-    "rowId": 5800016
+    "low": 5800063,
+    "rowId": 5800063
   },
   "recentChars": [
     {
@@ -25,10 +25,10 @@
       "rowId": 6800091
     },
     {
-      "rowId": 6800127
+      "rowId": 6800130
     },
     {
-      "rowId": 6800097
+      "rowId": 6800096
     },
     {
       "rowId": 6800079
@@ -40,10 +40,10 @@
       "rowId": 6800091
     },
     {
-      "rowId": 6800127
+      "rowId": 6800130
     },
     {
-      "rowId": 6800097
+      "rowId": 6800096
     }
   ],
   "showcaseBadges": [
@@ -96,32 +96,32 @@
       }
     },
     {
-      "rowId": 127,
+      "rowId": 130,
       "resolved": {
-        "name": "TrophySeason2_9",
+        "name": "TrophySeason2_12",
         "tid": "TID_BADGE_TROPHY_TITLE",
         "fileId": 69,
-        "rowId": 127,
+        "rowId": 130,
         "label": "Elite Merit Badge",
         "season": 2,
-        "tier": 9,
+        "tier": 12,
         "iconAsset": null,
         "baseIconAsset": "badge_trophy_02",
         "type": "TIERS",
-        "level": 8
+        "level": 11
       }
     },
     {
-      "rowId": 97,
+      "rowId": 96,
       "resolved": {
-        "name": "Season_1_Vibestaff",
-        "tid": "TID_cos_player_badge_season_1_vibestaff",
+        "name": "HunterMonsterX_02",
+        "tid": "TID_BADGE_BONUS_PASS_S2",
         "fileId": 69,
-        "rowId": 97,
-        "label": "Vibe Improver Badge",
-        "season": 1,
+        "rowId": 96,
+        "label": "S2 Overtime Badge",
+        "season": null,
         "tier": null,
-        "iconAsset": "badge_season_01_vibestaff",
+        "iconAsset": "badge_hunter_05",
         "baseIconAsset": null,
         "type": "SINGLE",
         "level": 0
@@ -131,26 +131,26 @@
   "ownedGems": [],
   "skinUuids": [
     "4b9f0096-c119-fd32-813d-5e4ac4a503ec",
-    "4b9f0096-8d88-a927-0dab-044fa85b21e3",
+    "4b9f0096-7319-e582-d349-6fe9c9807d29",
     "4b9f0096-3754-3c0a-77e6-2b31b46fe7e1"
   ],
   "equippedGear": [
     {
-      "rowId": 2901570,
+      "rowId": 2901219,
       "resolved": {
-        "name": "CatBossSlapperTotemWeapon",
-        "tid": null,
+        "name": "tribaldrip_mount_epic_01_a",
+        "tid": "TID_tribaldrip_mount_epic_01_a",
         "fileId": 29,
-        "rowId": 1570
+        "rowId": 1219
       }
     },
     {
-      "rowId": 2900585,
+      "rowId": 2901221,
       "resolved": {
-        "name": "DragonlingBossSpiritDash2",
-        "tid": null,
+        "name": "tribaldrip_emoji_basic_01",
+        "tid": "TID_tribaldrip_emoji_basic_01",
         "fileId": 29,
-        "rowId": 585
+        "rowId": 1221
       }
     },
     {
@@ -163,15 +163,25 @@
       }
     },
     {
-      "rowId": 2903831,
-      "resolved": null
+      "rowId": 2900792,
+      "resolved": {
+        "name": "CatBossFishermanFishingNet",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 792
+      }
     },
     {
-      "rowId": 2915858,
-      "resolved": null
+      "rowId": 2901615,
+      "resolved": {
+        "name": "DragonlingDungeonPortal5_4",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 1615
+      }
     }
   ],
-  "extraSkinUuid": "24-f93df475-3125-4c36-836e-10116817a500",
+  "extraSkinUuid": null,
   "equippedTrackers": [
     {
       "rowId": 113,
@@ -197,12 +207,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 7683
+        "total": 9568
       }
     },
     {
       "rowId": 98,
-      "metric": 190575,
+      "metric": 235536,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -211,13 +221,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 758,
-        "total": 8333
+        "position": 958,
+        "total": 10628
       }
     },
     {
       "rowId": 103,
-      "metric": 845,
+      "metric": 1347,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -226,13 +236,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 801,
-        "total": 4646
+        "position": 1028,
+        "total": 7084
       }
     },
     {
       "rowId": 99,
-      "metric": 6972,
+      "metric": 8948,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -241,13 +251,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 755,
-        "total": 4717
+        "position": 906,
+        "total": 7263
       }
     },
     {
       "rowId": 102,
-      "metric": 62,
+      "metric": 362,
       "scale": 1,
       "resolved": {
         "name": "DefaultOAJobsCompleted",
@@ -256,19 +266,51 @@
         "rowId": 102
       },
       "rank": {
-        "position": 107,
-        "total": 4029
+        "position": 2216,
+        "total": 6221
+      }
+    },
+    {
+      "rowId": 44,
+      "metric": 831,
+      "scale": 1,
+      "resolved": {
+        "name": "BossesHuntedSquid",
+        "tid": "TID_TRACKER_TITLE_BOSSES_HUNTED_SQUID",
+        "label": "BOSSES HUNTED SQUID BLADES",
+        "rowId": 44
+      },
+      "rank": {
+        "position": 895,
+        "total": 2188
+      }
+    },
+    {
+      "rowId": 76,
+      "metric": 494,
+      "scale": 1,
+      "resolved": {
+        "name": "MegachargedHuntedTechnoDancer",
+        "tid": "TID_TRACKER_TITLE_MEGACHARGED_HUNTED_TECHNODANCER",
+        "label": "MEGACHARGED MONSTERS TECHNO FISTS",
+        "rowId": 76
+      },
+      "rank": {
+        "position": 4,
+        "total": 131
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 190575,
+  "monstersHunted": 235536,
   "hunterSinceDay": 20301,
   "hunterSince": "2025-08-01",
   "battleKits": [
     {
       "kitId": 6700000,
       "kitRow": 0,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -372,6 +414,8 @@
     {
       "kitId": 6700011,
       "kitRow": 11,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -475,6 +519,8 @@
     {
       "kitId": 6700006,
       "kitRow": 6,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -578,6 +624,8 @@
     {
       "kitId": 6700005,
       "kitRow": 5,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -681,6 +729,8 @@
     {
       "kitId": 6700002,
       "kitRow": 2,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -784,6 +834,8 @@
     {
       "kitId": 6700001,
       "kitRow": 1,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -887,6 +939,8 @@
     {
       "kitId": 6700004,
       "kitRow": 4,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1987,
@@ -990,6 +1044,8 @@
     {
       "kitId": 6700003,
       "kitRow": 3,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -1093,6 +1149,8 @@
     {
       "kitId": 6700009,
       "kitRow": 9,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -1196,6 +1254,8 @@
     {
       "kitId": 6700014,
       "kitRow": 14,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -1305,12 +1365,12 @@
   ],
   "unkConstant": 26000,
   "titleResolved": {
-    "name": "FUN_EVENT_05",
-    "tid": "TID_PLAYERTITLE_FUN_EVENT_05",
+    "name": "WEAPON_TITLE_Squid",
+    "tid": "TID_WEAPON_TITLE_Squid",
     "fileId": 58,
-    "rowId": 16,
-    "color": "#87cefa",
-    "text": "Merch Maniac"
+    "rowId": 63,
+    "color": "#ffc000",
+    "text": "Squid Blades Expert"
   },
   "bannerResolved": {
     "name": "Image-19",
@@ -1322,31 +1382,31 @@
   "metrics": {
     "hunterSince": "2025-08-01",
     "hunterSinceDay": 20301,
-    "monstersHunted": 190575,
+    "monstersHunted": 235536,
     "weaponsCollected": 10
   },
   "tag": "#YJ8CJYJ0",
-  "fetchedAt": "2026-06-27T03:21:41.798Z",
+  "fetchedAt": "2026-07-16T03:00:26.276Z",
   "rankings": {
     "currentLevel": {
-      "position": 123,
-      "total": 10482
+      "position": 411,
+      "total": 13270
     },
     "careerLevel": {
-      "position": 186,
-      "total": 10482
+      "position": 418,
+      "total": 13270
     },
     "collectorLevel": {
-      "position": 180,
-      "total": 10482
+      "position": 142,
+      "total": 13270
     },
     "eliteMerits": {
-      "position": 389,
-      "total": 10482
+      "position": 704,
+      "total": 13270
     },
     "monstersHunted": {
-      "position": 756,
-      "total": 10482
+      "position": 854,
+      "total": 13270
     }
   },
   "metricsHistory": []

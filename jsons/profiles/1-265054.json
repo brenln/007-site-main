@@ -3,12 +3,12 @@
   "accountLow": 265054,
   "accountId": "1-265054",
   "name": "007 | .:Kakah:.",
-  "currentLevel": 79,
-  "careerLevel": 158,
-  "collectorLevel": 13,
-  "eliteMerits": 14114,
+  "currentLevel": 110,
+  "careerLevel": 189,
+  "collectorLevel": 14,
+  "eliteMerits": 40703,
   "hasElitePass": false,
-  "bannerId": 7000010,
+  "bannerId": 7000029,
   "title": {
     "high": 0,
     "low": 5800116,
@@ -16,37 +16,53 @@
   },
   "recentChars": [
     {
+      "rowId": 6800096
+    },
+    {
       "rowId": 6800079
     },
     {
-      "rowId": 6800126
+      "rowId": 6800130
     },
     {
       "rowId": 6800091
-    },
-    {
-      "rowId": 6800101
     },
     {
       "rowId": 6800095
     },
     {
+      "rowId": 6800096
+    },
+    {
       "rowId": 6800079
     },
     {
-      "rowId": 6800126
+      "rowId": 6800130
     },
     {
       "rowId": 6800091
-    },
-    {
-      "rowId": 6800101
     },
     {
       "rowId": 6800095
     }
   ],
   "showcaseBadges": [
+    {
+      "rowId": 96,
+      "resolved": {
+        "name": "HunterMonsterX_02",
+        "tid": "TID_BADGE_BONUS_PASS_S2",
+        "fileId": 69,
+        "rowId": 96,
+        "label": "S2 Overtime Badge",
+        "season": null,
+        "tier": null,
+        "iconAsset": "badge_hunter_05",
+        "baseIconAsset": null,
+        "type": "SINGLE",
+        "level": 0
+      }
+    },
     {
       "rowId": 79,
       "resolved": {
@@ -64,19 +80,19 @@
       }
     },
     {
-      "rowId": 126,
+      "rowId": 130,
       "resolved": {
-        "name": "TrophySeason2_8",
+        "name": "TrophySeason2_12",
         "tid": "TID_BADGE_TROPHY_TITLE",
         "fileId": 69,
-        "rowId": 126,
+        "rowId": 130,
         "label": "Elite Merit Badge",
         "season": 2,
-        "tier": 8,
+        "tier": 12,
         "iconAsset": null,
         "baseIconAsset": "badge_trophy_02",
         "type": "TIERS",
-        "level": 7
+        "level": 11
       }
     },
     {
@@ -93,22 +109,6 @@
         "baseIconAsset": "badge_trophy",
         "type": "TIERS",
         "level": 11
-      }
-    },
-    {
-      "rowId": 101,
-      "resolved": {
-        "name": "Season_1_technofists",
-        "tid": "TID_cos_player_badge_season_1_technofists",
-        "fileId": 69,
-        "rowId": 101,
-        "label": "Techno Blaster Badge",
-        "season": 1,
-        "tier": null,
-        "iconAsset": "badge_season_01_technofists",
-        "baseIconAsset": null,
-        "type": "SINGLE",
-        "level": 0
       }
     },
     {
@@ -136,22 +136,17 @@
   ],
   "equippedGear": [
     {
-      "rowId": 2901274,
+      "rowId": 2900482,
       "resolved": {
-        "name": "BeetleBossStatueRangedAttack2",
-        "tid": null,
+        "name": "medieval_emote_epic_thumb",
+        "tid": "TID_MEDIEVAL_EMOTE_EPIC_THUMB",
         "fileId": 29,
-        "rowId": 1274
+        "rowId": 482
       }
     },
     {
-      "rowId": 2901282,
-      "resolved": {
-        "name": "ChaosJumpshotterMultiSpearThrow",
-        "tid": null,
-        "fileId": 29,
-        "rowId": 1282
-      }
+      "rowId": 2933004,
+      "resolved": null
     },
     {
       "rowId": 2900448,
@@ -172,16 +167,16 @@
       }
     },
     {
-      "rowId": 2900281,
+      "rowId": 2901906,
       "resolved": {
-        "name": "ShootingPlantTripleAttackElite",
+        "name": "DragonlingStrongChargerCharge_MountRace",
         "tid": null,
         "fileId": 29,
-        "rowId": 281
+        "rowId": 1906
       }
     }
   ],
-  "extraSkinUuid": "71-40b4886c-c47c-4a79-a3bc-aae37fbb9517",
+  "extraSkinUuid": null,
   "equippedTrackers": [
     {
       "rowId": 113,
@@ -196,23 +191,23 @@
       "metricDate": "2025-03-18"
     },
     {
-      "rowId": 104,
-      "metric": 10,
+      "rowId": 114,
+      "metric": 22,
       "scale": 1,
       "resolved": {
-        "name": "DefaultClassesCollected",
-        "tid": "TID_TRACKER_TITLE_CLASSES_COLLECTED",
-        "label": "WEAPONS COLLECTED",
-        "rowId": 104
+        "name": "DefaultDailyGoalMaxStreak",
+        "tid": "TID_TRACKER_TITLE_DAILY_GOAL_STREAK",
+        "label": "Max Serious Hunter Streak",
+        "rowId": 114
       },
       "rank": {
-        "position": 1,
-        "total": 7683
+        "position": 4,
+        "total": 3585
       }
     },
     {
       "rowId": 98,
-      "metric": 402424,
+      "metric": 543095,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -221,13 +216,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 68,
-        "total": 8333
+        "position": 57,
+        "total": 10628
       }
     },
     {
       "rowId": 103,
-      "metric": 911,
+      "metric": 1839,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -236,13 +231,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 746,
-        "total": 4646
+        "position": 617,
+        "total": 7084
       }
     },
     {
       "rowId": 99,
-      "metric": 14911,
+      "metric": 20136,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -251,13 +246,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 83,
-        "total": 4717
+        "position": 72,
+        "total": 7263
       }
     },
     {
       "rowId": 102,
-      "metric": 66,
+      "metric": 484,
       "scale": 1,
       "resolved": {
         "name": "DefaultOAJobsCompleted",
@@ -266,64 +261,21 @@
         "rowId": 102
       },
       "rank": {
-        "position": 7,
-        "total": 4029
-      }
-    },
-    {
-      "rowId": 28,
-      "metric": 251966,
-      "scale": 1,
-      "resolved": {
-        "name": "MonstersHuntedTechnoDancer",
-        "tid": "TID_TRACKER_TITLE_MONSTERS_HUNTED_TECHNODANCER",
-        "label": "MONSTERS HUNTED TECHNO FISTS",
-        "rowId": 28
-      },
-      "rank": {
-        "position": 2,
-        "total": 174
-      }
-    },
-    {
-      "rowId": 75,
-      "metric": 2908,
-      "scale": 1,
-      "resolved": {
-        "name": "OverchargedHuntedTechnoDancer",
-        "tid": "TID_TRACKER_TITLE_OVERCHARGED_HUNTED_TECHNODANCER",
-        "label": "OVERCHARGED MONSTERS TECHNO FISTS",
-        "rowId": 75
-      },
-      "rank": {
-        "position": 4,
-        "total": 138
-      }
-    },
-    {
-      "rowId": 47,
-      "metric": 8113,
-      "scale": 1,
-      "resolved": {
-        "name": "BossesHuntedTechnoDancer",
-        "tid": "TID_TRACKER_TITLE_BOSSES_HUNTED_TECHNODANCER",
-        "label": "BOSSES HUNTED TECHNO FISTS",
-        "rowId": 47
-      },
-      "rank": {
-        "position": 11,
-        "total": 409
+        "position": 14,
+        "total": 6221
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 402424,
+  "monstersHunted": 543095,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
     {
       "kitId": 6700000,
       "kitRow": 0,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -422,6 +374,8 @@
     {
       "kitId": 6700011,
       "kitRow": 11,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -434,9 +388,9 @@
           "tier": "Megacharged"
         },
         {
-          "instanceId": 1998,
+          "instanceId": 1999,
           "type": "Health",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -525,6 +479,8 @@
     {
       "kitId": 6700006,
       "kitRow": 6,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -628,6 +584,8 @@
     {
       "kitId": 6700002,
       "kitRow": 2,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -731,6 +689,8 @@
     {
       "kitId": 6700004,
       "kitRow": 4,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1987,
@@ -834,6 +794,8 @@
     {
       "kitId": 6700001,
       "kitRow": 1,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -846,9 +808,9 @@
           "tier": "Megacharged"
         },
         {
-          "instanceId": 2006,
+          "instanceId": 2007,
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -862,7 +824,7 @@
         },
         {
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "ownedGems": [
@@ -915,6 +877,11 @@
           "instanceId": 1983,
           "type": "CriticalDamage",
           "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
         }
       ],
       "resolved": {
@@ -927,6 +894,8 @@
     {
       "kitId": 6700005,
       "kitRow": 5,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -1030,6 +999,8 @@
     {
       "kitId": 6700009,
       "kitRow": 9,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1983,
@@ -1042,9 +1013,9 @@
           "tier": "Megacharged"
         },
         {
-          "instanceId": 2006,
+          "instanceId": 2007,
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -1058,7 +1029,7 @@
         },
         {
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "ownedGems": [
@@ -1116,6 +1087,11 @@
           "instanceId": 2004,
           "type": "Dodge",
           "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
         }
       ],
       "resolved": {
@@ -1128,6 +1104,8 @@
     {
       "kitId": 6700003,
       "kitRow": 3,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -1140,9 +1118,9 @@
           "tier": "Megacharged"
         },
         {
-          "instanceId": 1998,
+          "instanceId": 1999,
           "type": "Health",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -1231,6 +1209,8 @@
     {
       "kitId": 6700014,
       "kitRow": 14,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1979,
@@ -1243,9 +1223,9 @@
           "tier": "Megacharged"
         },
         {
-          "instanceId": 2006,
+          "instanceId": 2007,
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -1259,7 +1239,7 @@
         },
         {
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "ownedGems": [
@@ -1317,6 +1297,11 @@
           "instanceId": 2004,
           "type": "Dodge",
           "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
+          "tier": "Megacharged"
         }
       ],
       "resolved": {
@@ -1343,41 +1328,106 @@
     "text": "Megacharged"
   },
   "bannerResolved": {
-    "name": "Image-2",
-    "tid": "TID_cos_player_profile_background_image_2_01",
+    "name": "Image-21",
+    "tid": "TID_cos_player_profile_background_image_21_squidblades",
     "fileId": 70,
-    "rowId": 10
+    "rowId": 29
   },
-  "bannerAsset": "banner_art_image_02",
+  "bannerAsset": "banner_art_image_21",
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 402424,
+    "monstersHunted": 543095,
     "weaponsCollected": 10
   },
   "tag": "#R08P0VC",
-  "fetchedAt": "2026-06-27T03:21:51.851Z",
+  "fetchedAt": "2026-07-16T03:00:37.448Z",
   "rankings": {
     "currentLevel": {
-      "position": 123,
-      "total": 10482
+      "position": 249,
+      "total": 13270
     },
     "careerLevel": {
-      "position": 130,
-      "total": 10482
+      "position": 214,
+      "total": 13270
     },
     "collectorLevel": {
-      "position": 1728,
-      "total": 10482
+      "position": 2189,
+      "total": 13270
     },
     "eliteMerits": {
-      "position": 624,
-      "total": 10482
+      "position": 985,
+      "total": 13270
     },
     "monstersHunted": {
-      "position": 68,
-      "total": 10482
+      "position": 53,
+      "total": 13270
     }
   },
-  "metricsHistory": []
+  "metricsHistory": [
+    {
+      "rowId": 104,
+      "metric": 10,
+      "scale": 1,
+      "lastSeen": "2026-07-13T12:04:57.100Z",
+      "resolved": {
+        "name": "DefaultClassesCollected",
+        "tid": "TID_TRACKER_TITLE_CLASSES_COLLECTED",
+        "label": "WEAPONS COLLECTED",
+        "rowId": 104
+      },
+      "rank": {
+        "position": 1,
+        "total": 9568
+      }
+    },
+    {
+      "rowId": 28,
+      "metric": 268635,
+      "scale": 1,
+      "lastSeen": "2026-07-13T12:04:57.100Z",
+      "resolved": {
+        "name": "MonstersHuntedTechnoDancer",
+        "tid": "TID_TRACKER_TITLE_MONSTERS_HUNTED_TECHNODANCER",
+        "label": "MONSTERS HUNTED TECHNO FISTS",
+        "rowId": 28
+      },
+      "rank": {
+        "position": 6,
+        "total": 1326
+      }
+    },
+    {
+      "rowId": 47,
+      "metric": 8620,
+      "scale": 1,
+      "lastSeen": "2026-07-13T12:04:57.100Z",
+      "resolved": {
+        "name": "BossesHuntedTechnoDancer",
+        "tid": "TID_TRACKER_TITLE_BOSSES_HUNTED_TECHNODANCER",
+        "label": "BOSSES HUNTED TECHNO FISTS",
+        "rowId": 47
+      },
+      "rank": {
+        "position": 16,
+        "total": 1665
+      }
+    },
+    {
+      "rowId": 75,
+      "metric": 3017,
+      "scale": 1,
+      "lastSeen": "2026-07-13T05:05:53.606Z",
+      "resolved": {
+        "name": "OverchargedHuntedTechnoDancer",
+        "tid": "TID_TRACKER_TITLE_OVERCHARGED_HUNTED_TECHNODANCER",
+        "label": "OVERCHARGED MONSTERS TECHNO FISTS",
+        "rowId": 75
+      },
+      "rank": {
+        "position": 8,
+        "total": 792
+      }
+    }
+  ]
 }
