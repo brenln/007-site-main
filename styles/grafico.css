@@ -1,4 +1,3 @@
-/* ESCRITAS */
 .titulo h1 {
     font-family: "JetBrains Mono", monospace;
     font-size: 6rem;
@@ -34,7 +33,6 @@
 }
 
 
-/* CORPO PRINCIPAL */
 body {
     display: flex;
     flex-direction: column;
@@ -52,7 +50,6 @@ main:last-of-type {
 }
 
 
-/* CABEÇALHO */
 .cabecalho {
     display: grid;
     grid-template-columns: 100px 1fr 160px;
@@ -70,7 +67,6 @@ main:last-of-type {
 }
 
 
-/* LINHAS DO RANKING */
 .corpo {
     display: flex;
     flex-direction: column;
@@ -113,7 +109,6 @@ main:last-of-type {
 }
 
 
-/* INFORMACOES DO CACADOR */
 .hunter-info {
     display: flex;
     align-items: center;
@@ -137,7 +132,6 @@ main:last-of-type {
 }
 
 
-/* AVATAR E MERITOS */
 .avatar {
     position: absolute;
     inset: 0;
@@ -166,8 +160,17 @@ main:last-of-type {
     vertical-align: middle;
 }
 
+@media (max-width: 1400px) {
+    .titulo h1 {
+        font-size: 5rem;
+    }
+    
+    .titulo #p1 { top: 230px; }
+    .titulo #p2 { top: 252px; }
+    .titulo #p3 { top: 274px; }
+    
+}
 
-/*  RESPONSIVO */
 @media (max-width: 1200px) {
     .titulo h1 {
         font-size: 5rem;
