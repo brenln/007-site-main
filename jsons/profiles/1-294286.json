@@ -3,10 +3,10 @@
   "accountLow": 294286,
   "accountId": "1-294286",
   "name": "007 | LILO",
-  "currentLevel": 105,
-  "careerLevel": 180,
+  "currentLevel": 9,
+  "careerLevel": 189,
   "collectorLevel": 20,
-  "eliteMerits": 46522,
+  "eliteMerits": 2180,
   "hasElitePass": false,
   "bannerId": 7000027,
   "title": {
@@ -101,7 +101,7 @@
   "ownedGems": [],
   "skinUuids": [
     "4b9f0096-0303-aae8-c3f1-7346443d6290",
-    "4b9f0096-8d88-a927-0dab-044fa85b21e3",
+    "4b9f0096-ec46-6a1f-4c56-066175cabe2c",
     "4b9f0096-4829-33f5-8894-030e84aca5b8"
   ],
   "equippedGear": [
@@ -115,34 +115,39 @@
       }
     },
     {
-      "rowId": 2900445,
+      "rowId": 2900882,
       "resolved": {
-        "name": "mount_drake_04",
-        "tid": "TID_MOUNT_DRAKE_04",
+        "name": "elemedieval_mount_epic_01_a",
+        "tid": "TID_ELEMENTMEDIEVAL_MOUNT_01",
         "fileId": 29,
-        "rowId": 445
+        "rowId": 882
       }
     },
     {
-      "rowId": 2902519,
-      "resolved": null
-    },
-    {
-      "rowId": 2900934,
+      "rowId": 2900160,
       "resolved": {
-        "name": "ChaosScavengerJuggle",
+        "name": "DragonlingDungeonBossSwipe",
         "tid": null,
         "fileId": 29,
-        "rowId": 934
+        "rowId": 160
       }
     },
     {
-      "rowId": 2900281,
+      "rowId": 2900665,
       "resolved": {
-        "name": "ShootingPlantTripleAttackElite",
+        "name": "BeetleBossEasyChase",
         "tid": null,
         "fileId": 29,
-        "rowId": 281
+        "rowId": 665
+      }
+    },
+    {
+      "rowId": 2900284,
+      "resolved": {
+        "name": "DragonlingStrongJumperJumpTutorial",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 284
       }
     }
   ],
@@ -162,7 +167,7 @@
     },
     {
       "rowId": 33,
-      "metric": 33396,
+      "metric": 33936,
       "scale": 1,
       "resolved": {
         "name": "MonstersHuntedSingularity",
@@ -171,13 +176,13 @@
         "rowId": 33
       },
       "rank": {
-        "position": 65,
-        "total": 304
+        "position": 62,
+        "total": 307
       }
     },
     {
       "rowId": 85,
-      "metric": 549,
+      "metric": 551,
       "scale": 1,
       "resolved": {
         "name": "OverchargedHuntedSingularity",
@@ -187,12 +192,12 @@
       },
       "rank": {
         "position": 35,
-        "total": 219
+        "total": 223
       }
     },
     {
       "rowId": 11,
-      "metric": 111113,
+      "metric": 112353,
       "scale": 1000,
       "resolved": {
         "name": "DamageDoneSingularity",
@@ -201,8 +206,8 @@
         "rowId": 11
       },
       "rank": {
-        "position": 117,
-        "total": 414
+        "position": 116,
+        "total": 418
       }
     }
   ],
@@ -629,8 +634,8 @@
     {
       "kitId": 6700004,
       "kitRow": 4,
-      "weaponSkin": 0,
-      "goldSkin": false,
+      "weaponSkin": 33554432,
+      "goldSkin": true,
       "equippedGems": [
         {
           "instanceId": 1987,
@@ -738,9 +743,9 @@
       "goldSkin": true,
       "equippedGems": [
         {
-          "instanceId": 1982,
+          "instanceId": 1983,
           "type": "CriticalDamage",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         },
         {
           "instanceId": 1987,
@@ -756,7 +761,7 @@
       "effectiveGems": [
         {
           "type": "CriticalDamage",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         },
         {
           "type": "AttackSpeed",
@@ -821,6 +826,11 @@
         {
           "instanceId": 1987,
           "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1983,
+          "type": "CriticalDamage",
           "tier": "Megacharged"
         }
       ],
@@ -1258,7 +1268,7 @@
       "position": 20165
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "WEAPON_TITLE_Singularity",
     "tid": "TID_WEAPON_TITLE_Singularity",
@@ -1281,27 +1291,27 @@
     "weaponsCollected": 10
   },
   "tag": "#J0229QC",
-  "fetchedAt": "2026-07-16T03:00:35.224Z",
+  "fetchedAt": "2026-07-16T20:02:11.115Z",
   "rankings": {
     "currentLevel": {
-      "position": 559,
-      "total": 13270
+      "position": 2534,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 696,
-      "total": 13270
+      "position": 843,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 936,
-      "total": 13270
+      "position": 1033,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 227,
-      "total": 13270
+      "position": 3624,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 9888,
-      "total": 13270
+      "position": 9884,
+      "total": 15961
     }
   },
   "metricsHistory": [
@@ -1317,8 +1327,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 8840,
-        "total": 10628
+        "position": 8858,
+        "total": 10638
       }
     },
     {
@@ -1333,8 +1343,8 @@
         "rowId": 104
       },
       "rank": {
-        "position": 1,
-        "total": 9568
+        "position": 200,
+        "total": 9582
       }
     },
     {
@@ -1349,8 +1359,8 @@
         "rowId": 25
       },
       "rank": {
-        "position": 538,
-        "total": 1485
+        "position": 552,
+        "total": 1498
       }
     },
     {
@@ -1365,8 +1375,8 @@
         "rowId": 44
       },
       "rank": {
-        "position": 307,
-        "total": 2188
+        "position": 330,
+        "total": 2216
       }
     },
     {
@@ -1381,8 +1391,8 @@
         "rowId": 102
       },
       "rank": {
-        "position": 4684,
-        "total": 6221
+        "position": 4723,
+        "total": 6239
       }
     },
     {
@@ -1397,8 +1407,8 @@
         "rowId": 103
       },
       "rank": {
-        "position": 2257,
-        "total": 7084
+        "position": 2267,
+        "total": 7098
       }
     },
     {
@@ -1413,8 +1423,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 1205,
-        "total": 7263
+        "position": 1276,
+        "total": 7280
       }
     },
     {
@@ -1429,8 +1439,8 @@
         "rowId": 6
       },
       "rank": {
-        "position": 582,
-        "total": 2033
+        "position": 607,
+        "total": 2059
       }
     }
   ]

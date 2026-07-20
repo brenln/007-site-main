@@ -3,26 +3,26 @@
   "accountLow": 4002465,
   "accountId": "0-4002465",
   "name": "𝟘𝟘𝟟 | 𝕍𝕚𝕜",
-  "currentLevel": 103,
-  "careerLevel": 169,
+  "currentLevel": 4,
+  "careerLevel": 173,
   "collectorLevel": 6,
-  "eliteMerits": 37887,
+  "eliteMerits": 0,
   "hasElitePass": false,
-  "bannerId": 7000027,
+  "bannerId": 7000032,
   "title": {
     "high": 0,
-    "low": 5800056,
-    "rowId": 5800056
+    "low": 5800054,
+    "rowId": 5800054
   },
   "recentChars": [
     {
       "rowId": 6800130
     },
     {
-      "rowId": 6800066
+      "rowId": 6800057
     },
     {
-      "rowId": 6800057
+      "rowId": 6800066
     },
     {
       "rowId": 6800063
@@ -34,10 +34,10 @@
       "rowId": 6800130
     },
     {
-      "rowId": 6800066
+      "rowId": 6800057
     },
     {
-      "rowId": 6800057
+      "rowId": 6800066
     },
     {
       "rowId": 6800063
@@ -64,22 +64,6 @@
       }
     },
     {
-      "rowId": 66,
-      "resolved": {
-        "name": "ClassTechnoDancer4",
-        "tid": "TID_BADGE_CLASS_TITLE",
-        "fileId": 69,
-        "rowId": 66,
-        "label": "Weapon Mastery Badge",
-        "season": null,
-        "tier": 4,
-        "iconAsset": "icon_weapon_techno_fist",
-        "baseIconAsset": "badge_class",
-        "type": "TIERS",
-        "level": 3
-      }
-    },
-    {
       "rowId": 57,
       "resolved": {
         "name": "ClassArcher4",
@@ -90,6 +74,22 @@
         "season": null,
         "tier": 4,
         "iconAsset": "icon_weapon_speedshot",
+        "baseIconAsset": "badge_class",
+        "type": "TIERS",
+        "level": 3
+      }
+    },
+    {
+      "rowId": 66,
+      "resolved": {
+        "name": "ClassTechnoDancer4",
+        "tid": "TID_BADGE_CLASS_TITLE",
+        "fileId": 69,
+        "rowId": 66,
+        "label": "Weapon Mastery Badge",
+        "season": null,
+        "tier": 4,
+        "iconAsset": "icon_weapon_techno_fist",
         "baseIconAsset": "badge_class",
         "type": "TIERS",
         "level": 3
@@ -136,15 +136,6 @@
   ],
   "equippedGear": [
     {
-      "rowId": 2900882,
-      "resolved": {
-        "name": "elemedieval_mount_epic_01_a",
-        "tid": "TID_ELEMENTMEDIEVAL_MOUNT_01",
-        "fileId": 29,
-        "rowId": 882
-      }
-    },
-    {
       "rowId": 2900437,
       "resolved": {
         "name": "mount_fox_05",
@@ -154,25 +145,34 @@
       }
     },
     {
-      "rowId": 2922686,
-      "resolved": null
-    },
-    {
-      "rowId": 2900231,
+      "rowId": 2901007,
       "resolved": {
-        "name": "DragonlingStrongJumperV2Jump",
-        "tid": null,
+        "name": "prismaticbug_emoji_basic_04",
+        "tid": "TID_prismaticbug_emoji_basic_04",
         "fileId": 29,
-        "rowId": 231
+        "rowId": 1007
       }
     },
     {
-      "rowId": 2900284,
+      "rowId": 2900880,
       "resolved": {
-        "name": "DragonlingStrongJumperJumpTutorial",
+        "name": "candypunk_mount_legendary_01_a",
+        "tid": "TID_CANDYPUNK_MOUNT_01",
+        "fileId": 29,
+        "rowId": 880
+      }
+    },
+    {
+      "rowId": 2944576,
+      "resolved": null
+    },
+    {
+      "rowId": 2901906,
+      "resolved": {
+        "name": "DragonlingStrongChargerCharge_MountRace",
         "tid": null,
         "fileId": 29,
-        "rowId": 284
+        "rowId": 1906
       }
     }
   ],
@@ -192,7 +192,7 @@
     },
     {
       "rowId": 0,
-      "metric": 167049,
+      "metric": 171589,
       "scale": 1000,
       "resolved": {
         "name": "DamageDoneArcher",
@@ -201,8 +201,8 @@
         "rowId": 0
       },
       "rank": {
-        "position": 286,
-        "total": 722
+        "position": 275,
+        "total": 730
       }
     },
     {
@@ -216,8 +216,8 @@
         "rowId": 1
       },
       "rank": {
-        "position": 527,
-        "total": 744
+        "position": 537,
+        "total": 758
       }
     },
     {
@@ -231,13 +231,13 @@
         "rowId": 6
       },
       "rank": {
-        "position": 1039,
-        "total": 2033
+        "position": 1074,
+        "total": 2059
       }
     },
     {
       "rowId": 15,
-      "metric": 20771,
+      "metric": 20822,
       "scale": 1000,
       "resolved": {
         "name": "HealingDoneTechnoDancer",
@@ -246,13 +246,13 @@
         "rowId": 15
       },
       "rank": {
-        "position": 112,
-        "total": 392
+        "position": 115,
+        "total": 402
       }
     },
     {
       "rowId": 98,
-      "metric": 169934,
+      "metric": 171535,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -261,13 +261,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 1897,
-        "total": 10628
+        "position": 1884,
+        "total": 10638
       }
     },
     {
       "rowId": 28,
-      "metric": 83420,
+      "metric": 83423,
       "scale": 1,
       "resolved": {
         "name": "MonstersHuntedTechnoDancer",
@@ -276,13 +276,13 @@
         "rowId": 28
       },
       "rank": {
-        "position": 206,
-        "total": 1326
+        "position": 209,
+        "total": 1336
       }
     },
     {
       "rowId": 19,
-      "metric": 40988,
+      "metric": 42586,
       "scale": 1,
       "resolved": {
         "name": "MonstersHuntedArcher",
@@ -291,8 +291,8 @@
         "rowId": 19
       },
       "rank": {
-        "position": 253,
-        "total": 562
+        "position": 252,
+        "total": 565
       }
     },
     {
@@ -306,13 +306,13 @@
         "rowId": 20
       },
       "rank": {
-        "position": 356,
-        "total": 479
+        "position": 358,
+        "total": 480
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 169934,
+  "monstersHunted": 171535,
   "hunterSinceDay": 20617,
   "hunterSince": "2026-06-13",
   "battleKits": [
@@ -1248,50 +1248,50 @@
       "position": 20617
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
-    "name": "WEAPON_TITLE_TechnoFists",
-    "tid": "TID_WEAPON_TITLE_TechnoFists",
+    "name": "WEAPON_TITLE_SmartBow",
+    "tid": "TID_WEAPON_TITLE_SmartBow",
     "fileId": 58,
-    "rowId": 56,
+    "rowId": 54,
     "color": "#ffc000",
-    "text": "Techno Fists Expert"
+    "text": "Speedshot Expert"
   },
   "bannerResolved": {
-    "name": "Image-19",
-    "tid": "TID_cos_player_profile_background_image_19_wolfstick",
+    "name": "Image-24",
+    "tid": "TID_cos_player_profile_background_image_24",
     "fileId": 70,
-    "rowId": 27
+    "rowId": 32
   },
-  "bannerAsset": "banner_art_image_19",
+  "bannerAsset": "banner_art_image_24",
   "metrics": {
     "hunterSince": "2026-06-13",
     "hunterSinceDay": 20617,
-    "monstersHunted": 169934,
+    "monstersHunted": 171535,
     "weaponsCollected": 10
   },
   "tag": "#RJ22VCYL",
-  "fetchedAt": "2026-07-16T03:00:51.333Z",
+  "fetchedAt": "2026-07-16T20:02:20.302Z",
   "rankings": {
     "currentLevel": {
-      "position": 773,
-      "total": 13270
+      "position": 6877,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 2921,
-      "total": 13270
+      "position": 3654,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 8940,
-      "total": 13270
+      "position": 10193,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 1975,
-      "total": 13270
+      "position": 9326,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 1692,
-      "total": 13270
+      "position": 1679,
+      "total": 15961
     }
   },
   "metricsHistory": []

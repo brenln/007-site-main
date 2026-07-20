@@ -3,10 +3,10 @@
   "accountLow": 3720613,
   "accountId": "0-3720613",
   "name": "007 | JhokZ",
-  "currentLevel": 100,
-  "careerLevel": 176,
+  "currentLevel": 5,
+  "careerLevel": 181,
   "collectorLevel": 9,
-  "eliteMerits": 44055,
+  "eliteMerits": 500,
   "hasElitePass": false,
   "bannerId": 7000025,
   "title": {
@@ -196,13 +196,13 @@
         "rowId": 104
       },
       "rank": {
-        "position": 1,
-        "total": 9568
+        "position": 201,
+        "total": 9582
       }
     },
     {
       "rowId": 98,
-      "metric": 206962,
+      "metric": 208053,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -211,13 +211,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 1288,
-        "total": 10628
+        "position": 1291,
+        "total": 10638
       }
     },
     {
       "rowId": 102,
-      "metric": 446,
+      "metric": 467,
       "scale": 1,
       "resolved": {
         "name": "DefaultOAJobsCompleted",
@@ -226,13 +226,13 @@
         "rowId": 102
       },
       "rank": {
-        "position": 707,
-        "total": 6221
+        "position": 687,
+        "total": 6239
       }
     },
     {
       "rowId": 103,
-      "metric": 1960,
+      "metric": 1961,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -241,13 +241,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 529,
-        "total": 7084
+        "position": 535,
+        "total": 7098
       }
     },
     {
       "rowId": 99,
-      "metric": 9163,
+      "metric": 9197,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -256,8 +256,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 864,
-        "total": 7263
+        "position": 909,
+        "total": 7280
       }
     },
     {
@@ -271,8 +271,8 @@
         "rowId": 44
       },
       "rank": {
-        "position": 404,
-        "total": 2188
+        "position": 429,
+        "total": 2216
       }
     },
     {
@@ -286,8 +286,8 @@
         "rowId": 69
       },
       "rank": {
-        "position": 286,
-        "total": 1140
+        "position": 290,
+        "total": 1152
       }
     },
     {
@@ -301,13 +301,13 @@
         "rowId": 70
       },
       "rank": {
-        "position": 236,
-        "total": 323
+        "position": 240,
+        "total": 334
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 206962,
+  "monstersHunted": 208053,
   "hunterSinceDay": 20570,
   "hunterSince": "2026-04-27",
   "battleKits": [
@@ -1368,7 +1368,7 @@
       "position": 20570
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "WEAPON_TITLE_Squid",
     "tid": "TID_WEAPON_TITLE_Squid",
@@ -1387,31 +1387,31 @@
   "metrics": {
     "hunterSince": "2026-04-27",
     "hunterSinceDay": 20570,
-    "monstersHunted": 206962,
+    "monstersHunted": 208053,
     "weaponsCollected": 10
   },
   "tag": "#R0LVJG8P",
-  "fetchedAt": "2026-07-16T03:00:55.958Z",
+  "fetchedAt": "2026-07-16T20:02:22.899Z",
   "rankings": {
     "currentLevel": {
-      "position": 1282,
-      "total": 13270
+      "position": 6092,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 1186,
-      "total": 13270
+      "position": 1836,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 6049,
-      "total": 13270
+      "position": 6846,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 427,
-      "total": 13270
+      "position": 8773,
+      "total": 15961
     },
     "monstersHunted": {
       "position": 1147,
-      "total": 13270
+      "total": 15961
     }
   },
   "metricsHistory": [
@@ -1427,8 +1427,8 @@
         "rowId": 114
       },
       "rank": {
-        "position": 1872,
-        "total": 3585
+        "position": 1904,
+        "total": 3602
       }
     },
     {
@@ -1443,8 +1443,8 @@
         "rowId": 6
       },
       "rank": {
-        "position": 970,
-        "total": 2033
+        "position": 1001,
+        "total": 2059
       }
     },
     {
@@ -1459,8 +1459,8 @@
         "rowId": 25
       },
       "rank": {
-        "position": 873,
-        "total": 1485
+        "position": 890,
+        "total": 1498
       }
     }
   ]

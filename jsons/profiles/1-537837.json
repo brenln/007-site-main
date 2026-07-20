@@ -3,10 +3,10 @@
   "accountLow": 537837,
   "accountId": "1-537837",
   "name": "007 | Mr. Zero",
-  "currentLevel": 98,
-  "careerLevel": 172,
-  "collectorLevel": 9,
-  "eliteMerits": 40447,
+  "currentLevel": 10,
+  "careerLevel": 182,
+  "collectorLevel": 10,
+  "eliteMerits": 2244,
   "hasElitePass": false,
   "bannerId": 7000020,
   "title": {
@@ -127,12 +127,12 @@
       }
     },
     {
-      "rowId": 2900296,
+      "rowId": 2900284,
       "resolved": {
-        "name": "DragonlingRaidBoss1ChargeHard",
+        "name": "DragonlingStrongJumperJumpTutorial",
         "tid": null,
         "fileId": 29,
-        "rowId": 296
+        "rowId": 284
       }
     }
   ],
@@ -1203,7 +1203,7 @@
       "position": 20168
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "WEAPON_TITLE_Squid",
     "tid": "TID_WEAPON_TITLE_Squid",
@@ -1226,27 +1226,27 @@
     "weaponsCollected": 10
   },
   "tag": "#2PP028VC",
-  "fetchedAt": "2026-07-16T03:00:42.125Z",
+  "fetchedAt": "2026-07-16T20:02:15.119Z",
   "rankings": {
     "currentLevel": {
-      "position": 1860,
-      "total": 13270
+      "position": 2381,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 2040,
-      "total": 13270
+      "position": 1669,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 6049,
-      "total": 13270
+      "position": 5710,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 1060,
-      "total": 13270
+      "position": 3139,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 9888,
-      "total": 13270
+      "position": 9884,
+      "total": 15961
     }
   },
   "metricsHistory": []

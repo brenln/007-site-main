@@ -3,10 +3,10 @@
   "accountLow": 2014907,
   "accountId": "1-2014907",
   "name": "007 | Symon",
-  "currentLevel": 100,
-  "careerLevel": 176,
-  "collectorLevel": 15,
-  "eliteMerits": 45938,
+  "currentLevel": 8,
+  "careerLevel": 184,
+  "collectorLevel": 16,
+  "eliteMerits": 1899,
   "hasElitePass": false,
   "bannerId": 7000000,
   "title": {
@@ -70,19 +70,6 @@
       }
     },
     {
-      "rowId": 2901475,
-      "resolved": {
-        "name": "ElectricianHeal",
-        "tid": "TID_ELECTRICIAN_SKILL_4",
-        "fileId": 29,
-        "rowId": 1475
-      }
-    },
-    {
-      "rowId": 2902235,
-      "resolved": null
-    },
-    {
       "rowId": 2900885,
       "resolved": {
         "name": "dragonwear_mount_epic_01_b",
@@ -92,12 +79,25 @@
       }
     },
     {
-      "rowId": 2900296,
+      "rowId": 2900075,
       "resolved": {
-        "name": "DragonlingRaidBoss1ChargeHard",
+        "name": "DragonlingDungeonBossAoe",
         "tid": null,
         "fileId": 29,
-        "rowId": 296
+        "rowId": 75
+      }
+    },
+    {
+      "rowId": 2934324,
+      "resolved": null
+    },
+    {
+      "rowId": 2900284,
+      "resolved": {
+        "name": "DragonlingStrongJumperJumpTutorial",
+        "tid": null,
+        "fileId": 29,
+        "rowId": 284
       }
     }
   ],
@@ -1160,7 +1160,7 @@
       "position": 20287
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "Recruit",
     "tid": null,
@@ -1183,27 +1183,27 @@
     "weaponsCollected": 10
   },
   "tag": "#PUQ22R9C",
-  "fetchedAt": "2026-07-16T03:00:32.960Z",
+  "fetchedAt": "2026-07-16T20:02:09.476Z",
   "rankings": {
     "currentLevel": {
-      "position": 1282,
-      "total": 13270
+      "position": 2811,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 1186,
-      "total": 13270
+      "position": 1347,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 1816,
-      "total": 13270
+      "position": 1716,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 262,
-      "total": 13270
+      "position": 6638,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 9888,
-      "total": 13270
+      "position": 9884,
+      "total": 15961
     }
   },
   "metricsHistory": [
@@ -1219,8 +1219,8 @@
         "rowId": 104
       },
       "rank": {
-        "position": 1,
-        "total": 9568
+        "position": 200,
+        "total": 9582
       }
     },
     {
@@ -1248,8 +1248,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 443,
-        "total": 10628
+        "position": 453,
+        "total": 10638
       }
     },
     {
@@ -1264,8 +1264,8 @@
         "rowId": 102
       },
       "rank": {
-        "position": 2970,
-        "total": 6221
+        "position": 3087,
+        "total": 6239
       }
     },
     {
@@ -1280,8 +1280,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 246,
-        "total": 7263
+        "position": 281,
+        "total": 7280
       }
     },
     {
@@ -1297,7 +1297,7 @@
       },
       "rank": {
         "position": 15,
-        "total": 7084
+        "total": 7098
       }
     },
     {
@@ -1312,8 +1312,8 @@
         "rowId": 57
       },
       "rank": {
-        "position": 117,
-        "total": 343
+        "position": 118,
+        "total": 347
       }
     }
   ]

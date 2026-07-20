@@ -3,16 +3,16 @@
   "accountLow": 2948566,
   "accountId": "1-2948566",
   "name": "007 | Tetaao",
-  "currentLevel": 97,
-  "careerLevel": 159,
+  "currentLevel": 19,
+  "careerLevel": 178,
   "collectorLevel": 7,
-  "eliteMerits": 34156,
+  "eliteMerits": 2042,
   "hasElitePass": false,
   "bannerId": 7000020,
   "title": {
     "high": 0,
-    "low": 5800078,
-    "rowId": 5800078
+    "low": 5800136,
+    "rowId": 5800136
   },
   "recentChars": [
     {
@@ -154,10 +154,6 @@
       }
     },
     {
-      "rowId": 2903831,
-      "resolved": null
-    },
-    {
       "rowId": 2900612,
       "resolved": {
         "name": "CatBossTransformerMeleeWeapon",
@@ -167,16 +163,20 @@
       }
     },
     {
-      "rowId": 2900280,
+      "rowId": 2903831,
+      "resolved": null
+    },
+    {
+      "rowId": 2900284,
       "resolved": {
-        "name": "ShootingPlantAttackElite",
+        "name": "DragonlingStrongJumperJumpTutorial",
         "tid": null,
         "fileId": 29,
-        "rowId": 280
+        "rowId": 284
       }
     }
   ],
-  "extraSkinUuid": "79-f2f9448f-2dbe-4635-95d0-e023f9b8dd69",
+  "extraSkinUuid": null,
   "equippedTrackers": [
     {
       "rowId": 113,
@@ -192,7 +192,7 @@
     },
     {
       "rowId": 104,
-      "metric": 10,
+      "metric": 11,
       "scale": 1,
       "resolved": {
         "name": "DefaultClassesCollected",
@@ -202,12 +202,12 @@
       },
       "rank": {
         "position": 1,
-        "total": 9568
+        "total": 9582
       }
     },
     {
       "rowId": 98,
-      "metric": 73441,
+      "metric": 77502,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -216,13 +216,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 5332,
-        "total": 10628
+        "position": 5147,
+        "total": 10638
       }
     },
     {
       "rowId": 103,
-      "metric": 633,
+      "metric": 637,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -231,13 +231,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 2575,
-        "total": 7084
+        "position": 2578,
+        "total": 7098
       }
     },
     {
       "rowId": 99,
-      "metric": 3454,
+      "metric": 6006,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -246,13 +246,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 3473,
-        "total": 7263
+        "position": 1902,
+        "total": 7280
       }
     }
   ],
-  "weaponsCollected": 10,
-  "monstersHunted": 73441,
+  "weaponsCollected": 11,
+  "monstersHunted": 77502,
   "hunterSinceDay": 20325,
   "hunterSince": "2025-08-25",
   "battleKits": [
@@ -933,9 +933,9 @@
       "goldSkin": true,
       "equippedGems": [
         {
-          "instanceId": 1982,
+          "instanceId": 1983,
           "type": "CriticalDamage",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         },
         {
           "instanceId": 1990,
@@ -1215,6 +1215,111 @@
         "fileId": 67,
         "rowId": 14
       }
+    },
+    {
+      "kitId": 6700012,
+      "kitRow": 12,
+      "weaponSkin": 0,
+      "goldSkin": false,
+      "equippedGems": [
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Health",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1976,
+          "type": "Damage",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1978,
+          "type": "Damage",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1977,
+          "type": "Damage",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1979,
+          "type": "Damage",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2000,
+          "type": "HealingReceived",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2001,
+          "type": "HealingReceived",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1996,
+          "type": "Health",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1997,
+          "type": "Health",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1999,
+          "type": "Health",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1998,
+          "type": "Health",
+          "tier": "Overcharged"
+        }
+      ],
+      "resolved": {
+        "name": "Blood",
+        "tid": "TID_BLOOD",
+        "fileId": 67,
+        "rowId": 12
+      }
     }
   ],
   "lbPositions": [
@@ -1223,15 +1328,8 @@
       "position": 20325
     }
   ],
-  "unkConstant": 26000,
-  "titleResolved": {
-    "name": "FUN_TITLE_MEOW",
-    "tid": "TID_PLAYERTITLE_FUN_TITLE_MEOW",
-    "fileId": 58,
-    "rowId": 78,
-    "color": "#d3d3d3",
-    "text": "meow"
-  },
+  "unkConstant": 24000,
+  "titleResolved": null,
   "bannerResolved": {
     "name": "Image-12",
     "tid": "TID_default_banner_basic_19",
@@ -1242,31 +1340,31 @@
   "metrics": {
     "hunterSince": "2025-08-25",
     "hunterSinceDay": 20325,
-    "monstersHunted": 73441,
-    "weaponsCollected": 10
+    "monstersHunted": 77502,
+    "weaponsCollected": 11
   },
   "tag": "#Q89LUU9Q",
-  "fetchedAt": "2026-07-16T03:00:53.722Z",
+  "fetchedAt": "2026-07-16T20:02:21.537Z",
   "rankings": {
     "currentLevel": {
-      "position": 2173,
-      "total": 13270
+      "position": 1092,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 5857,
-      "total": 13270
+      "position": 2423,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 8013,
-      "total": 13270
+      "position": 9136,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 4080,
-      "total": 13270
+      "position": 5227,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 4807,
-      "total": 13270
+      "position": 4628,
+      "total": 15961
     }
   },
   "metricsHistory": []

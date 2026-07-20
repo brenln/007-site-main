@@ -23,6 +23,14 @@ body {
     flex-direction: column;
 }
 
+main {
+    flex: 1 0 auto;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
 header {
     position: absolute;
     top: 0;
@@ -138,6 +146,7 @@ header a {
 
 .conteudo{
     pointer-events: none;
+    padding-bottom: 100vh;
 }
 .conteudo h1{
     position: absolute;
@@ -449,6 +458,10 @@ footer{
     left: 25%;
   }
 
+  .conteudo {
+    padding-bottom: 130dvh;
+  }
+
   .conteudo h1 {
     position: absolute;
     top: 105%;
@@ -495,7 +508,6 @@ footer{
   }
 
   footer {
-    margin-top: 130dvh;
     padding: 20px 0;
   }
 }
@@ -562,6 +574,10 @@ footer{
     left: 25%;
   }
 
+  .conteudo {
+    padding-bottom: 130dvh;
+  }
+
   .conteudo h1 {
     position: absolute;
     top: 105%;
@@ -608,7 +624,6 @@ footer{
   }
 
   footer {
-    margin-top: 130dvh;
     padding: 20px 0;
   }
 }
@@ -753,8 +768,11 @@ footer{
     top: 90%;
   }
 
+  .conteudo {
+    padding-bottom: 40dvh;
+  }
+
   footer {
-    margin-top: 40dvh;
     padding: 20px 0;
   }
 
