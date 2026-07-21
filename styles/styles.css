@@ -709,7 +709,7 @@ footer{
   .conteudo {
     position: relative;
     z-index: 1;
-    margin-top: -120%;
+    margin-top: -160%;
   }
 
   .conteudo h1 {
@@ -761,11 +761,11 @@ footer{
   }
 
   #imagem-conteudo-2 {
-    top: -50%;
+    top: -35%;
   }
 
   #imagem-conteudo-3 {
-    top: 90%;
+    top: 60%;
   }
 
   .conteudo {
