@@ -20,8 +20,8 @@ const weaponMap = {
   'TechnoFists':            { img: 'techno_fists',             tipo: 'FAZ-TUDO',             tid: 'TECNOPUNHOS' },
   'WolfStick':              { img: 'wolf_stick',               tipo: 'INVOCADOR',            tid: 'BASTÃO-LOBO' },
   'Blood':                  { img: 'BloodWeapon',              tipo: 'DANO CORPO A CORPO',   tid: 'SANGUESSUGA' },
-  'ShotBow':                { img: 'ShotbowWeapon',            tipo: 'DANO À DISTÂNCIA',     tid: 'ARCO DE CHIFRE' },
   'Engineer':               { img: 'EngineerWeapon',           tipo: 'INVOCADOR',            tid: 'CHAVE-INGLESSA ESPECIAL' },
+  'Shotbow':                { img: 'ShotbowWeapon',            tipo: 'DANO À DISTÂNCIA',     tid: 'ARCO DE CHIFRE' },
 };
 
 const typeColor = {
