@@ -3,10 +3,10 @@
   "accountLow": 2863120,
   "accountId": "1-2863120",
   "name": "007 | Yodoi",
-  "currentLevel": 95,
-  "careerLevel": 171,
+  "currentLevel": 1,
+  "careerLevel": 172,
   "collectorLevel": 32,
-  "eliteMerits": 35031,
+  "eliteMerits": 0,
   "hasElitePass": false,
   "bannerId": 7000020,
   "title": {
@@ -185,7 +185,7 @@
       },
       "rank": {
         "position": 21,
-        "total": 152
+        "total": 157
       }
     },
     {
@@ -215,7 +215,7 @@
       },
       "rank": {
         "position": 12,
-        "total": 59
+        "total": 61
       }
     },
     {
@@ -230,7 +230,7 @@
       },
       "rank": {
         "position": 36,
-        "total": 104
+        "total": 106
       }
     }
   ],
@@ -1261,7 +1261,7 @@
       "position": 20320
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "ELITE_CH2",
     "tid": "TID_PLAYERTITLE_ELITE_CH2",
@@ -1284,27 +1284,27 @@
     "weaponsCollected": 10
   },
   "tag": "#LVPCQ9PY",
-  "fetchedAt": "2026-07-16T03:00:30.731Z",
+  "fetchedAt": "2026-07-16T20:02:07.759Z",
   "rankings": {
     "currentLevel": {
-      "position": 3034,
-      "total": 13270
+      "position": 7822,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 2310,
-      "total": 13270
+      "position": 3943,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 339,
-      "total": 13270
+      "position": 383,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 3575,
-      "total": 13270
+      "position": 9327,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 9888,
-      "total": 13270
+      "position": 9884,
+      "total": 15961
     }
   },
   "metricsHistory": [
@@ -1320,8 +1320,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 2522,
-        "total": 10628
+        "position": 2552,
+        "total": 10638
       }
     },
     {
@@ -1336,8 +1336,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 2132,
-        "total": 7263
+        "position": 2203,
+        "total": 7280
       }
     }
   ]

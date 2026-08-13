@@ -3,10 +3,10 @@
   "accountLow": 265054,
   "accountId": "1-265054",
   "name": "007 | .:Kakah:.",
-  "currentLevel": 110,
-  "careerLevel": 189,
+  "currentLevel": 11,
+  "careerLevel": 201,
   "collectorLevel": 14,
-  "eliteMerits": 40703,
+  "eliteMerits": 2214,
   "hasElitePass": false,
   "bannerId": 7000029,
   "title": {
@@ -28,7 +28,7 @@
       "rowId": 6800091
     },
     {
-      "rowId": 6800095
+      "rowId": 6800131
     },
     {
       "rowId": 6800096
@@ -43,7 +43,7 @@
       "rowId": 6800091
     },
     {
-      "rowId": 6800095
+      "rowId": 6800131
     }
   ],
   "showcaseBadges": [
@@ -112,18 +112,18 @@
       }
     },
     {
-      "rowId": 95,
+      "rowId": 131,
       "resolved": {
-        "name": "Skin_Collector",
-        "tid": "TID_BADGE_SKIN_COLLECTOR_TITLE",
+        "name": "TrophySeason3_1",
+        "tid": "TID_BADGE_TROPHY_TITLE",
         "fileId": 69,
-        "rowId": 95,
-        "label": "Collector Badge",
-        "season": null,
-        "tier": null,
+        "rowId": 131,
+        "label": "Elite Merit Badge",
+        "season": 3,
+        "tier": 1,
         "iconAsset": null,
-        "baseIconAsset": "badge_collector",
-        "type": "SKIN_COLLECTOR",
+        "baseIconAsset": "badge_trophy_03",
+        "type": "TIERS",
         "level": 0
       }
     }
@@ -131,30 +131,30 @@
   "ownedGems": [],
   "skinUuids": [
     "4b9f0096-6eff-3136-cea4-9531df6bf6ee",
-    "4b9f0096-8d88-a927-0dab-044fa85b21e3",
+    "4b9f0096-ec46-6a1f-4c56-066175cabe2c",
     "4b9f0096-3754-3c0a-77e6-2b31b46fe7e1"
   ],
   "equippedGear": [
     {
-      "rowId": 2900482,
+      "rowId": 2900763,
       "resolved": {
-        "name": "medieval_emote_epic_thumb",
-        "tid": "TID_MEDIEVAL_EMOTE_EPIC_THUMB",
+        "name": "InvasionPortalEventChapter2BeetleSummon2",
+        "tid": null,
         "fileId": 29,
-        "rowId": 482
+        "rowId": 763
       }
     },
     {
-      "rowId": 2933004,
+      "rowId": 2926118,
       "resolved": null
     },
     {
-      "rowId": 2900448,
+      "rowId": 2900882,
       "resolved": {
-        "name": "mount_lizard_01",
-        "tid": "TID_MOUNT_LIZARD_01",
+        "name": "elemedieval_mount_epic_01_a",
+        "tid": "TID_ELEMENTMEDIEVAL_MOUNT_01",
         "fileId": 29,
-        "rowId": 448
+        "rowId": 882
       }
     },
     {
@@ -167,16 +167,11 @@
       }
     },
     {
-      "rowId": 2901906,
-      "resolved": {
-        "name": "DragonlingStrongChargerCharge_MountRace",
-        "tid": null,
-        "fileId": 29,
-        "rowId": 1906
-      }
+      "rowId": 2902424,
+      "resolved": null
     }
   ],
-  "extraSkinUuid": null,
+  "extraSkinUuid": "71-40b4886c-c47c-4a79-a3bc-aae37fbb9517",
   "equippedTrackers": [
     {
       "rowId": 113,
@@ -192,7 +187,7 @@
     },
     {
       "rowId": 114,
-      "metric": 22,
+      "metric": 23,
       "scale": 1,
       "resolved": {
         "name": "DefaultDailyGoalMaxStreak",
@@ -202,12 +197,12 @@
       },
       "rank": {
         "position": 4,
-        "total": 3585
+        "total": 3602
       }
     },
     {
       "rowId": 98,
-      "metric": 543095,
+      "metric": 557782,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -216,13 +211,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 57,
-        "total": 10628
+        "position": 51,
+        "total": 10638
       }
     },
     {
       "rowId": 103,
-      "metric": 1839,
+      "metric": 1850,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -231,13 +226,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 617,
-        "total": 7084
+        "position": 618,
+        "total": 7098
       }
     },
     {
       "rowId": 99,
-      "metric": 20136,
+      "metric": 21633,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -246,13 +241,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 72,
-        "total": 7263
+        "position": 59,
+        "total": 7280
       }
     },
     {
       "rowId": 102,
-      "metric": 484,
+      "metric": 507,
       "scale": 1,
       "resolved": {
         "name": "DefaultOAJobsCompleted",
@@ -261,13 +256,13 @@
         "rowId": 102
       },
       "rank": {
-        "position": 14,
-        "total": 6221
+        "position": 15,
+        "total": 6239
       }
     }
   ],
-  "weaponsCollected": 10,
-  "monstersHunted": 543095,
+  "weaponsCollected": 11,
+  "monstersHunted": 557782,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -1310,6 +1305,111 @@
         "fileId": 67,
         "rowId": 14
       }
+    },
+    {
+      "kitId": 6700013,
+      "kitRow": 13,
+      "weaponSkin": 0,
+      "goldSkin": false,
+      "equippedGems": [
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        }
+      ],
+      "effectiveGems": [
+        {
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        }
+      ],
+      "ownedGems": [
+        {
+          "instanceId": 1984,
+          "type": "AttackSpeed",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1985,
+          "type": "AttackSpeed",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1986,
+          "type": "AttackSpeed",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1987,
+          "type": "AttackSpeed",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 1988,
+          "type": "Cooldown",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 1989,
+          "type": "Cooldown",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 1990,
+          "type": "Cooldown",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 1991,
+          "type": "Cooldown",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2000,
+          "type": "HealingReceived",
+          "tier": "Semi-charged"
+        },
+        {
+          "instanceId": 2001,
+          "type": "HealingReceived",
+          "tier": "Charged"
+        },
+        {
+          "instanceId": 2002,
+          "type": "HealingReceived",
+          "tier": "Overcharged"
+        },
+        {
+          "instanceId": 2003,
+          "type": "HealingReceived",
+          "tier": "Megacharged"
+        }
+      ],
+      "resolved": {
+        "name": "Engineer",
+        "tid": "TID_ENGINEER",
+        "fileId": 67,
+        "rowId": 13
+      }
     }
   ],
   "lbPositions": [
@@ -1318,7 +1418,7 @@
       "position": 20165
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "FUN_TITLE_MEGACHARGED",
     "tid": "TID_PLAYERTITLE_FUN_TITLE_MEGACHARGED",
@@ -1337,31 +1437,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 543095,
-    "weaponsCollected": 10
+    "monstersHunted": 557782,
+    "weaponsCollected": 11
   },
   "tag": "#R08P0VC",
-  "fetchedAt": "2026-07-16T03:00:37.448Z",
+  "fetchedAt": "2026-07-16T20:02:12.341Z",
   "rankings": {
     "currentLevel": {
-      "position": 249,
-      "total": 13270
+      "position": 1941,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 214,
-      "total": 13270
+      "position": 248,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 2189,
-      "total": 13270
+      "position": 2434,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 985,
-      "total": 13270
+      "position": 3337,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 53,
-      "total": 13270
+      "position": 49,
+      "total": 15961
     }
   },
   "metricsHistory": [
@@ -1377,8 +1477,8 @@
         "rowId": 104
       },
       "rank": {
-        "position": 1,
-        "total": 9568
+        "position": 200,
+        "total": 9582
       }
     },
     {
@@ -1394,7 +1494,7 @@
       },
       "rank": {
         "position": 6,
-        "total": 1326
+        "total": 1336
       }
     },
     {
@@ -1409,8 +1509,8 @@
         "rowId": 47
       },
       "rank": {
-        "position": 16,
-        "total": 1665
+        "position": 19,
+        "total": 1679
       }
     },
     {
@@ -1426,7 +1526,7 @@
       },
       "rank": {
         "position": 8,
-        "total": 792
+        "total": 798
       }
     }
   ]

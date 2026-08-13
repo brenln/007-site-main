@@ -3,10 +3,10 @@
   "accountLow": 255519,
   "accountId": "1-255519",
   "name": "007 | 𝐌𝒊𝒈𝑢",
-  "currentLevel": 81,
-  "careerLevel": 153,
+  "currentLevel": 1,
+  "careerLevel": 154,
   "collectorLevel": 14,
-  "eliteMerits": 28821,
+  "eliteMerits": 500,
   "hasElitePass": false,
   "bannerId": 7000030,
   "title": {
@@ -201,13 +201,13 @@
         "rowId": 104
       },
       "rank": {
-        "position": 1,
-        "total": 9568
+        "position": 200,
+        "total": 9582
       }
     },
     {
       "rowId": 98,
-      "metric": 64762,
+      "metric": 65026,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -216,13 +216,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 5870,
-        "total": 10628
+        "position": 5882,
+        "total": 10638
       }
     },
     {
       "rowId": 103,
-      "metric": 276,
+      "metric": 277,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -231,13 +231,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 4678,
-        "total": 7084
+        "position": 4695,
+        "total": 7098
       }
     },
     {
       "rowId": 99,
-      "metric": 2036,
+      "metric": 2041,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -246,13 +246,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 5095,
-        "total": 7263
+        "position": 5156,
+        "total": 7280
       }
     },
     {
       "rowId": 102,
-      "metric": 220,
+      "metric": 223,
       "scale": 1,
       "resolved": {
         "name": "DefaultOAJobsCompleted",
@@ -261,8 +261,8 @@
         "rowId": 102
       },
       "rank": {
-        "position": 3982,
-        "total": 6221
+        "position": 4022,
+        "total": 6239
       }
     },
     {
@@ -276,13 +276,13 @@
         "rowId": 114
       },
       "rank": {
-        "position": 2671,
-        "total": 3585
+        "position": 2693,
+        "total": 3602
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 64762,
+  "monstersHunted": 65026,
   "hunterSinceDay": 20165,
   "hunterSince": "2025-03-18",
   "battleKits": [
@@ -1188,7 +1188,7 @@
       "position": 20165
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "FUN_EVENT_01",
     "tid": "TID_PLAYERTITLE_FUN_EVENT_01",
@@ -1207,31 +1207,31 @@
   "metrics": {
     "hunterSince": "2025-03-18",
     "hunterSinceDay": 20165,
-    "monstersHunted": 64762,
+    "monstersHunted": 65026,
     "weaponsCollected": 10
   },
   "tag": "#GRGJQ2Q",
-  "fetchedAt": "2026-07-16T03:00:44.263Z",
+  "fetchedAt": "2026-07-16T20:02:16.463Z",
   "rankings": {
     "currentLevel": {
-      "position": 7518,
-      "total": 13270
+      "position": 7822,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 6785,
-      "total": 13270
+      "position": 8201,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 2189,
-      "total": 13270
+      "position": 2434,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 6508,
-      "total": 13270
+      "position": 8774,
+      "total": 15961
     },
     "monstersHunted": {
       "position": 5300,
-      "total": 13270
+      "total": 15961
     }
   },
   "metricsHistory": []

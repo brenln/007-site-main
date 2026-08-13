@@ -3,10 +3,10 @@
   "accountLow": 277697,
   "accountId": "1-277697",
   "name": "007 | IceAngell",
-  "currentLevel": 85,
-  "careerLevel": 158,
+  "currentLevel": 1,
+  "careerLevel": 159,
   "collectorLevel": 10,
-  "eliteMerits": 25320,
+  "eliteMerits": 0,
   "hasElitePass": false,
   "bannerId": 7000024,
   "title": {
@@ -201,8 +201,8 @@
         "rowId": 98
       },
       "rank": {
-        "position": 5019,
-        "total": 10628
+        "position": 5055,
+        "total": 10638
       }
     },
     {
@@ -216,8 +216,8 @@
         "rowId": 99
       },
       "rank": {
-        "position": 3619,
-        "total": 7263
+        "position": 3697,
+        "total": 7280
       }
     },
     {
@@ -231,8 +231,8 @@
         "rowId": 103
       },
       "rank": {
-        "position": 3943,
-        "total": 7084
+        "position": 3975,
+        "total": 7098
       }
     },
     {
@@ -246,8 +246,8 @@
         "rowId": 33
       },
       "rank": {
-        "position": 171,
-        "total": 304
+        "position": 175,
+        "total": 307
       }
     },
     {
@@ -261,8 +261,8 @@
         "rowId": 102
       },
       "rank": {
-        "position": 3897,
-        "total": 6221
+        "position": 3954,
+        "total": 6239
       }
     },
     {
@@ -276,8 +276,8 @@
         "rowId": 52
       },
       "rank": {
-        "position": 200,
-        "total": 331
+        "position": 201,
+        "total": 335
       }
     },
     {
@@ -291,8 +291,8 @@
         "rowId": 85
       },
       "rank": {
-        "position": 161,
-        "total": 219
+        "position": 163,
+        "total": 223
       }
     },
     {
@@ -306,8 +306,8 @@
         "rowId": 11
       },
       "rank": {
-        "position": 315,
-        "total": 414
+        "position": 316,
+        "total": 418
       }
     }
   ],
@@ -1248,7 +1248,7 @@
       "position": 20165
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "WEAPON_TITLE_REALITYBREAKER",
     "tid": "TID_PLAYERTITLE_WEAPON_TITLE_REALITYBREAKER",
@@ -1271,27 +1271,27 @@
     "weaponsCollected": 10
   },
   "tag": "#RL8QGP2",
-  "fetchedAt": "2026-07-16T03:00:46.526Z",
+  "fetchedAt": "2026-07-16T20:02:17.670Z",
   "rankings": {
     "currentLevel": {
-      "position": 6911,
-      "total": 13270
+      "position": 7822,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 6060,
-      "total": 13270
+      "position": 7459,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 5050,
-      "total": 13270
+      "position": 5710,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 7383,
-      "total": 13270
+      "position": 9326,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 4519,
-      "total": 13270
+      "position": 4545,
+      "total": 15961
     }
   },
   "metricsHistory": []

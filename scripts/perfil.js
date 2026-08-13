@@ -22,6 +22,9 @@ const weaponMap = {
   'Blood':                  { img: 'BloodWeapon',              tipo: 'DANO CORPO A CORPO',   tid: 'SANGUESSUGA' },
   'ShotBow':                { img: 'ShotbowWeapon',            tipo: 'DANO À DISTÂNCIA',     tid: 'ARCO DE CHIFRE' },
   'Engineer':               { img: 'EngineerWeapon',           tipo: 'INVOCADOR',            tid: 'CHAVE-INGLESSA ESPECIAL' },
+  'Flamer':                 { img: 'pyro',                     tipo: 'DANO À DISTÂNCIA',     tid: 'FAGULHA' },
+  'Spinsickle':             { img: 'SpinWeapon',               tipo: 'FAZ-TUDO',             tid: 'TEMPESTADOR' },
+  'MedicineBall':           { img: 'medicine_ball',            tipo: 'CURADOR',              tid: 'CLAVA CURATIVA' },
 };
 
 const typeColor = {

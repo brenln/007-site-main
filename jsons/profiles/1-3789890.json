@@ -3,12 +3,12 @@
   "accountLow": 3789890,
   "accountId": "1-3789890",
   "name": "007 | STITCH",
-  "currentLevel": 102,
-  "careerLevel": 176,
+  "currentLevel": 7,
+  "careerLevel": 183,
   "collectorLevel": 6,
-  "eliteMerits": 43660,
+  "eliteMerits": 2053,
   "hasElitePass": false,
-  "bannerId": 7000027,
+  "bannerId": 7000033,
   "title": {
     "high": 0,
     "low": 5800074,
@@ -19,7 +19,7 @@
       "rowId": 0
     },
     {
-      "rowId": 6800130
+      "rowId": 6800131
     },
     {
       "rowId": 6800096
@@ -34,7 +34,7 @@
       "rowId": 0
     },
     {
-      "rowId": 6800130
+      "rowId": 6800131
     },
     {
       "rowId": 6800096
@@ -49,19 +49,19 @@
   "showcaseBadges": [
     null,
     {
-      "rowId": 130,
+      "rowId": 131,
       "resolved": {
-        "name": "TrophySeason2_12",
+        "name": "TrophySeason3_1",
         "tid": "TID_BADGE_TROPHY_TITLE",
         "fileId": 69,
-        "rowId": 130,
+        "rowId": 131,
         "label": "Elite Merit Badge",
-        "season": 2,
-        "tier": 12,
+        "season": 3,
+        "tier": 1,
         "iconAsset": null,
-        "baseIconAsset": "badge_trophy_02",
+        "baseIconAsset": "badge_trophy_03",
         "type": "TIERS",
-        "level": 11
+        "level": 0
       }
     },
     {
@@ -102,35 +102,25 @@
   "skinUuids": [
     "4b9f0096-7606-b721-36de-d369d136fbf7",
     "4b9f0096-ec46-6a1f-4c56-066175cabe2c",
-    "4b9f0096-1723-2356-7703-a48d2fc83608"
+    "4b9f0096-3754-3c0a-77e6-2b31b46fe7e1"
   ],
   "equippedGear": [
     {
-      "rowId": 2901228,
+      "rowId": 2900875,
       "resolved": {
-        "name": "noirnight_emoji_basic_01",
-        "tid": "TID_noirnight_emoji_basic_01",
+        "name": "ChaosStatueSpin",
+        "tid": null,
         "fileId": 29,
-        "rowId": 1228
+        "rowId": 875
       }
     },
     {
-      "rowId": 2901139,
-      "resolved": {
-        "name": "EventComboGem",
-        "tid": "TID_COMBO_GEM_EVENT",
-        "fileId": 29,
-        "rowId": 1139
-      }
+      "rowId": 2902800,
+      "resolved": null
     },
     {
-      "rowId": 2900888,
-      "resolved": {
-        "name": "streetdroid_mount_basic_01_a",
-        "tid": "TID_STREETDROID_MOUNT_01",
-        "fileId": 29,
-        "rowId": 888
-      }
+      "rowId": 2902729,
+      "resolved": null
     },
     {
       "rowId": 2900437,
@@ -150,7 +140,7 @@
   "equippedTrackers": [
     {
       "rowId": 102,
-      "metric": 369,
+      "metric": 376,
       "scale": 1,
       "resolved": {
         "name": "DefaultOAJobsCompleted",
@@ -159,8 +149,8 @@
         "rowId": 102
       },
       "rank": {
-        "position": 2042,
-        "total": 6221
+        "position": 2057,
+        "total": 6239
       }
     },
     {
@@ -186,13 +176,13 @@
         "rowId": 104
       },
       "rank": {
-        "position": 1,
-        "total": 9568
+        "position": 200,
+        "total": 9582
       }
     },
     {
       "rowId": 98,
-      "metric": 278599,
+      "metric": 280672,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -202,12 +192,12 @@
       },
       "rank": {
         "position": 632,
-        "total": 10628
+        "total": 10638
       }
     },
     {
       "rowId": 103,
-      "metric": 1169,
+      "metric": 1171,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -216,13 +206,13 @@
         "rowId": 103
       },
       "rank": {
-        "position": 1245,
-        "total": 7084
+        "position": 1251,
+        "total": 7098
       }
     },
     {
       "rowId": 99,
-      "metric": 10868,
+      "metric": 11027,
       "scale": 1,
       "resolved": {
         "name": "DefaultBossesHunted",
@@ -231,13 +221,13 @@
         "rowId": 99
       },
       "rank": {
-        "position": 590,
-        "total": 7263
+        "position": 631,
+        "total": 7280
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 278599,
+  "monstersHunted": 280672,
   "hunterSinceDay": 20596,
   "hunterSince": "2026-05-23",
   "battleKits": [
@@ -993,9 +983,9 @@
           "tier": "Megacharged"
         },
         {
-          "instanceId": 2005,
+          "instanceId": 2007,
           "type": "Dodge",
-          "tier": "Charged"
+          "tier": "Megacharged"
         }
       ],
       "effectiveGems": [
@@ -1009,7 +999,7 @@
         },
         {
           "type": "Dodge",
-          "tier": "Overcharged"
+          "tier": "Megacharged"
         }
       ],
       "ownedGems": [
@@ -1066,6 +1056,11 @@
         {
           "instanceId": 1995,
           "type": "Healing",
+          "tier": "Megacharged"
+        },
+        {
+          "instanceId": 2007,
+          "type": "Dodge",
           "tier": "Megacharged"
         }
       ],
@@ -1293,7 +1288,7 @@
       "position": 20596
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "PLAYER_TITLE_MIN",
     "tid": "TID_PLAYERTITLE_MIN",
@@ -1303,40 +1298,40 @@
     "text": "K-POP FAN"
   },
   "bannerResolved": {
-    "name": "Image-19",
-    "tid": "TID_cos_player_profile_background_image_19_wolfstick",
+    "name": "Image-25",
+    "tid": "TID_cos_player_profile_background_image_25",
     "fileId": 70,
-    "rowId": 27
+    "rowId": 33
   },
-  "bannerAsset": "banner_art_image_19",
+  "bannerAsset": "banner_art_image_25",
   "metrics": {
     "hunterSince": "2026-05-23",
     "hunterSinceDay": 20596,
-    "monstersHunted": 278599,
+    "monstersHunted": 280672,
     "weaponsCollected": 10
   },
   "tag": "#R8CVYJYC",
-  "fetchedAt": "2026-07-16T03:00:48.946Z",
+  "fetchedAt": "2026-07-16T20:02:18.837Z",
   "rankings": {
     "currentLevel": {
-      "position": 900,
-      "total": 13270
+      "position": 3269,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 1186,
-      "total": 13270
+      "position": 1503,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 8940,
-      "total": 13270
+      "position": 10193,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 472,
-      "total": 13270
+      "position": 5092,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 567,
-      "total": 13270
+      "position": 565,
+      "total": 15961
     }
   },
   "metricsHistory": []

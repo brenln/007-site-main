@@ -3,12 +3,12 @@
   "accountLow": 1819407,
   "accountId": "1-1819407",
   "name": "007 | brenin",
-  "currentLevel": 99,
-  "careerLevel": 176,
+  "currentLevel": 8,
+  "careerLevel": 184,
   "collectorLevel": 15,
-  "eliteMerits": 43392,
+  "eliteMerits": 2182,
   "hasElitePass": false,
-  "bannerId": 7000020,
+  "bannerId": 7000033,
   "title": {
     "high": 0,
     "low": 5800063,
@@ -112,12 +112,12 @@
       }
     },
     {
-      "rowId": 2900296,
+      "rowId": 2900284,
       "resolved": {
-        "name": "DragonlingRaidBoss1ChargeHard",
+        "name": "DragonlingStrongJumperJumpTutorial",
         "tid": null,
         "fileId": 29,
-        "rowId": 296
+        "rowId": 284
       }
     }
   ],
@@ -137,7 +137,7 @@
     },
     {
       "rowId": 98,
-      "metric": 275990,
+      "metric": 277255,
       "scale": 1,
       "resolved": {
         "name": "DefaultMonstersHunted",
@@ -146,13 +146,13 @@
         "rowId": 98
       },
       "rank": {
-        "position": 645,
-        "total": 10628
+        "position": 650,
+        "total": 10638
       }
     },
     {
       "rowId": 103,
-      "metric": 2137,
+      "metric": 2139,
       "scale": 1,
       "resolved": {
         "name": "DefaultRiftsCompleted",
@@ -161,8 +161,8 @@
         "rowId": 103
       },
       "rank": {
-        "position": 429,
-        "total": 7084
+        "position": 434,
+        "total": 7098
       }
     },
     {
@@ -176,13 +176,13 @@
         "rowId": 76
       },
       "rank": {
-        "position": 61,
-        "total": 131
+        "position": 62,
+        "total": 134
       }
     }
   ],
   "weaponsCollected": 10,
-  "monstersHunted": 275990,
+  "monstersHunted": 277255,
   "hunterSinceDay": 20281,
   "hunterSince": "2025-07-12",
   "battleKits": [
@@ -1243,7 +1243,7 @@
       "position": 20281
     }
   ],
-  "unkConstant": 26000,
+  "unkConstant": 24000,
   "titleResolved": {
     "name": "WEAPON_TITLE_Squid",
     "tid": "TID_WEAPON_TITLE_Squid",
@@ -1253,40 +1253,40 @@
     "text": "Squid Blades Expert"
   },
   "bannerResolved": {
-    "name": "Image-12",
-    "tid": "TID_default_banner_basic_19",
+    "name": "Image-25",
+    "tid": "TID_cos_player_profile_background_image_25",
     "fileId": 70,
-    "rowId": 20
+    "rowId": 33
   },
-  "bannerAsset": "banner_art_image_12",
+  "bannerAsset": "banner_art_image_25",
   "metrics": {
     "hunterSince": "2025-07-12",
     "hunterSinceDay": 20281,
-    "monstersHunted": 275990,
+    "monstersHunted": 277255,
     "weaponsCollected": 10
   },
   "tag": "#PYU0PGPR",
-  "fetchedAt": "2026-07-16T03:00:20.306Z",
+  "fetchedAt": "2026-07-16T20:01:59.020Z",
   "rankings": {
     "currentLevel": {
-      "position": 1614,
-      "total": 13270
+      "position": 2812,
+      "total": 15961
     },
     "careerLevel": {
-      "position": 1186,
-      "total": 13270
+      "position": 1347,
+      "total": 15961
     },
     "collectorLevel": {
-      "position": 1816,
-      "total": 13270
+      "position": 2025,
+      "total": 15961
     },
     "eliteMerits": {
-      "position": 505,
-      "total": 13270
+      "position": 3613,
+      "total": 15961
     },
     "monstersHunted": {
-      "position": 579,
-      "total": 13270
+      "position": 582,
+      "total": 15961
     }
   },
   "metricsHistory": []
